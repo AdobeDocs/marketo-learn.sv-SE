@@ -2,9 +2,9 @@
 user-guide-title: Marketo Engage Tutorials
 user-guide-description: En samling videor och självstudiekurser för Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage Tutorials
-source-git-commit: 03c055f28897708262f82ea9addf0b59b691c735
+source-git-commit: 0684c5bdea44a6852e7b889eeb3c6ab11419da96
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -77,3 +77,5 @@ ht-degree: 0%
 + Instanshantering {#instance-management}
    + [God praxis](instance-management/best-practice-learn.md)
    + [Bästa metoder att gå igenom](instance-management/best-practice-watch.md)
++ Händelser {#events}
+   + [Betyg för lead](events/lead-scoring.md)
