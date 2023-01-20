@@ -2,9 +2,9 @@
 user-guide-title: Marketo Engage Tutorials
 user-guide-description: En samling videor och självstudiekurser för Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage Tutorials
-source-git-commit: 5db8b7cf5855df56e9fca79ca3a0b3fed3300537
+source-git-commit: 9f0328f2770b66a1e0695772a35c698c4268906d
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -14,8 +14,6 @@ ht-degree: 0%
 
 + [[!DNL Marketo Engage] självstudiekurser](overview.md)
 + Flerkanalsmarknadsföring {#cross-channel-marketing}
-   + [Händelser](email-marketing/events-learn.md)
-   + [Evenemang som går igenom](email-marketing/events-watch.md)
    + [Integrera mobil marknadsföring](cross-channel-marketing/mobile-marketing-learn.md)
    + [Genomgång av mobil marknadsföring](cross-channel-marketing/mobile-marketing-watch.md)
    + [Social marknadsföring](cross-channel-marketing/social-marketing-learn.md)
@@ -24,10 +22,8 @@ ht-degree: 0%
    + [Genomgång av personalisering på webben](cross-channel-marketing/web-personalization-watch.md)
    + [SEO och PPC](cross-channel-marketing/seo-and-ppc-learn.md)
    + [SEO och PPC-genomgång](cross-channel-marketing/seo-and-ppc-watch.md)
-   + [Webbinarier](email-marketing/webinar-learn.md)
-   + [Genomgång av webbinarier](email-marketing/webinar-watch.md)
 + Dynamiskt chatt {#dynamic-chat}
-   + [[!UICONTROL Dynamic Chat] självstudiekurser](dynamic-chat/dynamic-chat-overview.md)
+   + [Självstudiekurser om dynamiskt chatt](dynamic-chat/dynamic-chat-overview.md)
    + [Demo](dynamic-chat/product-tour.md)
    + [Installera](dynamic-chat/setup.md)
    + [Integrering med Marketo](dynamic-chat/marketo-integration.md)
