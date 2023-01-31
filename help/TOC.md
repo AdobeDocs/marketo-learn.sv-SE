@@ -2,9 +2,9 @@
 user-guide-title: Marketo Engage Tutorials
 user-guide-description: En samling videor och självstudiekurser för Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage Tutorials
-source-git-commit: 9f0328f2770b66a1e0695772a35c698c4268906d
+source-git-commit: d7ba42d21f09ed3793b0cc0b2da0b5b760b21fa1
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -69,7 +69,6 @@ ht-degree: 0%
 + Lead- och datahantering {#lead-and-data-management}
    + [Resultatbedömning](lead-and-data-management/lead-scoring-learn.md)
    + [Genomgång av poäng för poäng](lead-and-data-management/lead-scoring-watch.md)
-   + [Exempel på poängsättning av leads](lead-and-data-management/lead-scoring.md)
    + [Prenumerationscentral](lead-and-data-management/subscription-center-learn.md)
    + [Prenumerationscentral - genomgång](lead-and-data-management/subscription-center-watch.md)
    + [CRM-synkronisering](lead-and-data-management/crm-sync-learn.md)
@@ -80,3 +79,6 @@ ht-degree: 0%
    + [Översikt över Säljåtgärder](sales-insight-actions/sales-insight-actions-overview.md)
    + [Få åtkomst till instansen Sales Insight Actions](sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
    + [Konfigurera loggning av försäljningsaktivitet för [!DNL Salesforce]](sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
++ Dold {#hidden}
+   + [Marketo och Mochas Lead Scoring](events/marketo-and-mochas/lead-scoring.md)
+   + [Marketo och Mochas Marketo Measure Attribution](events/marketo-and-mochas/attribution.md)
