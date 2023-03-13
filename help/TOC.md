@@ -2,9 +2,9 @@
 user-guide-title: Självstudiekurser om Marketo Engage
 user-guide-description: En samling videor och självstudiekurser om Adobe Marketo Engage.
 breadcrumb-title: Självstudiekurser om Marketo Engage
-source-git-commit: 9a8c7a218fc59bb80941881246864c87ff25c55a
+source-git-commit: aec1c347ee9aefbe4f022cbb5e14cbd222828d4a
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '208'
 ht-degree: 7%
 
 ---
@@ -77,7 +77,7 @@ ht-degree: 7%
    + [God praxis](instance-management/best-practice-learn.md)
    + [Bästa metoder att gå igenom](instance-management/best-practice-watch.md)
 + Händelser {#events}
-   + [Händelser](events/events-learn.md)
+   + [Skapa ett händelseprogram](events/events-learn.md)
    + [Designa ett effektivt interaktivt webbinarium](events/design-an-effective-interactive-webinar.md)
 + Dold {#hidden}
    + [Marketo och Mochas Lead Scoring](event-recordings/marketo-and-mochas/lead-scoring.md)
