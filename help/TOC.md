@@ -2,10 +2,10 @@
 user-guide-title: Självstudiekurser om Marketo Engage
 user-guide-description: En samling videor och självstudiekurser om Adobe Marketo Engage.
 breadcrumb-title: Självstudiekurser om Marketo Engage
-source-git-commit: aec1c347ee9aefbe4f022cbb5e14cbd222828d4a
+source-git-commit: c80c10f57e7f3679a90251251f31ebdc1b271713
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 7%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -38,7 +38,6 @@ ht-degree: 7%
    + [Dynamiskt och prediktivt innehåll](email-marketing/dynamic-and-predictive-content-learn.md)
    + [Filtrera aktiviteter för e-postrobot - Inställningar](filtering-email-bot-activities/setup.md)
 + Flerkanalsmarknadsföring {#cross-channel-marketing}
-   + [Evenemang som går igenom](events/events-watch.md)
    + [Forms genomgång](email-marketing/forms-watch.md)
    + [Integrera mobil marknadsföring](cross-channel-marketing/mobile-marketing-learn.md)
    + [Genomgång av mobil marknadsföring](cross-channel-marketing/mobile-marketing-watch.md)
@@ -46,8 +45,6 @@ ht-degree: 7%
    + [SEO och PPC-genomgång](cross-channel-marketing/seo-and-ppc-watch.md)
    + [Social marknadsföring](cross-channel-marketing/social-marketing-learn.md)
    + [Genomgång av social marknadsföring](cross-channel-marketing/social-marketing-watch.md)
-   + [Webbinarier](events/webinar-learn.md)
-   + [Genomgång av webbinarier](events/webinar-watch.md)
    + [Webbanpassning](cross-channel-marketing/web-personalization-learn.md)
    + [Genomgång av personalisering på webben](cross-channel-marketing/web-personalization-watch.md)
 + Dynamiskt chatt {#dynamic-chat}
@@ -77,7 +74,10 @@ ht-degree: 7%
    + [God praxis](instance-management/best-practice-learn.md)
    + [Bästa metoder att gå igenom](instance-management/best-practice-watch.md)
 + Händelser {#events}
+   + [Evenemang som går igenom](events/events-watch.md)
    + [Skapa ett händelseprogram](events/events-learn.md)
+   + [Webbinarier](events/webinar-learn.md)
+   + [Genomgång av webbinarier](events/webinar-watch.md)
    + [Designa ett effektivt interaktivt webbinarium](events/design-an-effective-interactive-webinar.md)
 + Dold {#hidden}
    + [Marketo och Mochas Lead Scoring](event-recordings/marketo-and-mochas/lead-scoring.md)
