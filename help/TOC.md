@@ -2,10 +2,10 @@
 user-guide-title: Självstudiekurser om Marketo Engage
 user-guide-description: En samling videor och självstudiekurser om Adobe Marketo Engage.
 breadcrumb-title: Självstudiekurser om Marketo Engage
-source-git-commit: c5b64aee7dad048693b846c65c32f215a767ba29
+source-git-commit: 534c5bdc8597e2b9b780218c81af48ce1b359b5b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '214'
+ht-degree: 7%
 
 ---
 
@@ -57,6 +57,12 @@ ht-degree: 0%
    + [Mötesbokningar](dynamic-chat/meeting-booking.md)
    + [Publicera på 15 minuter](dynamic-chat/go-live-in-15-minutes.md)
    + [Bädda in PDF i konversationer](dynamic-chat/document-cloud-integration.md)
+   + [Sök i Stream Designer](dynamic-chat/search-in-stream-designer.md)
+   + [Hämta härledda attribut](dynamic-chat/capture-inferred-attributes.md)
+   + [Förhandsgranska dialogruta](dynamic-chat/dialogue-preview.md)
+   + [Åtaganderapport](dynamic-chat/engagement-report.md)
+   + [Globalisering av statiskt innehåll](dynamic-chat/globalization-of-static-content.md)
+   + [Roller och behörigheter](dynamic-chat/roles-and-permissions.md)
 + Försäljningsinsikter {#sales-insight-actions}
    + [Översikt](sales-insight-actions/overview.md)
    + [Översikt över Säljåtgärder](sales-insight-actions/sales-insight-actions-overview.md)
