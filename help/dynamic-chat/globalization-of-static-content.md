@@ -7,7 +7,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-03-20T00:00:00Z
 jira: KT-12966
 thumbnail: 3416924.jpeg
-source-git-commit: 2d78284e9263654ed23c2e791beaa19197e1c7fe
+source-git-commit: 9bba0f24a492fdd5b21b30f605498b7519cd8200
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Globalisering av statiskt innehåll
 
-Du kanske redan vet hur du kan skapa en icke-engelsk dialogruta (om du inte markerar det) [här](https://nation.marketo.com/t5/dynamic-chat-discussion/design-non-english-language-conversations-in-dynamic-chat/m-p/324317#M39)). Nu kan du till och med anpassa statiskt/systemanpassat innehåll till det språk du föredrar.
+Du kanske redan vet hur du kan skapa en icke-engelsk dialog (om inte, [klicka här](https://nation.marketo.com/t5/dynamic-chat-discussion/design-non-english-language-conversations-in-dynamic-chat/m-p/324317#M39){target="_blank"}). Du kan anpassa statiskt innehåll/systeminnehåll efter det språk du väljer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416924/?quality=12&learn=on)
 

@@ -3,9 +3,9 @@ title: Tutorials för Sales Insight Actions
 description: Använd [!UICONTROL Sales Insight Actions] för att snabba upp prospekteringsarbetet med marknadsföringsbaserade verktyg för analys och engagemang i ett enda arbetsflöde.
 doc-type: overview-page
 exl-id: fac23fde-1fc8-4710-a5f5-2e19a2618d6d
-source-git-commit: 5a65ad7660a368a10e31b76ec81594304c304cc9
+source-git-commit: 9bba0f24a492fdd5b21b30f605498b7519cd8200
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -49,8 +49,8 @@ Använd [!UICONTROL Sales Insight Actions] för att snabba upp prospekteringsarb
 <p><em>Snabba upp prospekteringsarbetet med marknadsföringsbaserade verktyg för analys och engagemang.</em></p>
 </td>
 <td>
-<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.html"><img alt="miniatyrbild för [!DNL Sales Insight Actions] Handbok för användarintroduktion" src="assets/sales-insight-actions-user-onboarding-guide-thumb.png" /></a>
-<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.html"><strong>[!DNL Sales Insight Actions] Handbok för användarintroduktion</strong></a></div>
+<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><img alt="miniatyrbild för [!DNL Sales Insight Actions] Handbok för användarintroduktion" src="assets/sales-insight-actions-user-onboarding-guide-thumb.png" /></a>
+<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><strong>[!DNL Sales Insight Actions] Handbok för användarintroduktion</strong></a></div>
 <p><em>Steg som nya användare måste följa för att komma igång.</em></p>
 </td>
 <td>
