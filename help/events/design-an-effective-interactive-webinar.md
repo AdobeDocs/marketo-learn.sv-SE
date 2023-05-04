@@ -3,10 +3,12 @@ title: Designa ett effektivt interaktivt webbinarium
 description: Lär dig skapa och designa ett effektivt interaktivt webbinarium
 role: User
 level: Beginner
+hide: true
+hidefromtoc: true
 exl-id: 927099a4-009b-45d6-9a32-ba685751ba04
-source-git-commit: 384a9abb2b0a035e35ef9722113100753ec93b37
+source-git-commit: 875c71551f71628bedbad36ec6e64a49071d3257
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
