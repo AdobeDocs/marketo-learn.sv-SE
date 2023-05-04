@@ -3,15 +3,16 @@ title: Designa ett effektivt interaktivt webbinarium
 description: Lär dig skapa och designa ett effektivt interaktivt webbinarium
 role: User
 level: Beginner
-hide: true
-hidefromtoc: true
-source-git-commit: d9372c9a8157aa4c4358fc810d38f4005a08d430
+exl-id: 927099a4-009b-45d6-9a32-ba685751ba04
+source-git-commit: 384a9abb2b0a035e35ef9722113100753ec93b37
 workflow-type: tm+mt
-source-wordcount: '22'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
 
 # Designa ett effektivt interaktivt webbinarium {#design-an-effective-interactive-webinar}
 
-Kommer snart
+Att utforma ett effektivt interaktivt webbinarium är det första steget mot att säkerställa att det blir engagerande och minnesvärt att leverera ditt webbseminarium. Som marknadsförare har ni olika mål för att leverera ett webbinarium, som att visa upp produkten för att generera leads, ifrågasätta ett koncept eller en teknologi för att generera intresse, leverera en workshop för att engagera leads, med mera. Olika mål kräver olika strategier för att ni ska kunna leverera webbinariet på ett optimalt sätt för att passa behoven hos de olika målgruppssegmenten, så att ni har rätt deltagande och engagemang för att nå era mål.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3418602?q=9)
