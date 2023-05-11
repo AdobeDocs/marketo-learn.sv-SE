@@ -3,7 +3,7 @@ title: Självstudiekurser för Marketo Engage
 description: Se videosjälvstudiekurser på [!DNL Marketo Engage]. Förbättra din förståelse för hur du använder funktioner för automatiserad marknadsföring med mera.
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: 49cb28338f1b0701f9c1c6df334435d59961ef4d
+source-git-commit: 59d9ded613045d0ea7345b496e1a9656bf1e3295
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 19%
@@ -27,7 +27,7 @@ Nyligen tillagda [!DNL Marketo Engage] självstudiekurser:
 * **[[!DNL Sales Insight Actions] självstudiekurser](/help/sales-insight-actions/overview.md)**
    _Använd [!UICONTROL Sales Insight Actions] för att snabba upp prospekteringsarbetet med marknadsföringsbaserade verktyg för analys och engagemang i ett enda arbetsflöde._
 
-* **[Självstudiekurser för filtrering av e-postrobotar](filtering-email-bot-activities/setup.md)**
+* **[Självstudiekurser för filtrering av e-postrobotar](/help/filtering-email-bot-activities/setup.md)**
 
    _En guide som hjälper er att identifiera e-postaktiviteter per organisation och hur ni kan filtrera och skapa kampanjer utan robotar._
 
