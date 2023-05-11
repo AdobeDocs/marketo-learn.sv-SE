@@ -1,20 +1,26 @@
 ---
-title: Så här skapar du ett schemalagt e-postprogram
+title: Skapa ett schemalagt e-postprogram
 description: Se hur du skapar, hanterar och spårar ett schemalagt e-postprogram.
 role: User
 level: Beginner
 kt: 10748
 thumbnail: 345467.jpeg
 exl-id: 17525478-7f0e-4aaa-8fb8-af9f966b0c4f
-source-git-commit: 98ead59ff285e4133e4d5f0668f5724a9d680309
+source-git-commit: 2e074e845657a0841e762dc3d7f8358e17a4b720
 workflow-type: tm+mt
-source-wordcount: '42'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
 
-# Så här skapar du ett schemalagt e-postprogram
+# Skapa ett schemalagt e-postprogram
 
-Se hur du skapar, hanterar och spårar ett schemalagt e-postprogram.
+Lär dig hur du skapar, hanterar och spårar ett schemalagt e-postprogram.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345467/?quality=12&learn=on)
+
+## Ytterligare resurser
+
+Mer information om e-postprogram finns i produktguiden:
+
+* [Dokumentation om e-postprogram](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)

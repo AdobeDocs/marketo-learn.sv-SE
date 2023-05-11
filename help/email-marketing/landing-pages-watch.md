@@ -1,20 +1,20 @@
 ---
-title: Hur man bygger och utformar landningssidor
-description: Se hur du skapar, anpassar och personaliserar landningssidor.
+title: Bygga och utforma landningssidor
+description: Lär dig skapa, anpassa och personalisera landningssidor.
 role: User
 level: Beginner
 kt: 10750
 thumbnail: 345469.jpeg
 exl-id: 2a7493c0-9627-4eb8-a01c-447f889b65f1
-source-git-commit: 98ead59ff285e4133e4d5f0668f5724a9d680309
+source-git-commit: 2e074e845657a0841e762dc3d7f8358e17a4b720
 workflow-type: tm+mt
-source-wordcount: '32'
+source-wordcount: '28'
 ht-degree: 0%
 
 ---
 
-# Hur man bygger och utformar landningssidor
+# Bygga och utforma landningssidor
 
-Se hur du skapar, anpassar och personaliserar landningssidor.
+Lär dig skapa, anpassa och personalisera landningssidor.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345469/?quality=12&learn=on)
