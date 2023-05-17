@@ -1,12 +1,12 @@
 ---
 title: Självstudiekurser för Marketo Engage
-description: Se videosjälvstudiekurser på [!DNL Marketo Engage]. Förbättra din förståelse för hur du använder funktioner för automatiserad marknadsföring med mera.
+description: Se videosjälvstudiekurser om [!DNL Marketo Engage]. Förbättra din förståelse för hur du använder funktioner för automatiserad marknadsföring med mera.
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
 source-git-commit: 59d9ded613045d0ea7345b496e1a9656bf1e3295
 workflow-type: tm+mt
 source-wordcount: '168'
-ht-degree: 19%
+ht-degree: 22%
 
 ---
 
