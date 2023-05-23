@@ -7,7 +7,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-05-23T00:00:00Z
 jira: KT-13257
 thumbnail: 3419440.jpeg
-source-git-commit: 5fc4567ae77bb4d45509c19d86533645fadca1ed
+source-git-commit: c86e4ce20aa651eb836b5e40a1799f7aa6e044a3
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Titta på den här stegvisa självstudiekursen för att lära dig hur du skapar 
 ## Ytterligare resurser:
 
 Se produktguiderna för mer information:
-* [Dokumentation om e-postprogram] (https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)
+* [Dokumentation om e-postprogram](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)
 
 Titta på ytterligare videofilmer för mer hjälp om den här funktionen:
 * [Schemalagd e-postgenomgång](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/scheduled-email-watch.html?lang=en)
