@@ -2,9 +2,9 @@
 user-guide-title: Självstudiekurser om Marketo Engage
 user-guide-description: En samling videor och självstudiekurser om Adobe Marketo Engage.
 breadcrumb-title: Självstudiekurser om Marketo Engage
-source-git-commit: 5a661800e947fef2fdd418e49440c34a9cb5af1d
+source-git-commit: eb2c2bc28f352b0fc2681e2b20fe94e86a459a41
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '254'
 ht-degree: 6%
 
 ---
@@ -19,13 +19,19 @@ ht-degree: 6%
    + [Innehållsmarknadsföring](/help/fundamentals/content-marketing-learn.md)
    + [Köparprofiler](/help/fundamentals/buyer-personas-learn.md)
    + [Program och kampanjer](/help/fundamentals/programs-and-campaigns.md)
-+ Kom igång {#get-started}
-   + [Navigera i användargränssnittet](/help/get-started/ui-navigation.md)
+   + [Navigera i användargränssnittet](/help/fundamentals/ui-navigation.md)
+   + Program och kampanjer {#programs}
+      + [Förstå program och kampanjer](help/programs/understanding-programs-and-campaigns.md)
+      + [Standardprogram](/help/programs/default-programs.md)
+      + [E-postprogram](/help/programs/email-programs.md)
+      + [Händelseprogram](/help/programs/event-programs.md)
+      + [Engagemangsprogram](/help/programs/engagement-programs.md)
 + Program {#programs}
-   + [Översikt över standardprogram](/help/programs/default-programs-overview.md)
-   + [Översikt över e-postprogram](/help/programs/email-programs-overview.md)
-   + [Översikt över händelseprogram](/help/programs/event-programs-overview.md)
-   + [Översikt över engagemangsprogram](/help/programs/engagement-programs-overview.md)
+   + [Förstå program och kampanjer](help/programs/understanding-programs-and-campaigns.md)
+   + [Standardprogram](/help/programs/default-programs.md)
+   + [E-postprogram](/help/programs/email-programs.md)
+   + [Händelseprogram](/help/programs/event-programs.md)
+   + [Engagemangsprogram](/help/programs/engagement-programs.md)
 + E-postmarknadsföring {#email-marketing}
    + [Schemalagd e-post](/help/email-marketing/scheduled-email-learn.md)
    + [Schemalagd e-postgenomgång](/help/email-marketing/scheduled-email-watch.md)
