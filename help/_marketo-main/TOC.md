@@ -2,10 +2,10 @@
 user-guide-title: Självstudiekurser om Marketo Engage
 user-guide-description: En samling videor och självstudiekurser om Adobe Marketo Engage.
 breadcrumb-title: Självstudiekurser om Marketo Engage
-source-git-commit: 965e7fd5cbac9eb7b34398b9317143b0e8418ba6
+source-git-commit: 5b30792d417c8ff5f9102c580fe218c9f4c6de25
 workflow-type: tm+mt
-source-wordcount: '268'
-ht-degree: 5%
+source-wordcount: '259'
+ht-degree: 6%
 
 ---
 
@@ -20,14 +20,9 @@ ht-degree: 5%
    + [Köparprofiler](/help/fundamentals/buyer-personas-learn.md)
    + [Program och kampanjer](/help/fundamentals/programs-and-campaigns.md)
    + [Navigera i användargränssnittet](/help/fundamentals/ui-navigation.md)
-   + Program och kampanjer {#programs}
-      + [Förstå program och kampanjer](help/programs/understanding-programs-and-campaigns.md)
-      + [Standardprogram](/help/programs/default-programs.md)
-      + [E-postprogram](/help/programs/email-programs.md)
-      + [Händelseprogram](/help/programs/event-programs.md)
-      + [Engagemangsprogram](/help/programs/engagement-programs.md)
-+ Program {#programs}
-   + [Förstå program och kampanjer](help/programs/understanding-programs-and-campaigns.md)
+   + [Förstå program och kampanjer](/help/fundamentals/understand-programs-and-campaigns.md)
++ Program och kampanjer {#programs}
+   + [Förstå program och kampanjer](/help/programs/understanding-programs-and-campaigns.md)
    + [Standardprogram](/help/programs/default-programs.md)
    + [E-postprogram](/help/programs/email-programs.md)
    + [Händelseprogram](/help/programs/event-programs.md)
