@@ -3,10 +3,10 @@ title: Bädda in PDF i konversationer
 description: Dela PDF-dokument i personaliserade konversationer som du designar i Dynamic Chat.
 role: User
 level: Beginner
-kt: 10495
+jira: KT-10495
 thumbnail: 343479.jpeg
 exl-id: e8c1f602-ceff-48a9-8a1c-8edb47dd5946
-source-git-commit: 456e16b830e491f688900e91de90e2a6765afaf4
+source-git-commit: c2aa5a0dbd22bb949a865f219e5ecbc2c96d6286
 workflow-type: tm+mt
 source-wordcount: '41'
 ht-degree: 0%

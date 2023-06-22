@@ -1,12 +1,12 @@
 ---
-title: Publicera med Dynamic Chat på bara 15 minuter
-description: En stegvis guide som hjälper dig att komma igång med din första dialog med Dynamic Chat på bara 15 minuter!
+title: Ge dig av med Dynamic Chat på bara 15 minuter
+description: Ett steg för steg-guide som hjälper dig att komma igång med din första dialog med Dynamic Chat på bara 15 minuter!
 role: User
 level: Beginner
-kt: 10239
+jira: KT-10239
 thumbnail: 342164.jpeg
 exl-id: d0e8df26-e09e-4330-a74b-06c81ed7ce14
-source-git-commit: 456e16b830e491f688900e91de90e2a6765afaf4
+source-git-commit: c2aa5a0dbd22bb949a865f219e5ecbc2c96d6286
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%

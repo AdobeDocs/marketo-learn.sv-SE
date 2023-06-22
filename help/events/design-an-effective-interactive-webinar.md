@@ -1,11 +1,11 @@
 ---
 title: Designa ett effektivt interaktivt webbinarium
 description: Lär dig skapa och designa ett effektivt interaktivt webbinarium
-kt: 13352
+jira: KT-13352
 role: User
 level: Beginner
 exl-id: 927099a4-009b-45d6-9a32-ba685751ba04
-source-git-commit: 51ca9b207c3036de314cb7446e4bbfbd3ee4eb54
+source-git-commit: c2aa5a0dbd22bb949a865f219e5ecbc2c96d6286
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%

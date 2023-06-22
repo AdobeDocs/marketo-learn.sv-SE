@@ -3,10 +3,10 @@ title: Demo av Dynamic Chat
 description: Lär dig om Dynamic Chat, en ny chatbot-lösning som har byggts för marknadsföring och försäljning från Adobe.
 role: User
 level: Beginner
-kt: 9697
+jira: KT-9697
 thumbnail: 340473.jpeg
 exl-id: 6da18db9-1fc9-4a30-a302-102904f79aee
-source-git-commit: 456e16b830e491f688900e91de90e2a6765afaf4
+source-git-commit: c2aa5a0dbd22bb949a865f219e5ecbc2c96d6286
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 16%
@@ -22,6 +22,6 @@ ht-degree: 16%
 ## Fler användbara videoklipp
 
 * [Installera chatbot](setup.md)
-* [Aktivera Marketo-integrationen med [!UICONTROL Dynamic Chat] ](marketo-integration.md)
-* [Lägga till och hantera användare av [!UICONTROL Dynamic Chat] ](user-management.md)
+* [Aktivera Marketo-integrationen med [!UICONTROL Dynamic Chat]](marketo-integration.md)
+* [Lägga till och hantera användare av [!UICONTROL Dynamic Chat]](user-management.md)
 * [Publicera på bara 15 minuter](go-live-in-15-minutes.md)

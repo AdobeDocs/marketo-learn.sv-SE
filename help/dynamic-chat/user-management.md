@@ -1,12 +1,12 @@
 ---
 title: Lägga till och hantera användare av Dynamic Chat
-description: Lär dig hur du använder Adobe Admin Console för att hantera användaråtkomst för Dynamic Chat.
+description: Lär dig hur du använder Adobe Admin Console för att hantera användaråtkomst i Dynamic Chat.
 role: User
 level: Beginner
-kt: 9686
+jira: KT-9686
 thumbnail: 340249.jpeg
 exl-id: c6007829-9831-4259-a37e-20a2d318734f
-source-git-commit: 456e16b830e491f688900e91de90e2a6765afaf4
+source-git-commit: c2aa5a0dbd22bb949a865f219e5ecbc2c96d6286
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
@@ -22,5 +22,5 @@ Hantera dina [!UICONTROL Dynamic Chat]  användare via Adobe Admin Console.
 ## Fler användbara videoklipp
 
 * [Skapa och hantera personaliserade dialogrutor](dialogue-management.md)
-* [Aktivera Marketo-integrationen med [!UICONTROL Dynamic Chat] ](marketo-integration.md)
+* [Aktivera Marketo-integrationen med [!UICONTROL Dynamic Chat]](marketo-integration.md)
 * [Aktivera dina leads för att boka möten med din försäljning](meeting-booking.md)
