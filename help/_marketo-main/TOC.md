@@ -2,9 +2,9 @@
 user-guide-title: Självstudiekurser om Marketo Engage
 user-guide-description: En samling videor och självstudiekurser om Adobe Marketo Engage.
 breadcrumb-title: Självstudiekurser om Marketo Engage
-source-git-commit: 709d91f881ea8ea0c851c5fc03939ca3bfa842f7
+source-git-commit: cce7cf1bf7dee93837ab399a0b4cfc79bfa925bf
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '259'
 ht-degree: 6%
 
 ---
@@ -20,7 +20,6 @@ ht-degree: 6%
    + [Köparprofiler](/help/fundamentals/buyer-personas-learn.md)
    + [Program och kampanjer](/help/fundamentals/programs-and-campaigns.md)
    + [Navigera i användargränssnittet](/help/fundamentals/ui-navigation.md)
-   + [Förstå program och kampanjer](/help/fundamentals/understand-programs-and-campaigns.md)
 + Program och kampanjer {#programs-and-campaigns}
    + [Förstå program och kampanjer](/help/programs/understanding-programs-and-campaigns.md)
    + [Standardprogram](/help/programs/default-programs.md)
@@ -37,7 +36,7 @@ ht-degree: 6%
    + [Gated content offer walk-through](/help/email-marketing/gated-content-offer-watch.md)
    + [A/B-tester](/help/email-marketing/ab-testing-learn.md)
    + [Genomgång av A/B-tester](/help/email-marketing/ab-testing-watch.md)
-   + [Landningssidor ](/help/email-marketing/landing-pages-learn.md)
+   + [Landningssidor](/help/email-marketing/landing-pages-learn.md)
    + [Landningssidor genomgående](/help/email-marketing/landing-pages-watch.md)
    + [Forms](/help/email-marketing/forms-learn.md)
    + [E-postleverans](/help/email-marketing/email-deliverability-learn.md)
