@@ -6,7 +6,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-06-28T00:00:00Z
 jira: KT-13262
 thumbnail: 3420137.jpeg
-source-git-commit: 49167c958c8b3a0c218ef0b6cfc771d91554a34a
+source-git-commit: 0ae3946dbb09034052fefc66019d0b1a2ea942e4
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 # Utnyttja flexibiliteten i standardprogrammen
 
 
-Standardprogrammen är av de fyra olika programtyperna och du kan skapa med hjälp av det du skapar.
-Läs om två vanliga användningsområden: webbformulär och generering av leads för betalda media.
+Av de fyra programtyperna är standardprogrammen de mest flexibla och du kan skapa med vad du ska skapa.
+Läs om två vanliga användningsområden: Webbformulär och generering av leads för betalda medier.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420137?learn=on)
