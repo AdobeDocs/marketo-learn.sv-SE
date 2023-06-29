@@ -2,7 +2,7 @@
 user-guide-title: Självstudiekurser om Marketo Engage
 user-guide-description: En samling videor och självstudiekurser om Adobe Marketo Engage.
 breadcrumb-title: Självstudiekurser om Marketo Engage
-source-git-commit: 0ae3946dbb09034052fefc66019d0b1a2ea942e4
+source-git-commit: 9a0c4c02d2ec4b4d093764d93402dab01c603850
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 5%
@@ -26,7 +26,7 @@ ht-degree: 5%
    + [Händelseprogram](/help/programs/event-programs.md)
    + [Engagemangsprogram](/help/programs/engagement-programs.md)
    + [E-postprogram](/help/programs/email-programs.md)
-   + [Standardprogram]{#default-programs}
+   + Standardprogram {#default-programs}
       + [Skapa och mät ett standardprogram](/help/programs/create-and-measure-default-programs.md)
       + [Utnyttja flexibiliteten i standardprogrammen](/help/programs/leverage-the-flexibility-of-default-programs.md)
 + E-postmarknadsföring {#email-marketing}
