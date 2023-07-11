@@ -2,9 +2,9 @@
 user-guide-title: Självstudiekurser om Marketo Engage
 user-guide-description: En samling videor och självstudiekurser om Adobe Marketo Engage.
 breadcrumb-title: Självstudiekurser om Marketo Engage
-source-git-commit: 4bc6a6d9414f4b231878d55118a109a7f90172ec
+source-git-commit: 3f1f9929de4d475b916a6b13f555f6cc3014ca3d
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '277'
 ht-degree: 5%
 
 ---
@@ -20,6 +20,8 @@ ht-degree: 5%
    + [Köparprofiler](/help/fundamentals/buyer-personas-learn.md)
    + [Program och kampanjer](/help/fundamentals/programs-and-campaigns.md)
    + [Navigera i användargränssnittet](/help/fundamentals/ui-navigation.md)
+   + [Bästa tillvägagångssätt för att organisera en ny instans](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
+   + [Bästa tillvägagångssätt för att skapa grundläggande program](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
 + Program och kampanjer {#programs-and-campaigns}
    + [Förstå program och kampanjer](/help/programs/understanding-programs-and-campaigns.md)
    + [Smarta kampanjer 101](/help/campaigns/smart-campaigns-101.md)
@@ -87,9 +89,6 @@ ht-degree: 5%
    + [CRM-synkronisering](/help/lead-and-data-management/crm-sync-learn.md)
    + [Leadens livscykel](/help/lead-and-data-management/lead-lifecycle-learn.md)
    + [Leadens livscykel](/help/lead-and-data-management/lead-lifecycle-watch.md)
-+ Instanshantering {#instance-management}
-   + [God praxis](/help/instance-management/best-practice-learn.md)
-   + [Bästa metoder att gå igenom](/help/instance-management/best-practice-watch.md)
 + Händelser {#events}
    + [Evenemang som går igenom](/help/events/events-watch.md)
    + [Skapa ett händelseprogram](/help/events/events-learn.md)

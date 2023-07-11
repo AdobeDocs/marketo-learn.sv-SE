@@ -1,0 +1,33 @@
+---
+title: Bästa tillvägagångssätt för att organisera ett nytt [!DNL Marketo Engage] instance
+description: Lär dig hur du organiserar ditt navigeringsträd i marknadsföringsaktiviteter med hjälp av mappar, standardnamnkonventioner och funktioner som kloning så att du enkelt kan arbeta med dina medarbetare i en ny Marketo Engage-instans.
+role: Admin
+level: Beginner
+doc-type: Feature Video
+last-substantial-update: 2023-07-11T00:00:00Z
+jira: KT-13608
+thumbnail: 3421577.jpeg
+source-git-commit: 3f1f9929de4d475b916a6b13f555f6cc3014ca3d
+workflow-type: tm+mt
+source-wordcount: '200'
+ht-degree: 0%
+
+---
+
+
+# Bästa tillvägagångssätt för att organisera ett nytt [!DNL Marketo Engage] instance
+
+Första gången du börjar arbeta med Marketo Engage är organisationen nyckeln. Om du håller ordning i instansen blir det enkelt för dig och dina kollegor att hålla reda på kampanjer, program och resurser. Lär dig hur du organiserar ditt navigeringsträd i [!UICONTROL Marketing Activities] använda mappar, namnkonventioner och funktioner som kloning för att enkelt arbeta med dina medarbetare i en ny [!DNL Marketo Engage] -instans. 
+
+>[!VIDEO](https://video.tv.adobe.com/v/3421577/?learn=on)
+
+## Ytterligare resurser
+
+Produktguider:
+
+* [God praxis: Organisera dina program](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html)
+* [Klona ett program](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.html)
+* [Klona en resurs i ett program](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.html)
+* [Importera ett program](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.html)
+* [Om mappar] (https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.html) *[Skapa ny kampanjmapp](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html)
+*[Arbetsytor och personpartitioner](ttps://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html)
