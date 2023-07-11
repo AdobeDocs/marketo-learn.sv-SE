@@ -1,7 +1,33 @@
 ---
-source-git-commit: 3f1f9929de4d475b916a6b13f555f6cc3014ca3d
+title: Bästa tillvägagångssätt för att skapa grundläggande program
+description: Förstå de fyra programtyperna, hur du importerar program, poängsättningsprogram för leads och definierar kanaltaggar. Läs mer om vanliga användningsområden och bästa praxis.
+role: Admin
+level: Beginner
+doc-type: Feature Video
+last-substantial-update: 2023-07-11T00:00:00Z
+jira: KT-13567
+thumbnail: 3421275.jpeg
+source-git-commit: 3541cb30d3e2e3f6f9e82d95179a352fd052e0d1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
+
+
+# Bästa tillvägagångssätt för att skapa grundläggande program
+
+Förstå de fyra programtyperna, hur du importerar program, poängsättningsprogram för leads och definierar kanaltaggar. Läs mer om vanliga användningsområden och bästa praxis.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3421275/?learn=on)
+
+## Ytterligare resurser
+
+**Produktguider:**
+
+* [Förstå program](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html)
+* [Skapa ett program](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.html)
+* [God praxis: Organisera dina program](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html)
+* [Importera ett program](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.html)
+* [Taggar](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.html)
+* [The Definitive Guide to Lead Scoring](https://business.adobe.com/resources/guides/lead-scoring.html)
