@@ -3,9 +3,9 @@ title: Tutorials för Sales Insight Actions
 description: Använd [!UICONTROL Sales Insight Actions] för att snabba upp prospekteringsarbetet med marknadsföringsbaserade verktyg för analys och engagemang i ett enda arbetsflöde.
 doc-type: overview-page
 role: User, Admin, Leader
-level: Beginner, Intermediate, Advanced
+level: Beginner, Intermediate, Experienced
 exl-id: fac23fde-1fc8-4710-a5f5-2e19a2618d6d
-source-git-commit: 6cf9522c1eaf069b8a86e9f26f7590434b703730
+source-git-commit: 6570cbdbdc4403b24b8c0bdbf4d064d326925b92
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
