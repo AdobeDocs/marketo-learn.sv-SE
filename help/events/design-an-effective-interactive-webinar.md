@@ -6,7 +6,7 @@ role: User
 level: Beginner
 exl-id: 927099a4-009b-45d6-9a32-ba685751ba04
 feature: Programs, Events
-source-git-commit: a80bf39486992aa7a11988e6517197860b60e6c2
+source-git-commit: c34985e01043b34d8f749a1cd0b4e3a83c2efbc6
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Att utforma ett effektivt interaktivt webbinarium är det första steget mot att säkerställa att det blir engagerande och minnesvärt att leverera ditt webbseminarium. Som marknadsförare har ni olika mål för att leverera ett webbinarium, som att visa upp produkten för att generera leads, ifrågasätta ett koncept eller en teknologi för att generera intresse, leverera en workshop för att engagera leads, med mera. Olika mål kräver olika strategier för att ni ska kunna leverera webbinariet på ett optimalt sätt för att passa behoven hos de olika målgruppssegmenten, så att ni har rätt deltagande och engagemang för att nå era mål.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418602?q=9)
+>[!VIDEO](https://video.tv.adobe.com/v/3418602?quality=12&learn=on)
