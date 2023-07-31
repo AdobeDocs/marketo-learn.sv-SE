@@ -2,17 +2,17 @@
 user-guide-title: Självstudiekurser om Marketo Engage
 user-guide-description: En samling videor och självstudiekurser om Adobe Marketo Engage.
 breadcrumb-title: Självstudiekurser om Marketo Engage
-source-git-commit: 8c572e543d2c1c0b1f5a3b2b73fc0f19888c3878
+source-git-commit: a662b700709081a7f071c01e95f5faca8e1e3139
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '295'
 ht-degree: 5%
 
 ---
 
 
-# [!DNL Marketo Engage] självstudiekurser {#tutorials}
+# [!DNL Marketo Engage] självstudier {#tutorials}
 
-+ [[!DNL Marketo Engage] självstudiekurser](/help/_marketo-main/overview.md)
++ [[!DNL Marketo Engage] självstudier](/help/_marketo-main/overview.md)
 + Grundläggande {#fundamentals}
    + [Mål och strategi](/help/fundamentals/goals-and-strategy-learn.md)
    + [Organisationsstruktur](/help/fundamentals/organizational-structure-learn.md)
@@ -31,14 +31,18 @@ ht-degree: 5%
    + Standardprogram {#default-programs}
       + [Skapa och mät ett standardprogram](/help/programs/create-and-measure-default-programs.md)
       + [Utnyttja flexibiliteten i standardprogrammen](/help/programs/leverage-the-flexibility-of-default-programs.md)
-   + [Engagemangsprogram](/help/programs/engagement-programs.md)
+   + [Engagement programs](/help/programs/engagement-programs.md)
+   + Åtagandekartor {#engagement-maps}
+      + [Översikt över engagemangskartan](help/campaigns/engagement-maps/engagement-map-overview.md)
+      + [Inköpskarta kapslade kampanjer](help/campaigns/engagement-maps/engagement-map-nested-campaign.md)
+      + [Felsökning och upplösning för engagemangskarta](/help/engagement-maps/engagement-map-error-detection-and-resolution.md)
 + E-postmarknadsföring {#email-marketing}
    + [Schemalagd e-post](/help/email-marketing/scheduled-email-learn.md)
    + [Schemalagd e-postgenomgång](/help/email-marketing/scheduled-email-watch.md)
    + [Personaliserat nyhetsbrev](/help/email-marketing/personalized-newsletter-learn.md)
    + [Personaliserat nyhetsbrev](/help/email-marketing/personalized-newsletter-watch.md)
    + [Erbjudande om specialanpassat innehåll](/help/email-marketing/gated-content-offer-learn.md)
-   + [Gated content offer walk-through](/help/email-marketing/gated-content-offer-watch.md)
+   + [Gated content offer through](/help/email-marketing/gated-content-offer-watch.md)
    + [A/B-tester](/help/email-marketing/ab-testing-learn.md)
    + [Genomgång av A/B-tester](/help/email-marketing/ab-testing-watch.md)
    + [Landningssidor](/help/email-marketing/landing-pages-learn.md)
@@ -61,8 +65,8 @@ ht-degree: 5%
    + [Genomgång av social marknadsföring](/help/cross-channel-marketing/social-marketing-watch.md)
    + [Webbanpassning](/help/cross-channel-marketing/web-personalization-learn.md)
    + [Genomgång av personalisering på webben](/help/cross-channel-marketing/web-personalization-watch.md)
-+ Dynamiskt chatt {#dynamic-chat}
-   + [Självstudiekurser om dynamiskt chatt](/help/dynamic-chat/dynamic-chat-overview.md)
++ Dynamic Chat {#dynamic-chat}
+   + [Självstudiekurser för Dynamic Chat](/help/dynamic-chat/dynamic-chat-overview.md)
    + [Demo](/help/dynamic-chat/product-tour.md)
    + [Installera](/help/dynamic-chat/setup.md)
    + [Integrering med Marketo](/help/dynamic-chat/marketo-integration.md)
@@ -78,7 +82,7 @@ ht-degree: 5%
    + [Globalisering av statiskt innehåll](/help/dynamic-chat/globalization-of-static-content.md)
    + [Roller och behörigheter](/help/dynamic-chat/roles-and-permissions.md)
 + Försäljningsinsikter {#sales-insight-actions}
-   + [Översikt](/help/sales-insight-actions/overview.md)
+   + [Ökning](/help/sales-insight-actions/overview.md)
    + [Översikt över Säljåtgärder](/help/sales-insight-actions/sales-insight-actions-overview.md)
    + [Få åtkomst till instansen Sales Insight Actions](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
    + [Konfigurera loggning av försäljningsaktivitet för [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
