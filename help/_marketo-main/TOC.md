@@ -2,7 +2,7 @@
 user-guide-title: Självstudiekurser om Marketo Engage
 user-guide-description: En samling videor och självstudiekurser om Adobe Marketo Engage.
 breadcrumb-title: Självstudiekurser om Marketo Engage
-source-git-commit: a662b700709081a7f071c01e95f5faca8e1e3139
+source-git-commit: df2e02619fcb4a31d39cddd2660e0dff32c208b5
 workflow-type: tm+mt
 source-wordcount: '295'
 ht-degree: 5%
@@ -33,8 +33,8 @@ ht-degree: 5%
       + [Utnyttja flexibiliteten i standardprogrammen](/help/programs/leverage-the-flexibility-of-default-programs.md)
    + [Engagement programs](/help/programs/engagement-programs.md)
    + Åtagandekartor {#engagement-maps}
-      + [Översikt över engagemangskartan](help/campaigns/engagement-maps/engagement-map-overview.md)
-      + [Inköpskarta kapslade kampanjer](help/campaigns/engagement-maps/engagement-map-nested-campaign.md)
+      + [Översikt över engagemangskartan](/help/engagement-maps/engagement-map-overview.md)
+      + [Inköpskarta kapslade kampanjer](/help/engagement-maps/engagement-map-nested-campaign.md)
       + [Felsökning och upplösning för engagemangskarta](/help/engagement-maps/engagement-map-error-detection-and-resolution.md)
 + E-postmarknadsföring {#email-marketing}
    + [Schemalagd e-post](/help/email-marketing/scheduled-email-learn.md)
