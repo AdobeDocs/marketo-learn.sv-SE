@@ -2,9 +2,9 @@
 user-guide-title: Självstudiekurser om Marketo Engage
 user-guide-description: En samling videor och självstudiekurser om Adobe Marketo Engage.
 breadcrumb-title: Självstudiekurser om Marketo Engage
-source-git-commit: df2e02619fcb4a31d39cddd2660e0dff32c208b5
+source-git-commit: 85e794a49723cc931f1e8a56f39c0947af51b243
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '298'
 ht-degree: 5%
 
 ---
@@ -23,6 +23,7 @@ ht-degree: 5%
    + [Bästa tillvägagångssätt för att organisera en ny instans](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [Bästa tillvägagångssätt för att skapa grundläggande program](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [Anpassa med variabler](/help/personalization/personalize-with-tokens.md)
+   + [Ärvd instansgranskning](/help/fundamentals/inherted-instance-audit.md)
 + Program och kampanjer {#programs-and-campaigns}
    + [Förstå program och kampanjer](/help/programs/understanding-programs-and-campaigns.md)
    + [Smarta kampanjer 101](/help/campaigns/smart-campaigns-101.md)
