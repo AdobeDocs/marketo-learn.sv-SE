@@ -11,9 +11,9 @@ hide: true
 hidefromtoc: true
 exl-id: 6110c26a-5920-4b98-82fa-bbe76f402a71
 feature: Reporting
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 6a1477a4f4c69a041430b2ace6ba47c255c10cff
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -22,12 +22,16 @@ ht-degree: 0%
 
 Läs mer om de viktigaste rapporterna inom Marketo Engage och hur man får in dem.
 
-1. Läs produktguiderna:
+>[!VIDEO](https://video.tv.adobe.com/v/3420138/?learn=on)
 
-   [Översikt över rapporttyp](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html?lang=en)
+## Ytterligare resurser
 
-1. Lär dig av andra:
+Läs produktguiderna:
 
-   * [Expert Customer Blog post: Hur Champion Chelsea Kiko rapporterar i olika Marketo Engage Spaces](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627)
-   * [Expert Customer Webinar: Bortom grunderna med Courtney Tobe](https://nation.marketo.com/t5/product-blogs/on-demand-webinar-beyond-the-basics-marketo-reporting/ba-p/302116)
-   * [Expert Customer Webinar: Hur man bygger upp en heltäckande strategi för rapportering av avkastning på investerat kapital med Britney Young](https://nation.marketo.com/t5/product-blogs/on-demand-webinar-rounding-out-your-reporting-how-to-build-a/ba-p/319082)
+    [Översikt över rapporttyp](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html?lang=en)
+
+Lär dig av andra:
+
+    * [Expert Customer Blog post: How Champion Chelsea Kiko Reports in Various Marketo Engage Spaces](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627)
+    * [Expert Customer Webinar: Beyond the Basics with Courtney Tobe](https://nation.marketo.com/t5/product-blogs/on-demand-webinar-beyond-the-basics-marketo-reporting/ba-p/302116)
+    * [Expert Customer Webinar: How to build a full-fledged ROI reporting strategy with Britney Young](https://nation.marketo.com/t5/product-blogs/on-demand-webinar-rounding-out-your-reporting-how-to-build-a/ba-p/319082)
