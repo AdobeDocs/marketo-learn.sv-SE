@@ -1,7 +1,7 @@
 ---
-source-git-commit: eb2c2bc28f352b0fc2681e2b20fe94e86a459a41
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -9,7 +9,7 @@ ht-degree: 0%
 
 Program är ett enda marknadsföringsinitiativ. Lär dig utnyttja dem tillsammans med kampanjer för att nå ut till er målgrupp på flera olika sätt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418042/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418042/?quality=12&learn=on){trancript=true}
 
 ## Ytterligare resurser
 
@@ -20,4 +20,4 @@ Se produktguiderna för mer information:
 
 Lär er av kollegor hur ni använder smarta kampanjer:
 
-* [Expert Customer Blog post: Smarta kampanjer 101: En djupdykning i Adobe Marketo Engage kraftfullaste funktion](https://nation.marketo.com/t5/product-blogs/smart-campaigns-101-a-deep-dive-into-adobe-marketo-engage-s-most/ba-p/313385#M1838)
+* [Expert Customer Blog post: Smart Campaigns 101: A Deep Dive into Adobe Marketo Engage Most Power Feature](https://nation.marketo.com/t5/product-blogs/smart-campaigns-101-a-deep-dive-into-adobe-marketo-engage-s-most/ba-p/313385#M1838)

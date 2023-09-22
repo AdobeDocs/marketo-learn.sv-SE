@@ -7,9 +7,9 @@ jira: KT-10744
 thumbnail: 345428.jpeg
 exl-id: 18512aac-f8f5-4b8a-8d94-2d5324089be0
 feature: Getting Started
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Med [!DNL Marketo] CRM Sync hjälper er att samordna marknadsförings- och säljaktiviteter genom att sömlöst dela relevant information mellan [!DNL Marketo] och din CRM. Läs om synkronisering [!DNL Marketo] till din CRM.
 
->[!VIDEO](https://video.tv.adobe.com/v/345428/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345428/?quality=12&learn=on){trancript=true}

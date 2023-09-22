@@ -7,20 +7,20 @@ jira: KT-9698
 thumbnail: 340259.jpeg
 exl-id: 1c02fc09-feec-4506-9941-76ceeb1e3520
 feature: Dynamic Chat
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
 
 # Skapa och hantera personaliserade dialogrutor
 
-Att utforma konversationer som är målinriktade och personaliserade är nyckeln till att skapa en fantastisk konversationsupplevelse för alla webbbesökare. Lär dig hur du skapar och hanterar en dialogruta.
+Att utforma konversationer som är målinriktade och personaliserade är nyckeln till att skapa en fantastisk konversationsupplevelse för alla webbbesökare. Lär dig skapa och hantera en dialogruta.
 
->[!VIDEO](https://video.tv.adobe.com/v/340259/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340259/?quality=12&learn=on){trancript=true}
 
-## Fler användbara videoklipp
+## Fler praktiska videor
 
 * [Lägga till och hantera användare av [!UICONTROL Dynamic Chat]](user-management.md)
 * [Aktivera Marketo-integrationen med Dynamic Chat](marketo-integration.md)

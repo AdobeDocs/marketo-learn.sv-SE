@@ -7,15 +7,15 @@ jira: KT-10729
 thumbnail: 345402.jpeg
 exl-id: 8e82a586-2001-4b7e-a2d4-073e78045854
 feature: Mobile Marketing
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
 # Integrera mobilmarknadsföring med Marketo
 
-Se hur du skapar köparprofiler, anger nyckeltal, fastställer din kommunikationslängd, använder [!DNL Marketo] Marknadsföringskalender med mera för att förbättra er strategi för mobilmarknadsföring.
+Se hur du skapar köparprofiler, ställer in nyckeltal, fastställer din kommunikationslängd, använder [!DNL Marketo] Marknadsföringskalender med mera för att förbättra er strategi för mobilmarknadsföring.
 
->[!VIDEO](https://video.tv.adobe.com/v/345402/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345402/?quality=12&learn=on){trancript=true}

@@ -9,9 +9,9 @@ doc-type: Feature Video
 last-substantial-update: 2023-08-08T00:00:00Z
 jira: KT-13762
 thumbnail: 3422473.jpeg
-source-git-commit: 85e794a49723cc931f1e8a56f39c0947af51b243
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -23,4 +23,4 @@ Att ärva en Marketo Engage-instans kan vara stressigt, oavsett om du är erfare
 
 I den här självstudiekursen går vi igenom de viktigaste avsnitten i Marketo Engage, inklusive Admin, Marknadsföringsaktiviteter, Design Studio och Database och ger dig tips för granskning och optimering längs vägen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422473/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422473/?learn=on){trancript=true}
