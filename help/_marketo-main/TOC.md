@@ -2,7 +2,8 @@
 user-guide-title: Självstudiekurser om Marketo Engage
 user-guide-description: En samling videor och självstudiekurser om Adobe Marketo Engage.
 breadcrumb-title: Självstudiekurser om Marketo Engage
-source-git-commit: 85e794a49723cc931f1e8a56f39c0947af51b243
+auto-video-transcripts: true
+source-git-commit: 7e07cf83181451e37478026a36f49b02480468cf
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 5%
@@ -83,7 +84,7 @@ ht-degree: 5%
    + [Globalisering av statiskt innehåll](/help/dynamic-chat/globalization-of-static-content.md)
    + [Roller och behörigheter](/help/dynamic-chat/roles-and-permissions.md)
 + Försäljningsinsikter {#sales-insight-actions}
-   + [Ökning](/help/sales-insight-actions/overview.md)
+   + [Översikt](/help/sales-insight-actions/overview.md)
    + [Översikt över Säljåtgärder](/help/sales-insight-actions/sales-insight-actions-overview.md)
    + [Få åtkomst till instansen Sales Insight Actions](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
    + [Konfigurera loggning av försäljningsaktivitet för [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
