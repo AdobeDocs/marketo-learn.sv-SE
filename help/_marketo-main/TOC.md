@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Marketo Engage
 user-guide-description: En samling videor och självstudiekurser om Adobe Marketo Engage.
 breadcrumb-title: Självstudiekurser om Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 7e07cf83181451e37478026a36f49b02480468cf
+source-git-commit: d6f93ad6b4216c9c886a288a23918f9f25187165
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '304'
 ht-degree: 5%
 
 ---
@@ -74,6 +74,8 @@ ht-degree: 5%
    + [Integrering med Marketo](/help/dynamic-chat/marketo-integration.md)
    + [Användarhantering](/help/dynamic-chat/user-management.md)
    + [Dialoghantering](/help/dynamic-chat/dialogue-management.md)
+   + [Konfigurera Live-chatt](/help/dynamic-chat/set-up-live-chat.md)
+   + [Agenthantering](/help/dynamic-chat/agent-management.md)
    + [Mötesbokningar](/help/dynamic-chat/meeting-booking.md)
    + [Publicera på 15 minuter](/help/dynamic-chat/go-live-in-15-minutes.md)
    + [Bädda in PDF i konversationer](/help/dynamic-chat/document-cloud-integration.md)
