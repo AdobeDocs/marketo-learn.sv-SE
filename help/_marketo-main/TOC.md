@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Marketo Engage
 user-guide-description: En samling videor och självstudiekurser om Adobe Marketo Engage.
 breadcrumb-title: Självstudiekurser om Marketo Engage
 auto-video-transcripts: true
-source-git-commit: d6f93ad6b4216c9c886a288a23918f9f25187165
+source-git-commit: 01e5afc2449579fe995ffb670afbe0a42ed53353
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '307'
 ht-degree: 5%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 5%
    + [Bästa tillvägagångssätt för att organisera en ny instans](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [Bästa tillvägagångssätt för att skapa grundläggande program](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [Anpassa med variabler](/help/personalization/personalize-with-tokens.md)
-   + [Ärvd instansgranskning](/help/fundamentals/inherted-instance-audit.md)
+   + [Granska en ärvd instans](/help/fundamentals/inherted-instance-audit.md)
 + Program och kampanjer {#programs-and-campaigns}
    + [Förstå program och kampanjer](/help/programs/understanding-programs-and-campaigns.md)
    + [Smarta kampanjer 101](/help/campaigns/smart-campaigns-101.md)
@@ -91,8 +91,8 @@ ht-degree: 5%
    + [Få åtkomst till instansen Sales Insight Actions](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
    + [Konfigurera loggning av försäljningsaktivitet för [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + Lead- och datahantering {#lead-and-data-management}
-   + [Resultatbedömning](/help/lead-and-data-management/lead-scoring-learn.md)
-   + [Genomgång av poäng för poäng](/help/lead-and-data-management/lead-scoring-watch.md)
+   + [Resultat/personpoäng](/help/lead-and-data-management/lead-scoring-learn.md)
+   + [Genomgång av poäng/poäng](/help/lead-and-data-management/lead-scoring-watch.md)
    + [Prenumerationscentral](/help/lead-and-data-management/subscription-center-learn.md)
    + [Prenumerationscentral - genomgång](/help/lead-and-data-management/subscription-center-watch.md)
    + [CRM-synkronisering](/help/lead-and-data-management/crm-sync-learn.md)
