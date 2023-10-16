@@ -5,13 +5,13 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-03T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13877
 thumbnail: KT-13877.jpeg
-hide: true
-source-git-commit: e7fe8da128a1c46620484d9b92823ba51791a671
+hide: false
+source-git-commit: 94ed2bdf9c0427e4d18c04921b55008773b6736a
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '579'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Skapa ett visuellt dataflödesdiagram för att förstå er marknadsföringsteknologi
 
-Som administratör som tar över en [!DNL Marketo Engage] som har funnits i åratal, är det som ett uppdrag som är omöjligt att granska och åtgärda instansen på ett effektivt sätt. Vid Adobe [!DNL Marketo Champion]Kelly Jo Horton gick in i ett långvarigt fall och tog sig an den här utmaningen med [skapa ett diagram över&quot;lead- och datakällor&quot;](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"} för att bekanta sig med datauniversum. I den här självstudiekursen får du lära dig hur du skapar ett eget dataflödesdiagram genom att bygga vidare på de exempel som Kelly Jo Horton har delat. Lär känna ditt MarTech-ekosystem!
+Som administratör som tar över en [!DNL Marketo Engage] som har funnits i åratal, är det som ett uppdrag som är omöjligt att granska och åtgärda instansen på ett effektivt sätt. Vid Adobe [!DNL Marketo Champion] (2019) Kelly Jo Horton gick in i ett långvarigt fall och tog itu med denna utmaning genom att [skapa ett diagram över&quot;lead- och datakällor&quot;](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"} för att bekanta sig med datauniversum. I den här självstudiekursen får du lära dig hur du skapar ett eget dataflödesdiagram genom att bygga vidare på de exempel som Kelly Jo Horton har delat. Lär känna ditt MarTech-ekosystem!
 
 ## Varför skapa ett arkitekturdiagram för den ärvda instansen?
 
@@ -124,7 +124,7 @@ Det här är några verktyg som du kan använda: draw.io (Google Docs), Adobe XD
 ## Författare
 
 **Kelly Jo Horton**\
-Adobe Marketo Champion Alumnus
+Adobe Marketo Champion (2019)
 *Senior Client Partner på Etumos*
 
 ![Kelly Jo Horton](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Kelly_Jo_Horton.png){width="30%"}
