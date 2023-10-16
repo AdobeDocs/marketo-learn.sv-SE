@@ -5,11 +5,11 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-12T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-14103
 thumbnail: KT-14103.jpeg
-hide: true
-source-git-commit: e7fe8da128a1c46620484d9b92823ba51791a671
+hide: false
+source-git-commit: 4dc6aeed353fdd8bac960603af22b060ae2d7f00
 workflow-type: tm+mt
 source-wordcount: '906'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 När du går in i ett äldre [!DNL Marketo Engage] Det har till exempel ofta en utmaning att sakna aktuell funktionell och teknisk dokumentation. Som administratör är det ett viktigt ansvar att fastställa riktlinjer för att säkerställa korrekt instansstyrning som du inte kan missa. Det är en av de kritiska strategierna för att [öka effektiviteten när du arbetar i en etablerad Marketo Engage-instans](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582).
 
-Den här stegvisa självstudiekursen som du kommer ifrån [!DNL Adobe Marketo Champion], Nick Hajdin, leder dig genom den här processen för att skissa din instanskonfiguration, dokumentera dina primära operativa program och underhålla en [!DNL changelog] att tillämpa en strikt styrningspolicy.
+Den här stegvisa självstudiekursen som du kommer ifrån [!DNL Adobe Marketo Champion] (2018), Nick Hajdin, hjälper dig genom den här processen att skapa en översikt över instansinställningarna, dokumentera dina primära operativa program och underhålla en [!DNL changelog] att tillämpa en strikt styrningspolicy.
 
 ## Varför utveckla en instansstyrningsguide och dokumentation för din ärvda instans?
 
