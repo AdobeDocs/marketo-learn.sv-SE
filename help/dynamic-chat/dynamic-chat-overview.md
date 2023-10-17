@@ -6,10 +6,10 @@ role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: d6f93ad6b4216c9c886a288a23918f9f25187165
+source-git-commit: 0a5330152f2bf8326c8642e09cc7ba6099869283
 workflow-type: tm+mt
-source-wordcount: '333'
-ht-degree: 9%
+source-wordcount: '349'
+ht-degree: 8%
 
 ---
 
@@ -48,6 +48,8 @@ Välkommen till [!UICONTROL Dynamic Chat]  självstudiewebbplats. Använd dessa 
      *Det är enkelt att förhandsgranska dialogrutan innan du publicerar den med funktionen för förhandsgranskning i dialogrutan.*
    * **[Globalisering av statiskt innehåll](globalization-of-static-content.md)**
      *Du kan anpassa statiskt innehåll/systeminnehåll efter ditt eget språk.*
+   * **[Forms](conversational-forms.md)**
+     *Lär er hur ni engagerar era webbplatsbesökare direkt när de fyller i ett formulär.*
 * Live-chatt och mötesbokning
    * **[Konfigurera Live-chatt](set-up-live-chat.md)**
      *Lär dig hur du konfigurerar Live-chatt.*
