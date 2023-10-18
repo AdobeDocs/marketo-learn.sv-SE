@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Marketo Engage
 user-guide-description: En samling videor och självstudiekurser om Adobe Marketo Engage.
 breadcrumb-title: Självstudiekurser om Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 0a5330152f2bf8326c8642e09cc7ba6099869283
+source-git-commit: d16a98ae56fecd3db1b775428ac52682f1cd73cb
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '321'
 ht-degree: 5%
 
 ---
@@ -69,13 +69,15 @@ ht-degree: 5%
    + [Genomgång av personalisering på webben](/help/cross-channel-marketing/web-personalization-watch.md)
 + Dynamic Chat {#dynamic-chat}
    + [Självstudiekurser för Dynamic Chat](/help/dynamic-chat/dynamic-chat-overview.md)
-   + [Demo](/help/dynamic-chat/product-tour.md)
+   + [Demo [2023]](/help/dynamic-chat/product-tour.md)
+   + [Demo [2022]](/help/dynamic-chat/product-tour-2022.md)
    + [Installera](/help/dynamic-chat/setup.md)
    + [Integrering med Marketo](/help/dynamic-chat/marketo-integration.md)
    + [Användarhantering](/help/dynamic-chat/user-management.md)
    + [Forms](/help/dynamic-chat/conversational-forms.md)
+   + [Konversationer SDK](/help/dynamic-chat/conversations-sdk.md)
    + [Dialoghantering](/help/dynamic-chat/dialogue-management.md)
-   + [Konfigurera Live-chatt](/help/dynamic-chat/set-up-live-chat.md)
+   + [Koppla samman besökare till live-agenter](/help/dynamic-chat/connect-visitors-to-live-agents.md)
    + [Agenthantering](/help/dynamic-chat/agent-management.md)
    + [Mötesbokningar](/help/dynamic-chat/meeting-booking.md)
    + [Publicera på 15 minuter](/help/dynamic-chat/go-live-in-15-minutes.md)

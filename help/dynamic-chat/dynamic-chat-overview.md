@@ -6,10 +6,10 @@ role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: 0a5330152f2bf8326c8642e09cc7ba6099869283
+source-git-commit: d16a98ae56fecd3db1b775428ac52682f1cd73cb
 workflow-type: tm+mt
-source-wordcount: '349'
-ht-degree: 8%
+source-wordcount: '385'
+ht-degree: 7%
 
 ---
 
@@ -20,7 +20,9 @@ ht-degree: 8%
 Välkommen till [!UICONTROL Dynamic Chat]  självstudiewebbplats. Använd dessa självstudiekurser tillsammans med dokumentationen för att få en bättre förståelse för hur du använder [!UICONTROL Dynamic Chat]  för att skapa personaliserade konversationer. Följande ämnen kan hjälpa dig att komma igång:
 
 * Översikt
-   * **[En snabb produktdemo](product-tour.md)**
+   * **[En snabb produktdemo [2023]](product-tour.md)**
+     *Få en översikt över alla nya funktioner som lanseras 2023.*
+   * **[En snabb produktdemo [2022]](product-tour.md)**
      *Få en översikt över hela produkten och se hur du kan utnyttja [!UICONTROL Dynamic Chat].*
    * **[Publicera på 15 minuter](go-live-in-15-minutes.md)**
      *En stegvis guide som hjälper dig att komma igång med din första dialog med [!UICONTROL Dynamic Chat]  på bara 15 minuter!*
@@ -50,9 +52,11 @@ Välkommen till [!UICONTROL Dynamic Chat]  självstudiewebbplats. Använd dessa 
      *Du kan anpassa statiskt innehåll/systeminnehåll efter ditt eget språk.*
    * **[Forms](conversational-forms.md)**
      *Lär er hur ni engagerar era webbplatsbesökare direkt när de fyller i ett formulär.*
+   * **[Konversationer SDK](conversations-sdk.md)**
+     *Lär dig hur du implementerar Conversations SDK för att konvertera ett CTA-klick till en engagerande konversation.*
 * Live-chatt och mötesbokning
-   * **[Konfigurera Live-chatt](set-up-live-chat.md)**
-     *Lär dig hur du konfigurerar Live-chatt.*
+   * **[Koppla samman besökare till live-agenter](connect-visitors-to-live-agents.md)**
+     *Koppla samman era kvalificerade leads för att omedelbart få kontakt med era säljare.*
    * **[Aktivera dina leads för att boka möten med din försäljning](meeting-booking.md)**
      *Få snabbare kontakt med säljarna för dem [!DNL target] konton med mötesbokningsfunktioner.*
 * Analyser
