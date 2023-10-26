@@ -1,6 +1,6 @@
 ---
 title: Demo av Dynamic Chat
-description: Läs mer om Dynamic Chat, en ny chattlösning som utvecklats för marknadsföring och försäljning från Adobe.
+description: Läs mer om Dynamic Chat som är en ny chattlösning som har tagit fram av Adobe för marknadsföring och försäljning.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -10,7 +10,7 @@ thumbnail: 3425033.jpeg
 source-git-commit: d16a98ae56fecd3db1b775428ac52682f1cd73cb
 workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 0%
+ht-degree: 20%
 
 ---
 
