@@ -6,10 +6,10 @@ role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: d16a98ae56fecd3db1b775428ac52682f1cd73cb
+source-git-commit: 0ec4c6cada3b33a40b9e29a8dfaa3360208e589d
 workflow-type: tm+mt
-source-wordcount: '385'
-ht-degree: 7%
+source-wordcount: '372'
+ht-degree: 8%
 
 ---
 
@@ -33,8 +33,6 @@ Välkommen till [!UICONTROL Dynamic Chat]  självstudiewebbplats. Använd dessa 
      *Rikta er till era webbbesökare med konversationer och personalisera dem med huvudinformation från Marketo.*
    * **[Lägga till och hantera användare av[!UICONTROL Dynamic Chat]](user-management.md)**
      *Lär dig hur du lägger till eller hanterar användare i [!UICONTROL Dynamic Chat] .*
-   * **[Roller och behörigheter](roles-and-permissions.md)**
-     *Lär dig hur du kan skapa nya roller och ange behörigheter för dina Dynamic Chat-användare.*
    * **[Agenthantering](agent-management.md)**
      *Lär dig hantera agenter.*
 * Automatiserad chatt
