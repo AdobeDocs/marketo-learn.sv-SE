@@ -3,7 +3,7 @@ user-guide-title: Självstudiekurser om Marketo Engage
 user-guide-description: En samling videor och självstudiekurser om Adobe Marketo Engage.
 breadcrumb-title: Självstudiekurser om Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 0ec4c6cada3b33a40b9e29a8dfaa3360208e589d
+source-git-commit: 5b5a85ecff06d79143be92096083e0e9be5da919
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 5%
@@ -13,7 +13,7 @@ ht-degree: 5%
 
 # [!DNL Marketo Engage] självstudier {#tutorials}
 
-+ [[!DNL Marketo Engage] självstudier](/help/_marketo-main/overview.md)
++ [[!DNL Marketo Engage] Självstudiekurser](/help/_marketo-main/overview.md)
 + Grundläggande {#fundamentals}
    + [Mål och strategi](/help/fundamentals/goals-and-strategy-learn.md)
    + [Organisationsstruktur](/help/fundamentals/organizational-structure-learn.md)
