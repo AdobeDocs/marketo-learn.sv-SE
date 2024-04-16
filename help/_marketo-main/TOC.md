@@ -3,7 +3,7 @@ user-guide-title: Självstudiekurser om Marketo Engage
 user-guide-description: En samling videor och självstudiekurser om Adobe Marketo Engage.
 breadcrumb-title: Självstudiekurser om Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 5b5a85ecff06d79143be92096083e0e9be5da919
+source-git-commit: 8bfe4ab10393f5a9f97666aa13e183dbb664b055
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 5%
@@ -98,6 +98,8 @@ ht-degree: 5%
    + [Prenumerationscentral](/help/lead-and-data-management/subscription-center-learn.md)
    + [Prenumerationscentral - genomgång](/help/lead-and-data-management/subscription-center-watch.md)
    + [CRM-synkronisering](/help/lead-and-data-management/crm-sync-learn.md)
+   + [Komma igång med Salesforce-synkronisering](/help/integrations/salesforce-sync-setup.md)
+   + [Komma igång med Microsoft Dynamics-synkronisering](/help/integrations/microsoft-dynamics-sync-setup.md)
    + [Leadens livscykel](/help/lead-and-data-management/lead-lifecycle-learn.md)
    + [Leadens livscykel](/help/lead-and-data-management/lead-lifecycle-watch.md)
 + Händelser {#events}
@@ -110,6 +112,4 @@ ht-degree: 5%
    + [Rapportering och analys](/help/reporting/reporting-and-analytics.md)
    + [Viktiga rapporter](/help/reporting/key-reports.md)
 + Integreringar {#integrations}
-   + [Komma igång med Salesforce-synkronisering](/help/integrations/salesforce-sync-setup.md)
-   + [Komma igång med Microsoft Dynamics-synkronisering](/help/integrations/microsoft-dynamics-sync-setup.md)
    + [Marketo med Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
