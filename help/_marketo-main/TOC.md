@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Marketo Engage
 user-guide-description: En samling videor och självstudiekurser om Adobe Marketo Engage.
 breadcrumb-title: Självstudiekurser om Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 8bfe4ab10393f5a9f97666aa13e183dbb664b055
+source-git-commit: c8ab7a7c94024acf062215ab6f0c1f0de2144ba0
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '337'
 ht-degree: 5%
 
 ---
@@ -68,25 +68,32 @@ ht-degree: 5%
    + [Webbanpassning](/help/cross-channel-marketing/web-personalization-learn.md)
    + [Genomgång av personalisering på webben](/help/cross-channel-marketing/web-personalization-watch.md)
 + Dynamic Chat {#dynamic-chat}
-   + [Självstudiekurser för Dynamic Chat](/help/dynamic-chat/dynamic-chat-overview.md)
-   + [Demo [2023]](/help/dynamic-chat/product-tour.md)
-   + [Demo [2022]](/help/dynamic-chat/product-tour-2022.md)
-   + [Installera](/help/dynamic-chat/setup.md)
-   + [Integrering med Marketo](/help/dynamic-chat/marketo-integration.md)
-   + [Användarhantering](/help/dynamic-chat/user-management.md)
-   + [Forms](/help/dynamic-chat/conversational-forms.md)
-   + [Konversationer SDK](/help/dynamic-chat/conversations-sdk.md)
-   + [Dialoghantering](/help/dynamic-chat/dialogue-management.md)
-   + [Koppla samman besökare till live-agenter](/help/dynamic-chat/connect-visitors-to-live-agents.md)
-   + [Agenthantering](/help/dynamic-chat/agent-management.md)
-   + [Mötesbokningar](/help/dynamic-chat/meeting-booking.md)
-   + [Publicera på 15 minuter](/help/dynamic-chat/go-live-in-15-minutes.md)
-   + [Bädda in PDF i konversationer](/help/dynamic-chat/document-cloud-integration.md)
-   + [Sök i Stream Designer](/help/dynamic-chat/search-in-stream-designer.md)
-   + [Hämta härledda attribut](/help/dynamic-chat/capture-inferred-attributes.md)
-   + [Förhandsgranska dialogruta](/help/dynamic-chat/dialogue-preview.md)
-   + [Åtaganderapport](/help/dynamic-chat/engagement-report.md)
-   + [Globalisering av statiskt innehåll](/help/dynamic-chat/globalization-of-static-content.md)
+   + Kom igång {#dc-overview}
+      + [Översikt](/help/dynamic-chat/dynamic-chat-overview.md)
+      + [Demo [2023]](/help/dynamic-chat/product-tour.md)
+      + [Demo [2022]](/help/dynamic-chat/product-tour-2022.md)
+      + [Publicera på 15 minuter](/help/dynamic-chat/go-live-in-15-minutes.md)
+   + Inställningar {#dc-setup}
+      + [Installera](/help/dynamic-chat/setup.md)
+      + [Integrering med Marketo](/help/dynamic-chat/marketo-integration.md)
+      + [Användarhantering](/help/dynamic-chat/user-management.md)
+      + [Agenthantering](/help/dynamic-chat/agent-management.md)
+   + Automatiserad chatt {#dc-automated-chat}
+      + [Dialoghantering](/help/dynamic-chat/dialogue-management.md)
+      + [Bädda in PDF i konversationer](/help/dynamic-chat/document-cloud-integration.md)
+      + [Sök i Stream Designer](/help/dynamic-chat/search-in-stream-designer.md)
+      + [Hämta härledda attribut](/help/dynamic-chat/capture-inferred-attributes.md)
+      + [Förhandsgranska dialogruta](/help/dynamic-chat/dialogue-preview.md)
+      + [Globalisering av statiskt innehåll](/help/dynamic-chat/globalization-of-static-content.md)
+      + [Forms](/help/dynamic-chat/conversational-forms.md)
+      + [Konversationer SDK](/help/dynamic-chat/conversations-sdk.md)
+   + Live-chatt och mötesbokning {#dc-live-chat-meeting-booking}
+      + [Koppla samman besökare till live-agenter](/help/dynamic-chat/connect-visitors-to-live-agents.md)
+      + [Mötesbokningar](/help/dynamic-chat/meeting-booking.md)
+   + Generativ AI-chatt {#dc-generative-ai-chat}
+      + [Drive GenAI-baserade konversationer](/help/dynamic-chat/gen-ai-features.md)
+   + Analyser {#dc-analytics}
+      + [Åtaganderapport](/help/dynamic-chat/engagement-report.md)
 + Försäljningsinsikter {#sales-insight-actions}
    + [Översikt](/help/sales-insight-actions/overview.md)
    + [Översikt över Säljåtgärder](/help/sales-insight-actions/sales-insight-actions-overview.md)

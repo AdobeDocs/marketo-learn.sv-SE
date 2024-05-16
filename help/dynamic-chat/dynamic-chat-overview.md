@@ -6,10 +6,10 @@ role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: 0ec4c6cada3b33a40b9e29a8dfaa3360208e589d
+source-git-commit: c8ab7a7c94024acf062215ab6f0c1f0de2144ba0
 workflow-type: tm+mt
-source-wordcount: '372'
-ht-degree: 8%
+source-wordcount: '386'
+ht-degree: 7%
 
 ---
 
@@ -57,6 +57,9 @@ Välkommen till [!UICONTROL Dynamic Chat]  självstudiewebbplats. Använd dessa 
      *Koppla samman era kvalificerade leads för att omedelbart få kontakt med era säljare.*
    * **[Aktivera dina leads för att boka möten med din försäljning](meeting-booking.md)**
      *Få snabbare kontakt med säljarna för dem [!DNL target] konton med mötesbokningsfunktioner.*
+* Generativ AI-chatt
+   * **[Drive GenAI-baserade konversationer](gen-ai-features.md)**
+     *Lär dig hur du använder Dynamic Chat GenAI-funktioner.*
 * Analyser
    * **[Åtaganderapport](engagement-report.md)**
      *Se trenderna för hur webbbesökarna interagerar med er dialog*
