@@ -6,9 +6,9 @@ role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: b598324c7361191dce365157abbe9a2e45739820
+source-git-commit: 1b43db90dcd3d8427a53b1aed861c2886e8b6d9a
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '419'
 ht-degree: 7%
 
 ---
@@ -52,6 +52,8 @@ Välkommen till [!UICONTROL Dynamic Chat]  självstudiewebbplats. Använd dessa 
      *Lär er hur ni engagerar era webbplatsbesökare direkt när de fyller i ett formulär.*
    * **[Konversationer SDK](conversations-sdk.md)**
      *Lär dig hur du implementerar Conversations SDK för att konvertera ett CTA-klick till en engagerande konversation.*
+   * **[Conversational Landing Pages](conversational-landing-pages.md)**
+     *Med bara några klick kan du installera Dynamic Chat Conversational Flow på en landningssida (Marketo Landing Pages or Custom) och konvertera en länk eller knapp för att starta ett samtal.*
 * Live-chatt och mötesbokning
    * **[Koppla samman besökare till live-agenter](connect-visitors-to-live-agents.md)**
      *Koppla samman era kvalificerade leads för att omedelbart få kontakt med era säljare.*
@@ -63,4 +65,3 @@ Välkommen till [!UICONTROL Dynamic Chat]  självstudiewebbplats. Använd dessa 
 * Analyser
    * **[Åtaganderapport](engagement-report.md)**
      *Se trenderna för hur era webbbesökare engagerar sig i er dialog.*
-
