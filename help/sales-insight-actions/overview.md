@@ -6,9 +6,9 @@ role: User, Admin, Leader
 level: Beginner, Intermediate, Experienced
 exl-id: fac23fde-1fc8-4710-a5f5-2e19a2618d6d
 feature: Sales Insight Actions
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 063ac280987d4a2b68245f51cde1199ea93319df
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -18,10 +18,6 @@ ht-degree: 0%
 ![](assets/header.png)
 
 Använd [!UICONTROL Sales Insight Actions] för att snabba upp prospekteringsarbetet med marknadsföringsbaserade verktyg för analys och engagemang i ett enda arbetsflöde.
-
->[!AVAILABILITY]
->
->Den här funktionen är för närvarande i en fasad utrullning. Kontakta din Customer Success Manager eller mejl `sales-insights(at)adobe(dot)com` för att begära åtkomst.
 
 ## Tutorials {#featured-tutorials}
 
@@ -63,11 +59,3 @@ Använd [!UICONTROL Sales Insight Actions] för att snabba upp prospekteringsarb
 </td>
 </tr>
 </table>
-
-## Personlig support {#personalized-support}
-
-Om du vill ha personlig support för den här funktionen måste du [schemalägg ett samtal](https://outlook.office365.com/owa/calendar/AdobeInc1@adobe.onmicrosoft.com/bookings/) med produktgruppen.
-
-## Rapportera fel/feedback {#report-a-bug-feedback}
-
-Om du råkar ut för ett fel eller har allmän feedback om den här funktionen, skicka ett e-postmeddelande till oss på `sales-insights(at)adobe(dot)com`.
