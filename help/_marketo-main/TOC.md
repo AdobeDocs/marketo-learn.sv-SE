@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Marketo Engage
 user-guide-description: En samling videor och självstudiekurser om Adobe Marketo Engage.
 breadcrumb-title: Självstudiekurser om Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 1b43db90dcd3d8427a53b1aed861c2886e8b6d9a
+source-git-commit: e4d3ae7bb16fa9e1ab58a79cedd8378dbbf56794
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '357'
 ht-degree: 5%
 
 ---
@@ -109,7 +109,13 @@ ht-degree: 5%
    + [Skapa ett händelseprogram](/help/events/events-learn.md)
    + [Webbinarier](/help/events/webinar-learn.md)
    + [Genomgång av webbinarier](/help/events/webinar-watch.md)
+   + [Interaktiva webbinarier - användar- och licenshantering](/help/events/interactive-webinars-user-and-license-management.md)
+   + [Skapa interaktiva webbinarier](/help/events/interactive-webinars-event-program-creation.md)
+   + [Interactive Webinars Event Program Overview](/help/events/interactive-webinars-event-program-overview.md)
+   + [Händelsekonfiguration för interaktiva webbinarier](/help/events/interactive-webinars-event-configuration.md)
    + [Designa ett effektivt interaktivt webbinarium](/help/events/design-an-effective-interactive-webinar.md)
+   + [Interactive Webinars Event Delivery](/help/events/interactive-webinars-event-delivery.md)
+   + [Interaktiva webbinarier Post Event Insights and Actions](/help/events/interactive-webinars-post-event-insights-and-actions.md)
 + Rapportering och analys {#reporting}
    + [Rapportering och analys](/help/reporting/reporting-and-analytics.md)
    + [Viktiga rapporter](/help/reporting/key-reports.md)
