@@ -1,14 +1,15 @@
 ---
 title: Självstudiekurser för Dynamic Chat
 description: Lär dig om Dynamic Chat på Adobe Experience League. Använd dessa självstudiekurser tillsammans med dokumentationen för att få en bättre förståelse för hur du använder Dynamic Chat för att skapa personanpassade konversationer.
+short-description: Använd dessa självstudiekurser tillsammans med produktdokumentationen för att få en bättre förståelse för de olika sätt som Dynamic Chat kan arbeta på.
 doc-type: overview-page
 role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: 02c297e50ae5ba663afe024766877e72ed94fceb
+source-git-commit: 081fe7d08986c45f83a8edd1a0805a66e1ff20d6
 workflow-type: tm+mt
-source-wordcount: '444'
+source-wordcount: '466'
 ht-degree: 6%
 
 ---
