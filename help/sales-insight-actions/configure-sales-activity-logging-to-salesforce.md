@@ -1,6 +1,6 @@
 ---
-title: Konfigurera loggning av försäljningsaktivitet till [!DNL Salesforce]
-description: Konfigurera loggning av försäljningsaktivitet till [!DNL Salesforce]
+title: Konfigurera loggning av försäljningsaktivitet till  [!DNL Salesforce]
+description: Konfigurera loggning av försäljningsaktivitet till  [!DNL Salesforce]
 role: User
 level: Beginner
 exl-id: a48410aa-cd68-46b2-bd52-1a7253470e74
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 # Konfigurera loggning av försäljningsaktivitet till [!DNL Salesforce] {#configure-sales-activity-logging-to-salesforce}
 
-Lär dig hur du konfigurerar och loggar Sales Insight Actions-aktiviteter till din [!DNL Salesforce] konto.
+Lär dig hur du konfigurerar och loggar aktiviteter för Sales Insight-åtgärder till ditt [!DNL Salesforce]-konto.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340843/?quality=12&learn=on){trancript=true}
 
 ## Relaterade videoklipp
 
-* [Översikt över Säljannonsering](/help/sales-insight-actions/sales-insight-actions-overview.md){target="_blank"}
-* [Få åtkomst till dina [!DNL Sales Insight Actions] Instance](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}
+* [Översikt över åtgärder för försäljningsinsikter](/help/sales-insight-actions/sales-insight-actions-overview.md){target="_blank"}
+* [Åtkomst till din [!DNL Sales Insight Actions] instans](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}

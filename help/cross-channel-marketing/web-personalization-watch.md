@@ -1,6 +1,6 @@
 ---
 title: Engagera besökarna med webbpersonalisering
-description: Se hur man ansluter [!DNL Marketo] till flera av våra Digital Adding LaunchPoint-partners.
+description: Se hur du kan ansluta [!DNL Marketo] till flera av våra LaunchPoint-partners för digital annonsering.
 role: User
 level: Beginner
 jira: KT-10726
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Engagera besökarna med webbpersonalisering
 
-Se hur man ansluter [!DNL Marketo] till flera av våra Digital Adding LaunchPoint-partners.
+Se hur du ansluter [!DNL Marketo] till flera av våra LaunchPoint-partners för digital annonsering.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345404/?quality=12&learn=on){trancript=true}

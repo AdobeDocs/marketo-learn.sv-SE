@@ -1,7 +1,7 @@
 ---
 source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ Program är ett enda marknadsföringsinitiativ. Lär dig utnyttja dem tillsamman
 
 Se produktguiderna för mer information:
 
-* [Dokumentation om program](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html?lang=en)
-* [Dokumentation om smarta kampanjer](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=en)
+* [Programdokumentation](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html?lang=en)
+* [Förstå dokumentationen för smarta kampanjer](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=en)
 
 Lär er av kollegor hur ni använder smarta kampanjer:
 
-* [Expert Customer Blog post: Smart Campaigns 101: A Deep Dive into Adobe Marketo Engage Most Power Feature](https://nation.marketo.com/t5/product-blogs/smart-campaigns-101-a-deep-dive-into-adobe-marketo-engage-s-most/ba-p/313385#M1838)
+* [Expert Customer Blog post: Smart Campaigns 101: A Deep Dyve into Adobe Marketo Engage Most Power Feature](https://nation.marketo.com/t5/product-blogs/smart-campaigns-101-a-deep-dive-into-adobe-marketo-engage-s-most/ba-p/313385#M1838)

@@ -1,6 +1,6 @@
 ---
-title: Läs mer om hur du använder [!DNL Marketo] bästa praxis för instans och program
-description: Följande [!DNL Marketo's] de bästa sätten att organisera dina program och din instans kan hjälpa dig och dina kollegor att hitta det du behöver i din instans när du behöver det, och kan göra rapporteringen mer korrekt.
+title: Lär dig använda  [!DNL Marketo] instans- och programmetodtips
+description: Om du följer [!DNL Marketo's] rekommendationer om bästa tillvägagångssätt för att organisera dina program och din instans kan du och dina kollegor hitta det du behöver i din instans när du behöver det, och du kan göra rapporteringen mer korrekt.
 role: User
 level: Beginner
 jira: KT-10736
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# Läs mer om hur du använder [!DNL Marketo] bästa praxis för instans och program
+# Lär dig mer om att använda [!DNL Marketo]-instans och bästa praxis för program
 
-Följande [!DNL Marketo's] de bästa sätten att organisera dina program och din instans kan hjälpa dig och dina kollegor att hitta det du behöver i din instans när du behöver det, och kan göra rapporteringen mer korrekt.
+Följ [!DNL Marketo's] förslag på bästa praxis för att organisera dina program och din instans kan hjälpa dig och dina kollegor att hitta det du behöver i din instans när du behöver det, vilket gör rapporteringen mer korrekt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345420/?quality=12&learn=on){trancript=true}

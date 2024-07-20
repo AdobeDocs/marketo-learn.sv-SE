@@ -1,5 +1,5 @@
 ---
-title: Läs om hur du optimerar SEO-arbetet med [!DNL Marketo]
+title: Läs om hur du optimerar SEO-arbetet med  [!DNL Marketo]
 description: Förloras er webbplats i hundratals sökresultat? Lär dig hur ni kan öka ert varumärkes synlighet genom att förbättra era SEO- och PPC-strategier.
 role: User
 level: Beginner
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Läs om hur du optimerar SEO-arbetet med [!DNL Marketo]
+# Läs om hur du optimerar SEO-insatser med [!DNL Marketo]
 
 Förloras er webbplats i hundratals sökresultat? Lär dig hur ni kan öka ert varumärkes synlighet genom att förbättra era SEO- och PPC-strategier.
 

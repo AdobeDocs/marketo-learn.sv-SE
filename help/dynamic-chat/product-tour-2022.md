@@ -9,14 +9,14 @@ exl-id: 6da18db9-1fc9-4a30-a302-102904f79aee
 feature: Dynamic Chat
 source-git-commit: d16a98ae56fecd3db1b775428ac52682f1cd73cb
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 17%
+source-wordcount: '91'
+ht-degree: 16%
 
 ---
 
 # Demo av [!UICONTROL Dynamic Chat] [2022]
 
-[!UICONTROL Dynamic Chat]  är en ny chatbot-lösning som har byggts för marknadsföring och försäljning. Det är integrerat med [!DNL Marketo Engage]som gör att du kan använda [!UICONTROL Dynamic Chat]  som en ny kanal i er flerkanalsmarknadsföring. Det är enkelt att använda och lätt att konfigurera. Ta en kort produktdemo:
+[!UICONTROL Dynamic Chat] är en ny chatbot-lösning som har skapats för marknadsföring och försäljning. Den är inbyggd i [!DNL Marketo Engage], vilket gör att du kan använda [!UICONTROL Dynamic Chat] som en ny kanal i din flerkanalsmarknadsföring. Det är enkelt att använda och lätt att konfigurera. Ta en kort produktdemo:
 
 >[!VIDEO](https://video.tv.adobe.com/v/340473/?quality=12&learn=on){trancript=true}
 
@@ -24,5 +24,5 @@ ht-degree: 17%
 
 * [Demo [2022]](product-tour-2022.md)
 * [Installera chatbot](setup.md)
-* [Aktivera Marketo-integrationen med [!UICONTROL Dynamic Chat]](marketo-integration.md)
+* [Aktivera din Marketo-integrering med [!UICONTROL Dynamic Chat]](marketo-integration.md)
 * [Publicera på bara 15 minuter](go-live-in-15-minutes.md)

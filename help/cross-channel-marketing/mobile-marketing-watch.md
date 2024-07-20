@@ -1,6 +1,6 @@
 ---
 title: Integrera mobilmarknadsföring med Marketo
-description: Se hur du skapar köparprofiler, anger nyckeltal, fastställer din kommunikationslängd, använder [!DNL Marketo’s] Marknadsföringskalender med mera för att förbättra er strategi för mobilmarknadsföring.
+description: Se hur du kan skapa köparprofiler, ange nyckeltal, fastställa din kommunikationslängd, använda  [!DNL Marketo’s] marknadsföringskalender och mycket mer för att förbättra er strategi för mobilmarknadsföring.
 role: User
 level: Beginner
 jira: KT-10729
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Integrera mobilmarknadsföring med Marketo
 
-Se hur du skapar köparprofiler, ställer in nyckeltal, fastställer din kommunikationslängd, använder [!DNL Marketo] Marknadsföringskalender med mera för att förbättra er strategi för mobilmarknadsföring.
+Titta på hur du skapar köparprofiler, anger nyckeltal, fastställer din kommunikationslängd, använder marknadsföringskalendern [!DNL Marketo] med mera för att förbättra din strategi för mobilmarknadsföring.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345402/?quality=12&learn=on){trancript=true}

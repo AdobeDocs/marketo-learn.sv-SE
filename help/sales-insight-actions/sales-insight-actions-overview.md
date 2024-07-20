@@ -21,4 +21,4 @@ Snabba upp prospekteringsarbetet med marknadsföringsstyrda verktyg för analys 
 ## Relaterade videoklipp
 
 * [Konfigurera loggning av försäljningsaktivitet till [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md){target="_blank"}
-* [Få åtkomst till dina [!DNL Sales Insight Actions] Instance](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}
+* [Åtkomst till din [!DNL Sales Insight Actions] instans](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}

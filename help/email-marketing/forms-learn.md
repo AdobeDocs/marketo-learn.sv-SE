@@ -1,6 +1,6 @@
 ---
 title: Läs om hur du skapar och redigerar formulär
-description: Använd [!DNL Marketo forms] för att inhämta persondata stegvis när presumtiva kunder besöker er webbplats.
+description: Använd  [!DNL Marketo forms] för att stegvis hämta in persondata när presumtiva kunder besöker din webbplats.
 role: User
 level: Beginner
 jira: KT-10755
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Läs om hur du skapar och redigerar formulär
 
-Använd [!DNL Marketo forms] för att inhämta persondata stegvis när presumtiva kunder besöker er webbplats.
+Använd [!DNL Marketo forms] om du vill samla in persondata progressivt när presumtiva kunder besöker din webbplats.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345474/?quality=12&learn=on){trancript=true}

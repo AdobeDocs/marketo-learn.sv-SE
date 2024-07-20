@@ -1,6 +1,6 @@
 ---
 title: Läs om hur du skapar utlösta e-postkampanjer
-description: Lär dig använda [!DNL Marketo] för att dra nytta av köparbeteenden genom att använda triggade e-postkampanjer för att interagera med aktuella och relevanta meddelanden.
+description: Lär dig hur du använder  [!DNL Marketo] för att utnyttja köparbeteenden genom att använda utlösta e-postkampanjer för att interagera med aktuella och relevanta meddelanden.
 role: User
 level: Beginner
 jira: KT-10762
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Läs om hur du skapar utlösta e-postkampanjer
 
-Lär dig använda [!DNL Marketo] för att dra nytta av köparbeteenden genom att använda triggade e-postkampanjer för att interagera med aktuella och relevanta meddelanden.
+Lär dig hur du använder [!DNL Marketo] för att utnyttja köparbeteenden genom att använda utlösta e-postkampanjer för att interagera med aktuella och relevanta meddelanden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345479/?quality=12&learn=on){trancript=true}

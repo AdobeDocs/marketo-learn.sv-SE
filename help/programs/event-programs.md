@@ -7,11 +7,11 @@ doc-type: Feature Video
 last-substantial-update: 2023-05-23T00:00:00Z
 jira: KT-13258
 thumbnail: 3419622.jpeg
-exl-id: e5acbd36-011d-4ad4-b881-d21227bc37da
+exl-id: 1d31201c-1c61-4ab8-8a2c-dad60655941a
 feature: Programs
-source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
+source-git-commit: a80342218bbc8c42f88c6ccf3a435cbbd3bd47d0
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -26,10 +26,10 @@ Utveckla en grundläggande förståelse och bygg ditt första Event-program geno
 
 Se produktguiderna för mer information:
 
-* [Dokumentation om händelseprogram](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html?lang=en)
+* [Dokumentation om händelseprogram ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html?lang=en)
 
 Titta på ytterligare videofilmer om du vill ha mer hjälp om den här funktionen:
-* [Händelser som går igenom](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/events-watch.html?lang=en)
+* [Händelser går igenom](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/events-watch.html?lang=en)
 * [Webbinarier går igenom](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/webinar-watch.html?lang=en)
 
 Lär dig av andra om hur du använder händelseprogram:

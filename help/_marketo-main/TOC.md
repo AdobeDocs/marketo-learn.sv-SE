@@ -26,7 +26,7 @@ ht-degree: 5%
    + [Bästa tillvägagångssätt för att skapa grundläggande program](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [Anpassa med variabler](/help/personalization/personalize-with-tokens.md)
    + [Implementera en ny instans - självstudiekurs](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
-   + [Granska en ärvd instans - självstudiekurs](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)
+   + [Granska en ärvd instans - självstudie](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)
 + Program och kampanjer {#programs-and-campaigns}
    + [Förstå program och kampanjer](/help/programs/understanding-programs-and-campaigns.md)
    + [Smarta kampanjer 101](/help/campaigns/smart-campaigns-101.md)
@@ -58,7 +58,7 @@ ht-degree: 5%
    + [Utlöst e-postgenomgång](/help/email-marketing/triggered-email-watch.md)
    + [Främjande av leads](/help/email-marketing/lead-nuturing-learn.md)
    + [Dynamiskt och prediktivt innehåll](/help/email-marketing/dynamic-and-predictive-content-learn.md)
-   + [Filtrera aktiviteter för e-postrobot - Inställningar](/help/filtering-email-bot-activities/setup.md)
+   + [Filtrerar aktiviteter för e-postrobot - Inställningar](/help/filtering-email-bot-activities/setup.md)
 + Flerkanalsmarknadsföring {#cross-channel-marketing}
    + [Forms genomgång](/help/email-marketing/forms-watch.md)
    + [Integrera mobil marknadsföring](/help/cross-channel-marketing/mobile-marketing-learn.md)
@@ -92,11 +92,11 @@ ht-degree: 5%
    + [Mötesbokningar](/help/dynamic-chat/meeting-booking.md)
    + [Drive GenAI-baserade konversationer](/help/dynamic-chat/gen-ai-features.md)
    + [Åtaganderapport](/help/dynamic-chat/engagement-report.md)
-+ Försäljningsinsikter {#sales-insight-actions}
++ Försäljningsinsikter åtgärder {#sales-insight-actions}
    + [Översikt](/help/sales-insight-actions/overview.md)
    + [Översikt över Säljåtgärder](/help/sales-insight-actions/sales-insight-actions-overview.md)
    + [Få åtkomst till instansen Sales Insight Actions](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
-   + [Konfigurera loggning av försäljningsaktivitet för [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
+   + [Konfigurera försäljningsaktivitetsloggning till  [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + Lead- och datahantering {#lead-and-data-management}
    + [Resultat/personpoäng](/help/lead-and-data-management/lead-scoring-learn.md)
    + [Genomgång av poäng/poäng](/help/lead-and-data-management/lead-scoring-watch.md)
@@ -122,5 +122,5 @@ ht-degree: 5%
 + Rapportering och analys {#reporting}
    + [Rapportering och analys](/help/reporting/reporting-and-analytics.md)
    + [Viktiga rapporter](/help/reporting/key-reports.md)
-+ Integreringar {#integrations}
++ Integrationer {#integrations}
    + [Marketo med Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)

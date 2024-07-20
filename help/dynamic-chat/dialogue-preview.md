@@ -24,6 +24,6 @@ Det är enkelt att förhandsgranska dialogrutan innan du publicerar den med funk
 
 ## Fler praktiska videor
 
-* [Lägga till och hantera användare av [!UICONTROL Dynamic Chat]](user-management.md)
+* [Lägg till och hantera användare av [!UICONTROL Dynamic Chat]](user-management.md)
 * [Skapa och hantera personaliserade dialogrutor](dialogue-management.md)
-* [Aktivera Marketo-integrationen med [!UICONTROL Dynamic Chat]](marketo-integration.md)
+* [Aktivera din Marketo-integrering med [!UICONTROL Dynamic Chat]](marketo-integration.md)

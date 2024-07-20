@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Bädda in PDF i konversationer
 
-[!UICONTROL Dynamic Chat]  är nu integrerat med Document Cloud PDF Embed API. På så sätt kan du dela PDF-dokument i skräddarsydda konversationer som du designar i [!UICONTROL Dynamic Chat] .
+[!UICONTROL Dynamic Chat] är nu integrerat med Document Cloud-API:t för inbäddning av PDF. Detta gör att du kan dela PDF-dokument i personliga konversationer som du designar i [!UICONTROL Dynamic Chat].
 
 >[!VIDEO](https://video.tv.adobe.com/v/343479/?quality=12&learn=on){trancript=true}

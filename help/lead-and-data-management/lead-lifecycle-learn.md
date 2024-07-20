@@ -1,6 +1,6 @@
 ---
 title: Lär dig mer om att skapa ett personlivscykelprogram
-description: Vet du hur många leads som finns i varje steg av köpresan och när försäljningen ska kontakta dem? Lär dig skapa en [!UICONTROL person lifecycle] program som använder poängsättning för att få insikter om var era leads befinner sig på deras resa.
+description: Vet du hur många leads som finns i varje steg av köpresan och när försäljningen ska kontakta dem? Lär dig hur du skapar ett [!UICONTROL person lifecycle]-program som använder poängsättning för att få insikter om var dina leads befinner sig på resan.
 role: User
 level: Beginner
 jira: KT-10738
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Lär dig mer om att skapa ett personlivscykelprogram
 
-Vet du hur många leads som finns i varje steg av köpresan och när försäljningen ska kontakta dem? Lär dig skapa en [!UICONTROL person lifecycle] program som använder poängsättning för att få insikter om var era leads befinner sig på deras resa.
+Vet du hur många leads som finns i varje steg av köpresan och när försäljningen ska kontakta dem? Lär dig hur du skapar ett [!UICONTROL person lifecycle]-program som använder poängsättning för att få insikter om var dina leads befinner sig på resan.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345422/?quality=12&learn=on){trancript=true}

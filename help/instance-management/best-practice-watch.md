@@ -1,5 +1,5 @@
 ---
-title: Så här använder du [!DNL Marketo] bästa praxis för instans och program
+title: Använda  [!DNL Marketo] metodtips för instans och program
 description: Se hur man implementerar Marketo förslag på program och föreställer bästa praxis i Marketo.
 role: User
 level: Beginner
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ---
 
-# Så här använder du [!DNL Marketo] bästa praxis för instans och program
+# Så här använder du [!DNL Marketo]-instanser och bästa praxis för program
 
 Se hur man implementerar Marketo förslag på program och föreställer bästa praxis i Marketo.
 

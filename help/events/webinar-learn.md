@@ -1,6 +1,6 @@
 ---
 title: Läs om hur du skapar och kör ett webbinariprogram
-description: Vill du köra ett webbinarium som en del av marknadsföringsaktiviteterna? Läs om hur webbinarier fungerar med [!DNL Marketo Engage] och Adobe Exchange webbinarium partners.
+description: Vill du köra ett webbinarium som en del av marknadsföringsaktiviteterna? Läs om hur webbinarier fungerar med [!DNL Marketo Engage]  och Adobe Exchange webbinarier.
 role: User
 level: Beginner
 jira: KT-10758
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Läs om hur du skapar och kör ett webbinariprogram
 
-Vill du köra ett webbinarium som en del av marknadsföringsaktiviteterna? Läs om hur webbinarier fungerar med [!DNL Marketo Engage] och Adobe Exchange webbinarium partners.
+Vill du köra ett webbinarium som en del av marknadsföringsaktiviteterna? Läs om hur webbinarier fungerar med [!DNL Marketo Engage] och Adobe Exchange webbinarier-partners.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345476/?quality=12&learn=on){trancript=true}

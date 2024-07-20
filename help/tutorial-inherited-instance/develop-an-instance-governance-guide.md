@@ -9,28 +9,28 @@ last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-14103
 thumbnail: KT-14103.jpeg
 hide: false
-source-git-commit: 4dc6aeed353fdd8bac960603af22b060ae2d7f00
+exl-id: 4313b54a-1848-4684-b037-7a7795dd01ec
+source-git-commit: 681d390ce5ab336a7e24cc63256659a492288517
 workflow-type: tm+mt
-source-wordcount: '906'
+source-wordcount: '896'
 ht-degree: 0%
 
 ---
 
-
 # Utveckla en instansstyrningsguide med dokumentation
 
-När du går in i ett äldre [!DNL Marketo Engage] Det har till exempel ofta en utmaning att sakna aktuell funktionell och teknisk dokumentation. Som administratör är det ett viktigt ansvar att fastställa riktlinjer för att säkerställa korrekt instansstyrning som du inte kan missa. Det är en av de kritiska strategierna för att [öka effektiviteten när du arbetar i en etablerad Marketo Engage-instans](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582).
+När du går in i en äldre [!DNL Marketo Engage]-instans har den ofta en utmaning att sakna aktuell funktionell och teknisk dokumentation. Som administratör är det ett viktigt ansvar att fastställa riktlinjer för att säkerställa korrekt instansstyrning som du inte kan missa. Det är en av de kritiska strategierna för att [öka effektiviteten när du arbetar i en etablerad Marketo Engage-instans](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582).
 
-Den här stegvisa självstudiekursen som du kommer ifrån [!DNL Adobe Marketo Champion] (2018), Nick Hajdin, hjälper dig genom den här processen att skapa en översikt över instansinställningarna, dokumentera dina primära operativa program och underhålla en [!DNL changelog] att tillämpa en strikt styrningspolicy.
+Den här stegvisa självstudiekursen som kommer från [!DNL Adobe Marketo Champion] (2018) Nick Hajdin guidar dig genom den här processen för att skissera instanskonfigurationen, dokumentera dina primära operativa program och upprätthålla en [!DNL changelog] för att tillämpa en strikt styrningsprincip.
 
 ## Varför utveckla en instansstyrningsguide och dokumentation för din ärvda instans?
 
-Detaljerad dokumentation och en [!DNL changelog] är avgörande för effektiv hantering och kunskapsöverföring inom [!DNL Marketo Engage] -instans. Genom att hålla reda på ändringar och beslut som du har fattat under instanskonfigurationen kan du:
+Detaljerad dokumentation och en [!DNL changelog] är avgörande för effektiv hantering och kunskapsöverföring i [!DNL Marketo Engage]-instansen. Genom att hålla reda på ändringar och beslut som du har fattat under instanskonfigurationen kan du:
 
 1. Utbilda interna användare enklare på ett skalbart sätt.
-2. Bygg effektivare i [!DNL Marketo Engage] på lång sikt.
-3. Bibehåll hälsan och hygienen i din instans och gå vidare för att slippa lägga timmar på att gräva i e-post, [granskningsspår](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html)och [aktivitetslogg](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html) för att få kontext.
-4. Spara tid vid överföring [!DNL Marketo Engage] kunskap till en ny [!DNL Marketo Engage] om teamet har någon omsättning.
+2. Bygg mer effektivt i [!DNL Marketo Engage] på lång sikt.
+3. Behåll hälsa och hygien i instansen genom att gå framåt så att du slipper lägga timmar på att gräva i e-postmeddelanden, [granskningsspår](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html) och [aktivitetsloggar](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html) för att få kontext.
+4. Spara tid när du överför [!DNL Marketo Engage]-kunskaper till en ny [!DNL Marketo Engage]-administratör om ditt team upplever någon omsättning.
 
 ## [!DNL Marketo Engage] styrningsguide 101
 
@@ -42,16 +42,16 @@ En styrningsguide fungerar som en källa till sanning för instansens konfigurat
 * Styrningsstandarder
 * Intern användarutbildning innan de får åtkomst till plattformen
 
-## Utveckla och underhålla en styrningsguide för [!DNL Marketo Engage] instance
+## Utveckla och underhålla en styrningsguide för din [!DNL Marketo Engage]-instans
 
 ### Steg 1: Identifiera din aktuella styrningsguide och dokumentation
 
-* **Jag kan inte hitta någon dokumentation för min ärvda instans:** Om du nyligen har påbörjat en ny roll och inte kan hitta någon dokumentation för den ärvda instansen kan du **gå till steg 2** och komma igång med en nedladdningsbar mall som vi har tillhandahållit.
-* **Jag har dokumentation till hands:** Grattis, det här är ett gott tecken! Se till att de är relevanta för att se när den senaste ändringen görs. Om det inte underhålls aktivt av dina teammedlemmar rekommenderar vi att du uppdaterar dem och informerar dina interna användare om hur de håller det uppdaterat.
+* **Jag kan inte hitta någon dokumentation för min ärvda instans:** Om du nyligen har startat en ny roll och inte kan hitta någon dokumentation för den ärvda instansen **går du till steg 2** och kommer igång med en hämtningsbar mall som vi tillhandahöll.
+* **Jag har dokumentation om filen:** Grattis, det här är ett bra tecken! Se till att de är relevanta för att se när den senaste ändringen görs. Om det inte underhålls aktivt av dina teammedlemmar rekommenderar vi att du uppdaterar dem och informerar dina interna användare om hur de håller det uppdaterat.
 
-### Steg 2: Identifiera elementen som ska inkluderas i [!DNL Marketo Engage] Dokumentation och [!DNL Changelogs]
+### Steg 2: Identifiera de element som ska inkluderas i [!DNL Marketo Engage]-dokumentationen och [!DNL Changelogs]
 
-Formatet varierar från en molnbaserad plattform till ett delat dokument. Du kan utforma det format som passar din organisations behov. [Här är en enkel dokumentations- och Exchange-Excel-mall](/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx) som täcker de viktiga element som du kan komma igång med. Bland dessa finns:
+Formatet varierar från en molnbaserad plattform till ett delat dokument. Du kan utforma det format som passar din organisations behov. [Här är en enkel dokumentation och en Excel-mall för ändringsloggar](/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx) som innehåller viktiga element som du kan komma igång med. Bland dessa finns:
 
 * Dokumentation
    * Programmallsnamn
@@ -61,7 +61,7 @@ Formatet varierar från en molnbaserad plattform till ett delat dokument. Du kan
    * Programmets syfte
    * Status
    * Länk till programmall
-   * OBS
+   * Anteckning
 * Changelog
    * Programmallsnamn
    * Ändringsdatum
@@ -73,19 +73,19 @@ Formatet varierar från en molnbaserad plattform till ett delat dokument. Du kan
 
 ### Steg 3: Identifiera och dokumentera det aktuella läget för de primära operativa programmen
 
-Börja med att identifiera de viktigaste operativa programmen med påverkan på prenumerationsnivå. Exempel är datahanteringskampanjer, leadlivscykel, poängsättning för leads, [!DNL CRM] Synka och leverera.
+Börja med att identifiera de viktigaste operativa programmen med påverkan på prenumerationsnivå. Exempel är datahanteringskampanjer, lead-livscykel, lead-poängsättning, [!DNL CRM]-synkronisering och leveransbarhet.
 
 För varje identifierat operativt program dokumentera dess nuvarande status. Detta innehåller information om programmets syfte, konfiguration, associerade smarta kampanjer och integrering med andra verktyg (om tillämpligt).
 
-### Steg 4: Tvinga [!DNL Changelog] Underhåll
+### Steg 4: Tvinga underhåll av [!DNL Changelog]
 
-Nästa steg är att etablera en strikt styrningspolicy för [!DNL Marketo Engage] instans som anger &quot;[!DNL Changelog] underhåll.&quot; Denna policy säkerställer att alla uppdateringar som görs av de operativa programmen i hela instansen dokumenteras noggrant.
+Nästa steg är att upprätta en strikt styrningsprincip för din [!DNL Marketo Engage]-instans som kräver [!DNL Changelog]-underhåll. Denna policy säkerställer att alla uppdateringar som görs av de operativa programmen i hela instansen dokumenteras noggrant.
 
 Undervisa teamet om vikten av dessa dokument och hur man får tillgång till och uppdaterar dem på rätt sätt. Det kan vara praktiskt att tilldela ansvarsområden för att underhålla ändringsloggen, så att ett fåtal utsedda medlemmar i Marketing Operation-teamet eller administratörer konsekvent registrerar ändringar och tillhandahåller signaturer.
 
 ### Steg 5: Centralisera dokumentation
 
-Upprätta en central plats eller lagringsplats för lagring av all dokumentation som är relaterad till din [!DNL Marketo Engage] -instans. Det kan vara en delad enhet, en dedikerad mapp eller ett molnbaserat system.
+Skapa en central plats eller databas för lagring av all dokumentation som hör till din [!DNL Marketo Engage]-instans. Det kan vara en delad enhet, en dedikerad mapp eller ett molnbaserat system.
 
 ### Steg 6: Regelbunden granskning och uppdatering
 
@@ -93,24 +93,24 @@ Schemalägg regelbundna granskningar av din dokumentation för att säkerställa
 
 ## Vad händer nu?
 
-Kom igång genom att ladda ned den här [enkel mall](/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx).
+Kom igång genom att hämta den här [enkla mallen](/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx).
 
 Följ stegen ovan för att utveckla din styrningsguide och dokumentation. När du arbetar med processen bör du tänka på följande regler:
 
 **Uppdatera befintlig dokumentation:**
 Det är viktigt att hålla dokumentationen uppdaterad. Om det inte har ändrats de senaste 3 åren sparar du tid på att granska din dokumentation medan du granskar instansen.
 
-**Dela och utbilda:**
-Dela din dokumentation och [!DNL changelog] tillsammans med relevanta teammedlemmar och informera dem om hur de uppdaterar dessa register.
+**Dela och träna:**
+Dela din dokumentation och [!DNL changelog] med relevanta teammedlemmar och lär dem hur de uppdaterar dessa register.
 
-**Periodisk granskning:** planera in tiden för att granska och underhålla dem under året så att de omfattar nya ändringar, optimeringar eller justeringar när de inträffar.
+**Periodisk granskning:** anger tid för att granska och underhålla dem under året för att inkludera nya ändringar, optimeringar eller justeringar när de inträffar.
 
 Genom att hålla omfattande och aktuell dokumentation för Marketo Engage sparar du tid och arbete på lång sikt och underlättar effektiv instanshantering.
 
 ### Författare
 
 **Nick Hajdin**
-[!DNL Adobe Marketo Champion] 2018
+[!DNL Adobe Marketo Champion] (2018)
 *[!DNL Digital Technology Senior Manager at Accenture]*
 
 ![Nick Hajdin](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Nicholas_Hajdin.png){width="30%"}

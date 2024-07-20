@@ -22,6 +22,6 @@ Att utforma konversationer som är målinriktade och personaliserade är nyckeln
 
 ## Fler praktiska videor
 
-* [Lägga till och hantera användare av [!UICONTROL Dynamic Chat]](user-management.md)
+* [Lägg till och hantera användare av [!UICONTROL Dynamic Chat]](user-management.md)
 * [Aktivera Marketo-integrationen med Dynamic Chat](marketo-integration.md)
 * [Aktivera dina leads för att boka möten med din försäljning](meeting-booking.md)

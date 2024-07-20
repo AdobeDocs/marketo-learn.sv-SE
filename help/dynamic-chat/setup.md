@@ -1,6 +1,6 @@
 ---
 title: Installera chatbot
-description: Lär dig konfigurera och konfigurera [!UICONTROL Dynamic Chat] för första gången.
+description: Lär dig hur du konfigurerar och konfigurerar [!UICONTROL Dynamic Chat] för första gången.
 role: User
 level: Beginner
 jira: KT-9693
@@ -24,4 +24,4 @@ En guide som hjälper dig att installera chatbot JavaScript på din webbplats el
 
 * [Aktivera Marketo-integrationen med Dynamic Chat](marketo-integration.md)
 * [Skapa och hantera personaliserade dialogrutor](dialogue-management.md)
-* [Lägga till och hantera användare av [!UICONTROL Dynamic Chat]](user-management.md)
+* [Lägg till och hantera användare av [!UICONTROL Dynamic Chat]](user-management.md)

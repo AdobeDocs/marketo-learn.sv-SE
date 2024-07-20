@@ -14,14 +14,14 @@ ht-degree: 0%
 
 ---
 
-# Aktivera Marketo-integrationen med [!UICONTROL Dynamic Chat]
+# Aktivera din Marketo-integrering med [!UICONTROL Dynamic Chat]
 
-[!UICONTROL Dynamic Chat]  är inbyggt i [!DNL Marketo Engage], vilket gör att du kan använda kontext från chatbot-konversationer för att omdirigera eller poängsätta dina prospects.
+[!UICONTROL Dynamic Chat] är inbyggt i [!DNL Marketo Engage], vilket gör att du kan använda kontext från chatbot-konversationer för att omdirigera eller poängsätta dina prospects.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340260/?quality=12&learn=on){trancript=true}
 
 ## Fler praktiska videor
 
 * [Skapa och hantera personaliserade dialogrutor](dialogue-management.md)
-* [Lägga till och hantera användare av [!UICONTROL Dynamic Chat]](user-management.md)
+* [Lägg till och hantera användare av [!UICONTROL Dynamic Chat]](user-management.md)
 * [Hämta härledda attribut](capture-inferred-attributes.md)

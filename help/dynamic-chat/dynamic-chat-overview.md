@@ -18,53 +18,53 @@ ht-degree: 6%
 
 ![](assets/dynamic-chat-header.png)
 
-Välkommen till [!UICONTROL Dynamic Chat]  självstudiewebbplats. Använd dessa självstudiekurser tillsammans med dokumentationen för att få en bättre förståelse för hur du använder [!UICONTROL Dynamic Chat]  för att skapa personaliserade konversationer. Följande ämnen kan hjälpa dig att komma igång:
+Välkommen till webbplatsen för [!UICONTROL Dynamic Chat] självstudiekurser. Använd de här självstudiekurserna tillsammans med dokumentationen för att få en bättre förståelse för hur du kan använda [!UICONTROL Dynamic Chat] för att skapa anpassade konversationer. Följande ämnen kan hjälpa dig att komma igång:
 
 * Översikt
-   * **[En snabb produktdemo [2023]](product-tour.md)**
-     *Få en översikt över alla nya funktioner som lanseras 2023.*
-   * **[En snabb produktdemo [2022]](product-tour.md)**
-     *Få en översikt över hela produkten och se hur du kan utnyttja [!UICONTROL Dynamic Chat].*
+   * **[En snabbdemo [2023]](product-tour.md)**
+     *Få en översikt över alla nya funktioner som startas 2023.*
+   * **[En snabbdemo [2022]](product-tour.md)**
+     *Få en översikt över hela produkten och lär dig hur du kan utnyttja [!UICONTROL Dynamic Chat].*
    * **[Publicera på 15 minuter](go-live-in-15-minutes.md)**
-     *En stegvis guide som hjälper dig att komma igång med din första dialog med [!UICONTROL Dynamic Chat]  på bara 15 minuter!*
+     *En steg-för-steg-guide som hjälper dig att få hjälp med din första dialog med [!UICONTROL Dynamic Chat] på bara 15 minuter!*
 * Inställningar
-   * **[Installera chatbot](setup.md)**
-     *Lär dig hur du konfigurerar [!UICONTROL Dynamic Chat]  prenumeration.*
-   * **[Aktivera Marketo-integrationen med[!UICONTROL Dynamic Chat]](marketo-integration.md)**
-     *Rikta er till era webbbesökare med konversationer och personalisera dem med huvudinformation från Marketo.*
-   * **[Lägga till och hantera användare av[!UICONTROL Dynamic Chat]](user-management.md)**
+   * **[Konfigurera och installera chattbot](setup.md)**
+     *Lär dig hur du konfigurerar din [!UICONTROL Dynamic Chat]-prenumeration.*
+   * **[Aktivera din Marketo-integrering med[!UICONTROL Dynamic Chat]](marketo-integration.md)**
+     *Rikta webbbesökarna med konversationer och anpassa dem med huvudinformation från Marketo.*
+   * **[Lägg till och hantera användare av[!UICONTROL Dynamic Chat]](user-management.md)**
      *Lär dig hur du lägger till eller hanterar användare i [!UICONTROL Dynamic Chat] .*
    * **[Agenthantering](agent-management.md)**
-     *Lär dig hantera agenter.*
+     *Lär dig hur du hanterar agenter.*
 * Automatiserad chatt
-   * **[Skapa och hantera personaliserade dialogrutor](dialogue-management.md)**
-     *Lär dig skapa dialog för att snabbt engagera webbbesökaren med [!UICONTROL Dynamic Chat].*
+   * **[Skapa och hantera anpassade dialogrutor](dialogue-management.md)**
+     *Lär dig hur du skapar en dialog för att snabbt engagera din webbbesökare med [!UICONTROL Dynamic Chat].*
    * **[Bädda in PDF i konversationer](document-cloud-integration.md)**
-     *Dela PDF-dokument i personaliserade konversationer som du designar i [!UICONTROL Dynamic Chat].*
-   * **[Sök i Stream Designer](search-in-stream-designer.md)**
-     *Med hjälp av en snabbsökning kan du komma åt vilket kort som helst i strömdesignern med bara ett klick.*
-   * **[Hämta härledda attribut](capture-inferred-attributes.md)**
+     *Dela PDF-dokument i personliga konversationer som du designar i [!UICONTROL Dynamic Chat].*
+   * **[Sök i strömmen Designer](search-in-stream-designer.md)**
+     *En snabbsökning kan hjälpa dig att komma åt vilket kort som helst i strömdesignern med ett klick.*
+   * **[Hämtar härledda attribut](capture-inferred-attributes.md)**
      *Vi kan identifiera och fylla i härledda attribut mot varje lead som fångas via Dynamic Chat genom att utnyttja Munchkins ID.*
-   * **[Förhandsgranska dialogruta](dialogue-preview.md)**
-     *Det är enkelt att förhandsgranska dialogrutan innan du publicerar den med funktionen för förhandsgranskning i dialogrutan.*
+   * **[Förhandsgranskning av dialogruta](dialogue-preview.md)**
+     *Det är enkelt att förhandsgranska dialogrutan innan du publicerar den med funktionen Förhandsgranska dialogruta.*
    * **[Globalisering av statiskt innehåll](globalization-of-static-content.md)**
      *Du kan anpassa statiskt innehåll/systeminnehåll efter ditt eget språk.*
-   * **[Forms](conversational-forms.md)**
-     *Lär er hur ni engagerar era webbplatsbesökare direkt när de fyller i ett formulär.*
-   * **[Konversationer SDK](conversations-sdk.md)**
-     *Lär dig hur du implementerar Conversations SDK för att konvertera ett CTA-klick till en engagerande konversation.*
+   * **[Forms för konversationer](conversational-forms.md)**
+     *Lär dig hur du engagerar webbplatsens besökare direkt när de har fyllt i ett formulär.*
+   * **[Konversations-SDK](conversations-sdk.md)**
+     *Lär dig hur du implementerar SDK för konversationer för att konvertera CTA-klick till en engagerande konversation.*
    * **[Återanvändbara flöden](reusable-flows.md)**
      *Förenkla design och hantering av konversationer med det nya konversationsflödeskortet. Skapa en konversationsström en gång och återanvänd den i flera dialogrutor.*
    * **[Conversational Landing Pages](conversational-landing-pages.md)**
-     *Med bara några klick kan du installera Dynamic Chat Conversational Flow på en landningssida (Marketo Landing Pages or Custom) och konvertera en länk eller knapp för att starta ett samtal.*
+     *Med bara några klick installerar du konversationsflöden i Dynamic Chat på en landningssida (Marketo Landing Pages or Custom) och konverterar en länk eller knapp för att aktivera ett konversationsengagemang.*
 * Live-chatt och mötesbokning
-   * **[Koppla samman besökare till live-agenter](connect-visitors-to-live-agents.md)**
-     *Koppla samman era kvalificerade leads för att omedelbart få kontakt med era säljare.*
-   * **[Aktivera dina leads för att boka möten med din försäljning](meeting-booking.md)**
-     *Få snabbare kontakt med säljarna för dem [!DNL target] konton med mötesbokningsfunktioner.*
+   * **[Koppla besökare till Live-agenter](connect-visitors-to-live-agents.md)**
+     *Anslut dina kvalificerade leads för att omedelbart få kontakt med dina säljare.*
+   * **[Aktivera dina leads till bokmöten med din försäljning](meeting-booking.md)**
+     *Snabba upp anslutningen med försäljningen för dessa [!DNL target]-konton med bokningsfunktioner för möten.*
 * Generativ AI-chatt
-   * **[Drive GenAI-baserade konversationer](gen-ai-features.md)**
+   * **[Kör GenAI-baserade konversationer](gen-ai-features.md)**
      *Lär dig hur du använder Dynamic Chat GenAI-funktioner.*
 * Analyser
    * **[Åtaganderapport](engagement-report.md)**
-     *Se trenderna för hur era webbbesökare engagerar sig i er dialog.*
+     *Se trenderna för hur dina webbbesökare interagerar med din dialog.*

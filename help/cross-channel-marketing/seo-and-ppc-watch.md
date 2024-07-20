@@ -1,5 +1,5 @@
 ---
-title: Optimera SEO-arbetet med [!DNL Marketo]
+title: Optimera SEO-arbetet med  [!DNL Marketo]
 description: Se hur ni kan implementera steg för att lyckas skapa fördelaktiga strategier för SEO och PPC.
 role: User
 level: Beginner

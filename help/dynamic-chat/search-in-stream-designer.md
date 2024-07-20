@@ -26,4 +26,4 @@ Med hjälp av en snabbsökning kan du komma åt vilket kort som helst i strömde
 
 * [Förhandsgranska dialogruta](dialogue-preview.md)
 * [Skapa och hantera personaliserade dialogrutor](dialogue-management.md)
-* [Aktivera Marketo-integrationen med [!UICONTROL Dynamic Chat]](marketo-integration.md)
+* [Aktivera din Marketo-integrering med [!UICONTROL Dynamic Chat]](marketo-integration.md)
