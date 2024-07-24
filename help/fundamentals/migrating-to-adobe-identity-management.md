@@ -7,9 +7,9 @@ hide: true
 hidefromtoc: true
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: 70f6e3cd3e114fd16ddd52f6d1a62fd914788621
+source-git-commit: 38c9ed6825714e5255001bcebae14fcbbeb9dcc1
 workflow-type: tm+mt
-source-wordcount: '1070'
+source-wordcount: '1071'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,7 @@ Mer hjälp om det här avsnittet för Marketo Engage-administratörer finns i f�
 
 Du kan ändra migreringsdatumet i **Admin** > **Migreringskonsol** > **Före migrering** så att det passar din interna tidslinje bättre. Läs mer om omplanering och begränsningarna med [att ändra migreringsdatumet](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity#pre-migration){target="_blank"}.
 
-* Skicka ett e-postmeddelande till systemadministratörerna.
+#### Skicka ett e-postmeddelande till systemadministratörerna {send-an-email-to-system-admin}
 
 Nedan visas ett exempelmeddelande som du kan skicka till systemadministratörerna. Vanligtvis hanterar IT-avdelningen alla licenser för Adobe.
 
@@ -90,7 +90,7 @@ Med vänlig hälsning
 
 `---------------------------------------------------`
 
-* Skicka ett e-postmeddelande till Marketo Engage-användare.
+#### Skicka ett e-postmeddelande till Marketo Engage {#send-an-email-to-marketo-engage-users}
 
 Nedan visas ett exempel på ett e-postmeddelande som du kan använda för att meddela kommande migrering till Marketo Engage-användare som inte har administratörsbehörighet.
 
