@@ -5,11 +5,12 @@ role: User
 level: Beginner
 hide: true
 hidefromtoc: true
+recommendations: noDisplay, noCatalog
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: 247e961f6fcd4ec287c957ac34d557f1ad844f14
+source-git-commit: 1e076e4dae4753bc265187cf0554b8e51aeee1aa
 workflow-type: tm+mt
-source-wordcount: '1070'
+source-wordcount: '1077'
 ht-degree: 0%
 
 ---
@@ -28,7 +29,9 @@ För att din organisation ska kunna migrera Adobe Marketo Engage till Adobe Admi
 
 * Om du är osäker på vilka systemadministratörer som finns i din organisation kontaktar du ditt Adobe-kontoteam eller kontaktar Adobe Support `marketocares@marketo.com`.
 
-* Bekräfta den Adobe Admin Console (eller Adobe Org) till vilken dina Marketo Engage-prenumerationer ska migreras.  Marketo Engage prenumerationer måste användas i samma organisation som Dynamic Chat, ett verktyg för automatisering av konversationer som är integrerat med Marketo Engage. [Läs mer](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"}
+* Bekräfta den Adobe Admin Console (eller Adobe Org) till vilken dina Marketo Engage-prenumerationer ska migreras.  Marketo Engage-prenumerationer måste distribueras i samma organisation som [Dynamic Chat](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview){target="_blank"}, ett inbyggt konversationsautomatiseringsverktyg som är integrerat med Marketo Engage. [Läs mer](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"}
+
+* **Valfritt:** [Implementera enkel inloggning (SSO)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"} före användarmigrering.
 
 * Lär dig hur du kommunicerar med systemadministratörer i avsnittet [Exempel på e-post](#announce-the-migration-timeline).
 
@@ -36,7 +39,7 @@ För att din organisation ska kunna migrera Adobe Marketo Engage till Adobe Admi
 
 I videon nedan visar produktledningsteamet på Marketo Engage hur du går igenom migreringsresan och vad du kan förvänta dig.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430920t3/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430920t3/?t=170/?quality=12&learn=on){transcript=true}
 
 Mer hjälp om det här avsnittet för Marketo Engage-administratörer finns i följande hjälpartiklar:
 
@@ -54,9 +57,9 @@ Mer hjälp om det här avsnittet för Marketo Engage-administratörer finns i f�
 
 * Markera migreringsdatumet på Marketo Engage-administratörernas och användarnas kalendrar när de har schemalagts.
 
-Du kan ändra migreringsdatumet i **Admin** > **Migreringskonsol** > **Före migrering** så att det passar din interna tidslinje bättre. Läs mer om omplanering och begränsningarna med [att ändra migreringsdatumet](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity#pre-migration){target="_blank"}.
+   * Du kan ändra migreringsdatumet i **Admin** > **Migreringskonsol** > **Före migrering** så att det passar din interna tidslinje bättre. Läs mer om omplanering och begränsningarna med [att ändra migreringsdatumet](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity#pre-migration){target="_blank"}.
 
-#### Skicka ett e-postmeddelande till systemadministratörerna {#send-an-email-to-system-admin}
+* **Skicka ett e-postmeddelande till systemadministratörerna**
 
 Nedan visas ett exempelmeddelande som du kan skicka till systemadministratörerna. Vanligtvis hanterar IT-avdelningen alla licenser för Adobe.
 
@@ -72,7 +75,7 @@ Vår Marketo Engage-prenumeration migreras snart till Adobe Identity Management 
 
 * Marketo Engage prenumerationer måste finnas i samma organisation som Dynamic Chat, ett verktyg för automatisering av konversationer som är integrerat med Marketo Engage.
 
-* Om du har frågor eller funderingar kring Admin Console som Marketo Engage ska läggas till i kan du kontakta Adobe Support på `marketocares@marketo.com` och CC oss.
+* Om du har frågor eller funderingar kring Admin Console kontaktar du Adobe Support på `marketocares@marketo.com` och CC oss.
 
 `2.` Leta efter ett e-postmeddelande från Adobe med ämnesraden&quot;Åtgärd krävs för att hantera användaråtkomst till Adobe Marketo Engage `[Package Tier]`&quot;. Det här e-postmeddelandet skickades efter att licenser för Marketo Engage har etablerats på Admin Console. Det är bara systemadministratörer som får det här e-postmeddelandet. Var vänlig informera oss omedelbart när du får den.
 
@@ -90,7 +93,7 @@ Med vänlig hälsning
 
 `---------------------------------------------------`
 
-#### Skicka ett e-postmeddelande till Marketo Engage {#send-an-email-to-marketo-engage-users}
+* **Skicka ett e-postmeddelande till Marketo Engage-användare**
 
 Nedan visas ett exempel på ett e-postmeddelande som du kan använda för att meddela kommande migrering till Marketo Engage-användare som inte har administratörsbehörighet.
 
@@ -116,7 +119,7 @@ Vi har ett viktigt meddelande om vår Marketo Engage-instans och hur du kommer a
 
 `1.` **Förbered**: Du måste ha e-postverifiering för att kunna migrera till en Adobe-identitet.
 
-i. Du har fått ett e-postmeddelande med en länk (gäller i 3 dagar). Om länken har upphört att gälla kan du skicka bekräftelsemeddelandet igen från Marketo Engage genom att gå till **Admin** > **Mitt konto** > **Kontoinställningar** och klicka på **Skicka bekräftelsen igen**.
+i. Du har fått ett e-postmeddelande med en länk (gäller i 3 dagar). Om länken har upphört att gälla kan du skicka bekräftelsemeddelandet igen från Marketo Engage genom att klicka på ikonen &quot;Min profil&quot; och sedan gå till **Mitt konto** > **Kontoinställningar** > **Skicka bekräftelsen igen**.
 
 ii. En aktiv användarsession krävs för att e-postverifieringen ska lyckas. Logga först in på din Marketo Engage-prenumeration med din identitetsleverantörs-URL (IdP).
 
