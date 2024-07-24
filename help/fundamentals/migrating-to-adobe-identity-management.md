@@ -7,18 +7,18 @@ hide: true
 hidefromtoc: true
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: fe760c2fc53b96d5c176de377730bce2e89dbc74
+source-git-commit: 7cdfe25c955ef1de485d67dc43440554b2237d40
 workflow-type: tm+mt
-source-wordcount: '1079'
+source-wordcount: '1053'
 ht-degree: 0%
 
 ---
 
 # Migrering till Adobe Identity Management
 
-Adobe förbättrar hur du hanterar Adobe Marketo Engage prenumerationer och användare. Vi ökar produktiviteten för dig och din organisation genom att migrera dina Marketo Engage-prenumerationer och användare till Adobe Admin Console.
+Adobe förbättrar hur du hanterar Adobe Marketo Engage prenumerationer och användare. Vi ökar produktiviteten för er organisation genom att migrera era era Marketo Engage-prenumerationer och användare till Adobe Admin Console.
 
-Med den här självstudiekursen kan du navigera i migreringen så att du kan hantera Adobe Marketo Engage tillsammans med andra Adobe-konton och produkter för dina användare på en central plats. Migreringen är nödvändig och påverkar inte ditt marknadsföringsarbetsflöde, innehåll, integreringar eller resurser.
+Den här självstudiekursen hjälper dig att navigera i migreringen så att du kan börja hantera Adobe Marketo Engage tillsammans med andra Adobe-konton och -produkter för dina användare på en central plats. Migreringen är nödvändig och påverkar inte ditt marknadsföringsarbetsflöde, innehåll, integreringar eller resurser.
 
 ## Checklista före migrering för Marketo Engage-administratörer {#pre-migration-checklist-for-marketo-engage-administrators}
 
@@ -28,16 +28,15 @@ För att din organisation ska kunna migrera Adobe Marketo Engage till Adobe Admi
 
 * Om du är osäker på vilka systemadministratörer som finns i din organisation kontaktar du ditt Adobe-kontoteam eller kontaktar Adobe Support `marketocares@marketo.com`.
 
-* Bekräfta den Adobe Admin Console (eller Adobe Org) till vilken dina Marketo Engage-prenumerationer ska migreras.  Marketo Engage prenumerationer måste användas i samma organisation som Dynamic Chat, ett verktyg för automatisering av konversationer som är integrerat med Marketo Engage.
-  `TBD LINK TO https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete`
+* Bekräfta den Adobe Admin Console (eller Adobe Org) till vilken dina Marketo Engage-prenumerationer ska migreras.  Marketo Engage prenumerationer måste användas i samma organisation som Dynamic Chat, ett verktyg för automatisering av konversationer som är integrerat med Marketo Engage. [Läs mer](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"}
 
-* Läs mer om hur du kommunicerar med systemadministratörer i avsnittet [Exempel på e-post](#announce-the-migration-timeline).
+* Lär dig hur du kommunicerar med systemadministratörer i avsnittet [Exempel på e-post](#announce-the-migration-timeline).
 
 ### 2. Bekanta dig med förändringarna och effekterna av migreringen till Adobe Identity {#familiarize-yourself-with-the-changes}
 
 I videon nedan visar produktledningsteamet på Marketo Engage hur du går igenom migreringsresan och vad du kan förvänta dig.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430920t3/?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430920t3/?quality=12&learn=on){transcript=true}
 
 Mer hjälp om det här avsnittet för Marketo Engage-administratörer finns i följande hjälpartiklar:
 
@@ -55,9 +54,9 @@ Mer hjälp om det här avsnittet för Marketo Engage-administratörer finns i f�
 
 * Markera migreringsdatumet på Marketo Engage-administratörernas och användarnas kalendrar när de har schemalagts.
 
-Du kan ändra migreringsdatumet i **Admin** > **Migreringskonsol** > **Före migrering** för att bättre anpassa dig till den interna tidslinjen. Läs mer om omplanering och begränsningarna med [att ändra migreringsdatumet](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity#pre-migration){target="_blank"}.
+Du kan ändra migreringsdatumet i **Admin** > **Migreringskonsol** > **Före migrering** så att det passar din interna tidslinje bättre. Läs mer om omplanering och begränsningarna med [att ändra migreringsdatumet](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity#pre-migration){target="_blank"}.
 
-* Skicka ett e-postmeddelande för att kommunicera med systemadministratörerna.
+* Skicka ett e-postmeddelande till systemadministratörerna.
 
 Nedan visas ett exempelmeddelande som du kan skicka till systemadministratörerna. Vanligtvis hanterar IT-avdelningen alla licenser för Adobe.
 
@@ -71,18 +70,20 @@ Vår Marketo Engage-prenumeration migreras snart till Adobe Identity Management 
 
 `1.` Bekräfta om organisationen redan hanterar andra Adobe-produkter i Adobe Admin Console(er) och om Marketo Engage ska migreras till samma konsol.
 
-* Observera att Marketo Engage prenumerationer måste befinna sig i samma organisation som Dynamic Chat, ett verktyg för automatisering av konversationer som är integrerat med Marketo Engage.
+* Marketo Engage prenumerationer måste finnas i samma organisation som Dynamic Chat, ett verktyg för automatisering av konversationer som är integrerat med Marketo Engage.
 
-* Om du har frågor eller funderingar kring Admin Console som Marketo Engage ska läggas till i kontaktar du supportteamet på `marketocares@marketo.com` och inkluderar oss i ditt meddelande.
+* Om du har frågor eller funderingar kring Admin Console som Marketo Engage ska läggas till i kan du kontakta Adobe Support på `marketocares@marketo.com` och CC oss.
 
 `2.` Leta efter ett e-postmeddelande från Adobe med ämnesraden&quot;Åtgärd krävs för att hantera användaråtkomst till Adobe Marketo Engage `[Package Tier]`&quot;. Det här e-postmeddelandet skickades efter att licenser för Marketo Engage har etablerats på Admin Console. Det är bara systemadministratörer som får det här e-postmeddelandet. Var vänlig informera oss omedelbart när du får den.
 
-* Adobe kan be dig, som är systemadministratör för Admin Console, att automatiskt migrera användare till vår organisations befintliga konsol. I e-postmeddelandet med ämnesraden&quot;Åtgärd krävs för att hantera användaråtkomst till Adobe Marketo Engage `[Package Tier]`&quot; klickar du på knappen&quot;Kom igång&quot; för att gå till sidan för godkännande.
+* Adobe kan be dig, systemadministratören för Admin Console, att automatiskt migrera användare till vår organisations befintliga konsol. I e-postmeddelandet med ämnesraden&quot;Åtgärd krävs för att hantera användaråtkomst till Adobe Marketo Engage `[Package Tier]`&quot; klickar du på knappen&quot;Kom igång&quot; för att gå till sidan för godkännande.
 
 `3.` **Valfritt:** Konfigurera enkel inloggning (SSO) på Adobe Admin Console.
 
-* För att hjälpa våra användare att logga in med enkel inloggning på deras Adobe-identitet framåt, ber vi dig att hjälpa till med konfigurationen av enkel inloggning på Adobe Admin Console innan användarmigrering sker.
-Vi uppskattar ditt samarbete under den här övergången. Meddela mig när du har slutfört dessa steg så att jag kan fortsätta med användarmigreringen med Marketo Engage.
+* För att hjälpa våra användare som loggar in med enkel inloggning på sin Adobe-identitet framåt, ber vi dig att hjälpa till med konfigurationen av enkel inloggning på Adobe Admin Console innan användarmigrering sker.
+
+Vi uppskattar ditt samarbete under den här övergången. Meddela mig när du har slutfört de här stegen så att jag kan fortsätta med migreringen.
+
 Med vänlig hälsning
 
 `[Your Name]`
@@ -99,31 +100,33 @@ Nedan visas ett exempel på ett e-postmeddelande som du kan använda för att me
 
 Bästa Marketo Engage-användare!
 
-Vi har ett viktigt meddelande om vår Marketo Engage-instans och hur du kommer att logga in. Adobe flyttar abonnemang och användare på Marketo Engage till Adobe Admin Console för att göra det möjligt för sina kunder att centralisera all produktadministration på ett och samma ställe. Detta påverkar inte arbetsflöden, innehåll, integreringar eller resurser för marknadsföring.
+Vi har ett viktigt meddelande om vår Marketo Engage-instans och hur du kommer att logga in. Adobe flyttar abonnemang och användare på Marketo Engage till Adobe Admin Console för att vi ska kunna centralisera all produktadministration på ett och samma ställe. Detta påverkar inte arbetsflöden, innehåll, integreringar eller resurser för marknadsföring.
 
-Nyckelinformation:
+**Nyckelinformation:**
 
-* Migreringsdatum: [Ange schemalagt datum - hitta det i Marketo Engage under **Admin** > **Migreringskonsol** > **Före migrering**]
+* **Migreringsdatum**: `[Specify the scheduled date - please find this in Marketo Engage under Admin > Migration Console > Pre-migration]`
 
-* Tidsinställning: Migreringen börjar vid midnatt lokal tid för vår prenumeration.
+* **Timing**: Migreringen börjar vid midnatt lokal tid för vår prenumeration.
 
-* Inverkan: Ingen förlust av produktåtkomst sker under migreringen av användaren. Om du är inloggad när ditt konto migreras kommer du att loggas ut och uppmanas att logga in igen inom några minuter med hjälp av Adobe-identitet efter migreringen.
+* **Effekt**: Ingen förlust av produktåtkomst uppstår under användarmigrering. Om du är inloggad när ditt konto migreras kommer du att loggas ut och uppmanas att logga in igen inom några minuter med hjälp av Adobe-identitet efter migreringen.
 
-* Fördelar: Autentisera Marketo Engage och andra Adobe-produkter genom att använda en enda Adobe-identitet, antingen en Adobe ID-identitet eller en enkel inloggning (Adobe Federated ID).
+* **Fördelar**: Autentisera Marketo Engage och andra Adobe-produkter genom att använda en enda Adobe-identitet, antingen en Adobe ID-identitet eller ett Adobe-Federated ID (SSO).
 
-Vad du behöver göra:
+**Vad du behöver göra:**
 
-`1.` Förbered: Du måste ha e-postverifiering för att kunna migrera till en Adobe-identitet.
+`1.` **Förbered**: Du måste ha e-postverifiering för att kunna migrera till en Adobe-identitet.
 
-i. Du har fått ett e-postmeddelande med en länk (gäller i 3 dagar). Om länken har upphört att gälla kan du skicka bekräftelsemeddelandet igen genom att gå till **Admin** > **Mitt konto** > **Kontoinställningar** och klicka på **Skicka verifiering igen**.
+i. Du har fått ett e-postmeddelande med en länk (gäller i 3 dagar). Om länken har upphört att gälla kan du skicka bekräftelsemeddelandet igen från Marketo Engage genom att gå till **Admin** > **Mitt konto** > **Kontoinställningar** och klicka på **Skicka bekräftelsen igen**.
+
 ii. En aktiv användarsession krävs för att e-postverifieringen ska lyckas. Logga först in på din Marketo Engage-prenumeration med din identitetsleverantörs-URL (IdP).
 
-`2.` Inbyggt: När ditt användarkonto har migrerats får du ett e-postmeddelande från Adobe om ändringarna av inloggningsmetoden.
+`2.` **Inbyggt**: När ditt användarkonto har migrerats får du ett e-postmeddelande från Adobe om ändringarna av inloggningsmetoden.
 
 i. Acceptera den nya inbjudan genom att klicka på knappen Acceptera inbjudan och logga in med Adobe-identitet.
+
 ii. Logga in med en befintlig Adobe ID på inloggningssidan för Adobe.
 
-`3.` Kontakta: Om du har några frågor eller behöver hjälp efter att ditt konto har migrerats eller om ditt konto inte har migrerats och du har förlorat åtkomsten till Marketo Engage kan du kontakta migreringsteamet för Marketo Engage på `[your internal contact email/phone]`.
+`3.` **Kontakta**: Om du har frågor eller behöver hjälp efter att ditt konto har migrerats, eller om ditt konto inte har migrerats och du har förlorat åtkomsten till Marketo Engage, kan du kontakta migreringsteamet för Marketo Engage på `[your internal contact email/phone]`.
 
 Vi uppskattar ditt samarbete under den här övergången. Tack för din förståelse och ditt engagemang för att skydda våra system.
 
