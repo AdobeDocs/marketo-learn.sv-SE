@@ -7,9 +7,9 @@ hide: true
 hidefromtoc: true
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: f6ae52b43770789c24237f0bc664d33541469a50
+source-git-commit: fe760c2fc53b96d5c176de377730bce2e89dbc74
 workflow-type: tm+mt
-source-wordcount: '1089'
+source-wordcount: '1079'
 ht-degree: 0%
 
 ---
@@ -67,7 +67,7 @@ Nedan visas ett exempelmeddelande som du kan skicka till systemadministratörern
 
 Hej `[IT Administrator/NAME]`!
 
-Vår Marketo Engage-prenumeration migreras snart till Adobe Identity Management System. [Marknadsföringsgruppen] behöver din hjälp för att slutföra några nödvändiga steg innan användarmigreringen börjar, för att minimera påverkan för Marketo Engage-användare
+Vår Marketo Engage-prenumeration migreras snart till Adobe Identity Management System. `[Marketing Operation team]` behöver din hjälp för att slutföra några nödvändiga steg innan användarmigreringen börjar, för att minimera påverkan för Marketo Engage-användare.
 
 `1.` Bekräfta om organisationen redan hanterar andra Adobe-produkter i Adobe Admin Console(er) och om Marketo Engage ska migreras till samma konsol.
 
@@ -123,12 +123,12 @@ ii. En aktiv användarsession krävs för att e-postverifieringen ska lyckas. Lo
 i. Acceptera den nya inbjudan genom att klicka på knappen Acceptera inbjudan och logga in med Adobe-identitet.
 ii. Logga in med en befintlig Adobe ID på inloggningssidan för Adobe.
 
-`3.` Kontakta: Om du har några frågor eller behöver hjälp efter att ditt konto har migrerats eller om ditt konto inte har migrerats och du inte längre har åtkomst till Marketo Engage, kan du kontakta Marketo Engage migreringsteamet på [din interna e-postadress/telefon].
+`3.` Kontakta: Om du har några frågor eller behöver hjälp efter att ditt konto har migrerats eller om ditt konto inte har migrerats och du har förlorat åtkomsten till Marketo Engage kan du kontakta migreringsteamet för Marketo Engage på `[your internal contact email/phone]`.
 
 Vi uppskattar ditt samarbete under den här övergången. Tack för din förståelse och ditt engagemang för att skydda våra system.
 
 Bästa,
 
-[Ditt namn]
+`[Your Name]`
 
 `---------------------------------------------------`
