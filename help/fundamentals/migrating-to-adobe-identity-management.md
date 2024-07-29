@@ -7,7 +7,7 @@ recommendations: noDisplay, noCatalog
 last-substantial-update: 2024-07-26T00:00:00Z
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: a1248a4367a283bd1922269db3be8ed146f85648
+source-git-commit: 4a1db73e8dff8d5c39f05962b6e24ee0d380683f
 workflow-type: tm+mt
 source-wordcount: '1077'
 ht-degree: 0%
@@ -28,7 +28,7 @@ För att din organisation ska kunna migrera Adobe Marketo Engage till Adobe Admi
 
 * Om du är osäker på vilka systemadministratörer som finns i din organisation kontaktar du ditt Adobe-kontoteam eller kontaktar Adobe Support `marketocares@marketo.com`.
 
-* Bekräfta den Adobe Admin Console (eller Adobe Org) till vilken dina Marketo Engage-prenumerationer ska migreras.  Marketo Engage-prenumerationer måste distribueras i samma organisation som [Dynamic Chat](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview){target="_blank"}, ett inbyggt konversationsautomatiseringsverktyg som är integrerat med Marketo Engage. [Läs mer](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"}
+* Bekräfta den Adobe Admin Console (eller Adobe Org) till vilken dina Marketo Engage-prenumerationer ska migreras.  Marketo Engage-prenumerationer måste distribueras i samma organisation som [Dynamic Chat](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview){target="_blank"}, ett inbyggt konversationsautomatiseringsverktyg som är integrerat med Marketo Engage. [Läs mer](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete)
 
 * **Valfritt:** [Implementera enkel inloggning (SSO)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"} före användarmigrering.
 
