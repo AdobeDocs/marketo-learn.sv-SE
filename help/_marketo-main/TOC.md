@@ -3,10 +3,10 @@ user-guide-title: Självstudiekurser om Marketo Engage
 user-guide-description: En samling videor och självstudiekurser om Adobe Marketo Engage.
 breadcrumb-title: Självstudiekurser om Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 71f6ec1f4dd2c5a0a2d0c1959da7a78002644edb
+source-git-commit: 757f21c965161fba774c2c31e02baa75f4691e4d
 workflow-type: tm+mt
-source-wordcount: '370'
-ht-degree: 5%
+source-wordcount: '381'
+ht-degree: 6%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 5%
    + [Granska en ärvd instans - självstudie](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)
 + Program och kampanjer {#programs-and-campaigns}
    + [Förstå program och kampanjer](/help/programs/understanding-programs-and-campaigns.md)
-   + [Smarta kampanjer 101](/help/campaigns/smart-campaigns-101.md)
+   + [Smarta kampanjer grundkurs](/help/campaigns/smart-campaigns-101.md)
    + [E-postprogram](/help/programs/email-programs.md)
    + [Händelseprogram](/help/programs/event-programs.md)
    + Standardprogram {#default-programs}
@@ -124,3 +124,4 @@ ht-degree: 5%
    + [Viktiga rapporter](/help/reporting/key-reports.md)
 + Integrationer {#integrations}
    + [Marketo med Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
+   + [API-hjälp - Ange åtkomsttoken i en variabel](/help/integrations/api-set-access-token-variable.md)
