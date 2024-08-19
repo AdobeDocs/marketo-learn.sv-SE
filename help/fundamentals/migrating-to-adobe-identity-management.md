@@ -7,9 +7,9 @@ recommendations: noDisplay, noCatalog
 last-substantial-update: 2024-07-26T00:00:00Z
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: f6caaae707cb4dae45c4f05a895566adc98458e6
+source-git-commit: 4ecbe3a79ad28a38e3c630868663a7b2859428e9
 workflow-type: tm+mt
-source-wordcount: '1115'
+source-wordcount: '1170'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ För att din organisation ska kunna migrera Adobe Marketo Engage till Adobe Admi
 
 * Om du är osäker på vilka systemadministratörer som finns i din organisation kontaktar du ditt Adobe-kontoteam eller kontaktar Adobe Support `marketocares@marketo.com`.
 
-* Bekräfta den Adobe Admin Console (eller Adobe Org) till vilken dina Marketo Engage-prenumerationer ska migreras. Du har antagligen Adobe Admin Console for Dynamic Chat, ett verktyg för automatisering av konversationer i Marketo Engage. Marketo Engage-prenumerationer måste distribueras i samma organisation som [Dynamic Chat](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete)
+* Bekräfta den Adobe Admin Console (eller Adobe Org) till vilken dina Marketo Engage-prenumerationer ska migreras. Du har antagligen en Adobe Admin Console för [Dynamic Chat](/help/dynamic-chat/dynamic-chat-overview.md){target="_blank"}, ett verktyg för intern konversationsautomation i Marketo Engage. Prenumerationer på Marketo Engage måste distribueras i samma organisation som Dynamic Chat.
 
 * Arbeta med IT-teamet för att tillåtslista alla Adobe-domäner som visas [ högst upp i den här artikeln](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"} för att förhindra avbrott i åtkomsten till Marketo Engage efter migreringen till Adobe Identity.
 
@@ -82,9 +82,11 @@ Vår Marketo Engage-prenumeration migreras snart till Adobe Identity Management 
 
 * Adobe kan be dig, systemadministratören för Admin Console, att automatiskt migrera användare till vår organisations befintliga konsol. I e-postmeddelandet med ämnesraden&quot;Åtgärd krävs för att hantera användaråtkomst till Adobe Marketo Engage `[Package Tier]`&quot; klickar du på knappen&quot;Kom igång&quot; för att gå till sidan för godkännande.
 
-`3.` **Valfritt:** Konfigurera enkel inloggning (SSO) på Adobe Admin Console.
+`3.` Efter migreringen kommer Marketo Engage att gå från experience.adobe.com till Adobe Experience Cloud. Tillåtslista alla Adobe-domäner som visas [högst upp i den här artikeln](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"} för att förhindra avbrott i åtkomsten till Marketo Engage.
 
-* För att hjälpa våra användare som loggar in med enkel inloggning på sin Adobe-identitet framåt, ber vi dig att hjälpa till med konfigurationen av enkel inloggning på Adobe Admin Console innan användarmigrering sker.
+`4.` **Valfritt:** Konfigurera enkel inloggning (SSO) på Adobe Admin Console.
+
+* För att hjälpa våra användare som loggar in med enkel inloggning (SSO) på sin Adobe-identitet att gå framåt bör du hjälpa till med konfigurationen av enkel inloggning på Adobe Admin Console innan användarmigrering sker.
 
 Vi uppskattar ditt samarbete under den här övergången. Meddela mig när du har slutfört de här stegen så att jag kan fortsätta med migreringen.
 
@@ -129,6 +131,8 @@ ii. En aktiv användarsession krävs för att e-postverifieringen ska lyckas. Lo
 i. Acceptera den nya inbjudan genom att klicka på knappen Acceptera inbjudan och logga in med Adobe-identitet.
 
 ii. Logga in med en befintlig Adobe ID på inloggningssidan för Adobe.
+
+iii. Du måste först logga in på Marketo Engage-instansen för tidigare bokmärkta URL:er på den engage-xx.marketo.com domän du navigerar till.
 
 `3.` **Kontakta**: Om du har frågor eller behöver hjälp efter att ditt konto har migrerats, eller om ditt konto inte har migrerats och du har förlorat åtkomsten till Marketo Engage, kan du kontakta migreringsteamet för Marketo Engage på `[your internal contact email/phone]`.
 
