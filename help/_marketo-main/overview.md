@@ -3,7 +3,7 @@ title: Självstudiekurser om Marketo Engage
 description: Titta på videosjälvstudiekurser på  [!DNL Marketo Engage]. Förbättra din förståelse för hur du använder funktioner för automatiserad marknadsföring med mera.
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: c7665e7c82e030f5bc21fa9c8845a75fc47f8483
+source-git-commit: fe4fc30478e83625c345c51b96a6867264953e83
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 12%
@@ -25,15 +25,12 @@ Bläddra i vårt självstudiebibliotek och få ut det mesta av [!DNL Marketo Eng
 ## Nyheter {#whats-new}
 
 * [Migrerar till Adobe Identity Management](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management)
-
-_Lär dig navigera i migreringen av Adobe Identity Management så att du kan börja hantera Adobe Marketo Engage tillsammans med andra Adobe-konton och -produkter för dina användare på en central plats._
+  _Lär dig navigera i migreringen av Adobe Identity Management så att du kan börja hantera Adobe Marketo Engage tillsammans med andra Adobe-konton och -produkter för dina användare på en central plats._
 
 * [Interaktiva webbinarier efter händelseinsikter och åtgärder](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/interactive-webinars-post-event-insights-and-actions)
-
 Lär dig var du hittar detaljerad information om prestanda och engagemang i din interaktiva webbinariehändelse.
 
 * [Marketo How to API Video - How to set the Access token in a variable](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/integrations/api-set-access-token-variable)
-
 Lär dig hur du konfigurerar Postman-programmet och hur du använder variabler för att spara data i variabeln i återanvändbarhetssyfte.
 
 ## De populäraste videoklippen {#most-popular-videos}
