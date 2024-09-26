@@ -1,7 +1,7 @@
 ---
-title: Smarta kampanjer 101
-description: Lär dig hur du kan använda smarta kampanjer för datavalidering och automatiska varningar.
-short-description: Om Marketo Engage är en bil är Smart Campaign motorn. Smarta kampanjer kan göra mer än du kan föreställa dig och det är enkelt att komma igång med att använda dem.
+title: Smarta kampanjer grundkurs
+description: Lär dig hur du kan använda Smart Campaigns för datavalidering och automatiska varningar.
+short-description: Om Marketo Engage är en bil är Smart Campaign motorn. Smart Campaigns kan göra mer än du kan föreställa dig och det är enkelt att komma igång med att använda dem.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -12,16 +12,16 @@ exl-id: fb050abb-5b43-42da-a4ae-83780d4abb1c
 feature: Smart Campaigns
 source-git-commit: 081fe7d08986c45f83a8edd1a0805a66e1ff20d6
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 0%
+source-wordcount: '123'
+ht-degree: 40%
 
 ---
 
-# Smarta kampanjer 101
+# Smarta kampanjer grundkurs
 
 Smarta kampanjer är motorn i Marketo. Förutom att använda smarta kampanjer för att skicka ut e-postmeddelanden och program kan ni använda smarta kampanjer för en rad olika användningsområden. Lär dig hur du kan använda smarta kampanjer för datavalidering och automatiska varningar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420096/?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3420096/?quality=12&learn=on){transcript=true}
 
 
 ## Ytterligare resurser

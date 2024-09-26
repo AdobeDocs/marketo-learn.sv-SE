@@ -1,7 +1,7 @@
 ---
-title: Självstudiekurser för Dynamic Chat
+title: Självstudiekurser om Dynamiskt chatt
 description: Lär dig om Dynamic Chat på Adobe Experience League. Använd dessa självstudiekurser tillsammans med dokumentationen för att få en bättre förståelse för hur du använder Dynamic Chat för att skapa personanpassade konversationer.
-short-description: Använd dessa självstudiekurser tillsammans med produktdokumentationen för att få en bättre förståelse för de olika sätt som Dynamic Chat kan arbeta på.
+short-description: Använd dessa självstudiekurser tillsammans med produktdokumentationen för att få en bättre förståelse för de olika sätten du kan använda Dynamic Chat.
 doc-type: overview-page
 role: User
 level: Beginner
@@ -10,11 +10,11 @@ feature: Dynamic Chat
 source-git-commit: 081fe7d08986c45f83a8edd1a0805a66e1ff20d6
 workflow-type: tm+mt
 source-wordcount: '466'
-ht-degree: 6%
+ht-degree: 12%
 
 ---
 
-# Självstudiekurser för Dynamic Chat
+# Självstudiekurser om Dynamiskt chatt
 
 ![](assets/dynamic-chat-header.png)
 
@@ -44,7 +44,7 @@ Välkommen till webbplatsen för [!UICONTROL Dynamic Chat] självstudiekurser. A
    * **[Sök i strömmen Designer](search-in-stream-designer.md)**
      *En snabbsökning kan hjälpa dig att komma åt vilket kort som helst i strömdesignern med ett klick.*
    * **[Hämtar härledda attribut](capture-inferred-attributes.md)**
-     *Vi kan identifiera och fylla i härledda attribut mot varje lead som fångas via Dynamic Chat genom att utnyttja Munchkins ID.*
+     *Vi kan identifiera och fylla i härledda attribut mot varje lead som fångas via Dynamic Chat genom att utnyttja Munchkin-id:t.*
    * **[Förhandsgranskning av dialogruta](dialogue-preview.md)**
      *Det är enkelt att förhandsgranska dialogrutan innan du publicerar den med funktionen Förhandsgranska dialogruta.*
    * **[Globalisering av statiskt innehåll](globalization-of-static-content.md)**
@@ -52,7 +52,7 @@ Välkommen till webbplatsen för [!UICONTROL Dynamic Chat] självstudiekurser. A
    * **[Forms för konversationer](conversational-forms.md)**
      *Lär dig hur du engagerar webbplatsens besökare direkt när de har fyllt i ett formulär.*
    * **[Konversations-SDK](conversations-sdk.md)**
-     *Lär dig hur du implementerar SDK för konversationer för att konvertera CTA-klick till en engagerande konversation.*
+     *Lär dig hur du implementerar SDK för konversationer för att konvertera ett CTA-klick till en engagerande konversation.*
    * **[Återanvändbara flöden](reusable-flows.md)**
      *Förenkla design och hantering av konversationer med det nya konversationsflödeskortet. Skapa en konversationsström en gång och återanvänd den i flera dialogrutor.*
    * **[Conversational Landing Pages](conversational-landing-pages.md)**
@@ -65,6 +65,6 @@ Välkommen till webbplatsen för [!UICONTROL Dynamic Chat] självstudiekurser. A
 * Generativ AI-chatt
    * **[Kör GenAI-baserade konversationer](gen-ai-features.md)**
      *Lär dig hur du använder Dynamic Chat GenAI-funktioner.*
-* Analyser
+* Analytics 
    * **[Åtaganderapport](engagement-report.md)**
      *Se trenderna för hur dina webbbesökare interagerar med din dialog.*
