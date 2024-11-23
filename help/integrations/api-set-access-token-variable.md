@@ -3,13 +3,13 @@ title: Marketo How to API Video - How to set the Access token in a variable
 description: Lär dig hur du konfigurerar Postman-programmet och hur du använder variabler för att spara data i variabeln i återanvändbarhetssyfte.
 feature: REST API
 role: Admin, Developer
-level: Advanced
+level: Experienced
 doc-type: Technical Video
 duration: 772
 last-substantial-update: 2024-08-06T00:00:00Z
 jira: KT-15548
 exl-id: 4da86ed6-1072-4e0e-a648-16587badaeb3
-source-git-commit: a3ef8abe1a0928b4119c334ecb96c7e18d63803d
+source-git-commit: 3243c3047efa1bcb92581a58aafe17689ff945fd
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
