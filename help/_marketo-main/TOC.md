@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Marketo Engage
 user-guide-description: En samling videor och självstudiekurser om Adobe Marketo Engage.
 breadcrumb-title: Självstudiekurser om Marketo Engage
 auto-video-transcripts: true
-source-git-commit: a3ef8abe1a0928b4119c334ecb96c7e18d63803d
+source-git-commit: 4aa725929374c6a408e5c0f4b0c00e53ba17c3ed
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '370'
 ht-degree: 6%
 
 ---
@@ -21,7 +21,6 @@ ht-degree: 6%
    + [Innehållsmarknadsföring](/help/fundamentals/content-marketing-learn.md)
    + [Köparprofiler](/help/fundamentals/buyer-personas-learn.md)
    + [Program och kampanjer](/help/fundamentals/programs-and-campaigns.md)
-   + [Navigera i användargränssnittet](/help/fundamentals/ui-navigation.md)
    + [Bästa tillvägagångssätt för att organisera en ny instans](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [Bästa tillvägagångssätt för att skapa grundläggande program](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [Anpassa med variabler](/help/personalization/personalize-with-tokens.md)
@@ -30,12 +29,10 @@ ht-degree: 6%
 + Program och kampanjer {#programs-and-campaigns}
    + [Förstå program och kampanjer](/help/programs/understanding-programs-and-campaigns.md)
    + [Smarta kampanjer grundkurs](/help/campaigns/smart-campaigns-101.md)
-   + [E-postprogram](/help/programs/email-programs.md)
    + [Händelseprogram](/help/programs/event-programs.md)
    + Standardprogram {#default-programs}
       + [Skapa och mät ett standardprogram](/help/programs/create-and-measure-default-programs.md)
       + [Utnyttja flexibiliteten i standardprogrammen](/help/programs/leverage-the-flexibility-of-default-programs.md)
-   + [Engagement programs](/help/programs/engagement-programs.md)
    + Åtagandekartor {#engagement-maps}
       + [Översikt över engagemangskartan](/help/engagement-maps/engagement-map-overview.md)
       + [Inköpskarta kapslade kampanjer](/help/engagement-maps/engagement-map-nested-campaign.md)
