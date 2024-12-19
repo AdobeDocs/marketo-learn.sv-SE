@@ -7,9 +7,9 @@ recommendations: noDisplay, noCatalog
 last-substantial-update: 2024-07-26T00:00:00Z
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: 2172f08f9a6171ef3a25cf6250e2f53eab8195fe
+source-git-commit: 26fc31709e97755ef7930f8421330fe579263bb5
 workflow-type: tm+mt
-source-wordcount: '1170'
+source-wordcount: '1224'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,8 @@ För att din organisation ska kunna migrera Adobe Marketo Engage till Adobe Admi
 * Arbeta med IT-teamet för att tillåtslista alla Adobe-domäner som visas [ högst upp i den här artikeln](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"} för att förhindra avbrott i åtkomsten till Marketo Engage efter migreringen till Adobe Identity.
 
 * **Valfritt:** [Implementera enkel inloggning (SSO)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"} före användarmigrering.
+
+* **Valfritt:** Anpassa [önskad maximal sessionstid](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"} innan användarmigrering för att Marketo Engage-användare ska förbli autentiserade.
 
 * Lär dig hur du kommunicerar med systemadministratörer i avsnittet [Exempel på e-post](#announce-the-migration-timeline).
 
@@ -84,9 +86,13 @@ Vår Marketo Engage-prenumeration migreras snart till Adobe Identity Management 
 
 `3.` Efter migreringen kommer Marketo Engage att gå från experience.adobe.com till Adobe Experience Cloud. Tillåtslista alla Adobe-domäner som visas [högst upp i den här artikeln](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"} för att förhindra avbrott i åtkomsten till Marketo Engage.
 
-`4.` **Valfritt:** Konfigurera enkel inloggning (SSO) på Adobe Admin Console.
+`4.` **Valfritt:** Konfigurera enkel inloggning (SSO) i Adobe Admin Console.
 
-* För att hjälpa våra användare som loggar in med enkel inloggning (SSO) på sin Adobe-identitet att gå framåt bör du hjälpa till med konfigurationen av enkel inloggning på Adobe Admin Console innan användarmigrering sker.
+* För att hjälpa våra användare som loggar in med enkel inloggning (SSO) på sin Adobe-identitet att gå framåt bör du hjälpa till med konfigurationen av enkel inloggning i Adobe Admin Console innan användarmigrering sker.
+
+`5.` **Valfritt:** Ange en längre [maximal sessionstid](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"} i Adobe Admin Console.
+
+* Om du vill förhindra användare från att behöva logga in ofta anpassar du sessionstiden i de avancerade inställningarna med längre varaktighet.
 
 Vi uppskattar ditt samarbete under den här övergången. Meddela mig när du har slutfört de här stegen så att jag kan fortsätta med migreringen.
 
