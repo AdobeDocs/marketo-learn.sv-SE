@@ -3,10 +3,10 @@ user-guide-title: Självstudiekurser om Marketo Engage
 user-guide-description: En samling videor och självstudiekurser om Adobe Marketo Engage.
 breadcrumb-title: Självstudiekurser om Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 4aa725929374c6a408e5c0f4b0c00e53ba17c3ed
+source-git-commit: e310fb4cd8dfc502ac49019f12ecb361ffbbccb4
 workflow-type: tm+mt
-source-wordcount: '370'
-ht-degree: 6%
+source-wordcount: '430'
+ht-degree: 5%
 
 ---
 
@@ -121,3 +121,16 @@ ht-degree: 6%
 + Integrationer {#integrations}
    + [Marketo med Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
    + [API-hjälp - Ange åtkomsttoken i en variabel](/help/integrations/api-set-access-token-variable.md)
++ Hantera dubbletter {#manage-duplicates}
+   + [Introduktion till hantering av dubbletter](/help/managing-duplicates/introduction-managing-duplicates.md)
+   + [Förstå varför dubbletter förekommer](/help/managing-duplicates/why-duplicates-occur.md)
+   + [Identifiera och förhindra dubblettposter](/help/managing-duplicates/identify-prevent-duplicates.md)
+   + [Fastställ när dubblettposter behövs](/help/managing-duplicates/determine-necessary-duplicates.md)
+   + [Sammanfoga dubblettposter manuellt](/help/managing-duplicates/merge-manually.md)
+   + [Masssammanslagning av dubbletter, del 1](/help/managing-duplicates/bulk-merge-part-1.md)
+   + [Masssammanslagning av dubbletter, del 2](/help/managing-duplicates/bulk-merge-part-2.md)
+   + [Masssammanslagning av dubbletter, del 3](/help/managing-duplicates/bulk-merge-part-3.md)
+   + [Automatisera duplicerad hantering, del 1](/help/managing-duplicates/automate-integration-part-1.md)
+   + [Automatisera duplicerad hantering, del 2](/help/managing-duplicates/automate-integration-part-2.md)
+   + [Förenkla hantering av dubbletter](/help/managing-duplicates/simplify-acs.md)
+   + [Välj den bästa strategin för hantering av dubbletter](/help/managing-duplicates/duplicate-strategy.md)
