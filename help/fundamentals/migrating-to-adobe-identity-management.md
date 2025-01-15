@@ -7,9 +7,9 @@ recommendations: noDisplay, noCatalog
 last-substantial-update: 2024-07-26T00:00:00Z
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: 26fc31709e97755ef7930f8421330fe579263bb5
+source-git-commit: b4f9ce6cfc8126559e94985c540ec9766a56310e
 workflow-type: tm+mt
-source-wordcount: '1224'
+source-wordcount: '1248'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,10 @@ För att din organisation ska kunna migrera Adobe Marketo Engage till Adobe Admi
 * Arbeta med IT-teamet för att tillåtslista alla Adobe-domäner som visas [ högst upp i den här artikeln](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"} för att förhindra avbrott i åtkomsten till Marketo Engage efter migreringen till Adobe Identity.
 
 * **Valfritt:** [Implementera enkel inloggning (SSO)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"} före användarmigrering.
+
+  >[!NOTE]
+  >
+  >Det finns skillnader mellan SSO som stöds av Marketo Engage och Adobe Admin Console SSO. Ändringar i konfigurationen kan därför behöva implementeras.
 
 * **Valfritt:** Anpassa [önskad maximal sessionstid](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"} innan användarmigrering för att Marketo Engage-användare ska förbli autentiserade.
 
