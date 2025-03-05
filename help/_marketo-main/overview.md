@@ -3,7 +3,7 @@ title: Självstudiekurser om Marketo Engage
 description: Titta på videosjälvstudiekurser på  [!DNL Marketo Engage]. Förbättra din förståelse för hur du använder funktioner för automatiserad marknadsföring med mera.
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: ee68cb7fc0dbf9c4ccae3f89fdbb6e097016ebf9
+source-git-commit: b1bca74399683782c4691882f2239db60d117286
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 13%
@@ -23,14 +23,14 @@ Bläddra i vårt självstudiebibliotek och få ut det mesta av [!DNL Marketo Eng
 
 ## Nyheter {#whats-new}
 
+* [Bästa tillvägagångssätt för att implementera live-chatt](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices.md)
+  _Lär dig mer om de bästa sätten att följa när du implementerar chattfunktionen i Dynamic Chat._
+
 * [Interaktiva webbinarier - översikt](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/interactive-webinars-overview)
   _Läs allt om Interactive Webinars, den inbyggda webbinariplattformen i Marketo Engage._
 
 * [Migrerar till Adobe Identity Management](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management)
   _Lär dig navigera i migreringen av Adobe Identity Management så att du kan börja hantera Adobe Marketo Engage tillsammans med andra Adobe-konton och -produkter åt dina användare på en central plats._
-
-* [Interaktiva webbinarier efter händelseinsikter och åtgärder](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/interactive-webinars-post-event-insights-and-actions)
-  _Lär dig var du hittar detaljerad information om prestanda och engagemang för din interaktiva webbinariehändelse._
 
 ## De populäraste videoklippen {#most-popular-videos}
 
