@@ -3,10 +3,10 @@ title: Självstudiekurser om Marketo Engage
 description: Titta på videosjälvstudiekurser på  [!DNL Marketo Engage]. Förbättra din förståelse för hur du använder funktioner för automatiserad marknadsföring med mera.
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: 3c79aa679e95d1aa967a8c3b2aa96607e17adb95
+source-git-commit: ee68cb7fc0dbf9c4ccae3f89fdbb6e097016ebf9
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 12%
+source-wordcount: '161'
+ht-degree: 13%
 
 ---
 
@@ -21,17 +21,16 @@ Bläddra i vårt självstudiebibliotek och få ut det mesta av [!DNL Marketo Eng
 <div id="recs-overview-body-5"></div>
 <div id="recs-overview-body-6"></div> -->
 
-
 ## Nyheter {#whats-new}
 
+* [Interaktiva webbinarier - översikt](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/interactive-webinars-overview)
+  _Läs allt om Interactive Webinars, den inbyggda webbinariplattformen i Marketo Engage._
+
 * [Migrerar till Adobe Identity Management](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management)
-  _Lär dig navigera i migreringen av Adobe Identity Management så att du kan börja hantera Adobe Marketo Engage tillsammans med andra Adobe-konton och -produkter för dina användare på en central plats._
+  _Lär dig navigera i migreringen av Adobe Identity Management så att du kan börja hantera Adobe Marketo Engage tillsammans med andra Adobe-konton och -produkter åt dina användare på en central plats._
 
 * [Interaktiva webbinarier efter händelseinsikter och åtgärder](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/interactive-webinars-post-event-insights-and-actions)
   _Lär dig var du hittar detaljerad information om prestanda och engagemang för din interaktiva webbinariehändelse._
-
-* [Marketo How to API Video - How to set the Access token in a variable](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/integrations/api-set-access-token-variable)
-  _Lär dig hur du konfigurerar Postman-programmet och hur du använder variabler för att spara data i variabeln i återanvändbarhetssyfte._
 
 ## De populäraste videoklippen {#most-popular-videos}
 

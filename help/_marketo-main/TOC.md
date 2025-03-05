@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Marketo Engage
 user-guide-description: En samling videor och självstudiekurser om Adobe Marketo Engage.
 breadcrumb-title: Självstudiekurser om Marketo Engage
 auto-video-transcripts: true
-source-git-commit: e310fb4cd8dfc502ac49019f12ecb361ffbbccb4
+source-git-commit: ee68cb7fc0dbf9c4ccae3f89fdbb6e097016ebf9
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '433'
 ht-degree: 5%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 5%
 + Grundläggande {#fundamentals}
    + [Mål och strategi](/help/fundamentals/goals-and-strategy-learn.md)
    + [Organisationsstruktur](/help/fundamentals/organizational-structure-learn.md)
-   + [Migrering till Adobe Identity Management](/help/fundamentals/migrating-to-adobe-identity-management.md)
+   + [Migrera till Adobe Identity Management](/help/fundamentals/migrating-to-adobe-identity-management.md)
    + [Innehållsmarknadsföring](/help/fundamentals/content-marketing-learn.md)
    + [Köparprofiler](/help/fundamentals/buyer-personas-learn.md)
    + [Program och kampanjer](/help/fundamentals/programs-and-campaigns.md)
@@ -108,6 +108,7 @@ ht-degree: 5%
    + [Skapa ett händelseprogram](/help/events/events-learn.md)
    + [Webbinarier](/help/events/webinar-learn.md)
    + [Genomgång av webbinarier](/help/events/webinar-watch.md)
+   + [Översikt över interaktiva webbinarier](/help/events/interactive-webinars-overview.md)
    + [Interaktiva webbinarier - användar- och licenshantering](/help/events/interactive-webinars-user-and-license-management.md)
    + [Skapa interaktiva webbinarier](/help/events/interactive-webinars-event-program-creation.md)
    + [Interactive Webinars Event Program Overview](/help/events/interactive-webinars-event-program-overview.md)
@@ -119,7 +120,7 @@ ht-degree: 5%
 + Rapportering och analys {#reporting}
    + [Viktiga rapporter](/help/reporting/key-reports.md)
 + Integrationer {#integrations}
-   + [Marketo med Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
+   + [Marketo med Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
    + [API-hjälp - Ange åtkomsttoken i en variabel](/help/integrations/api-set-access-token-variable.md)
 + Hantera dubbletter {#manage-duplicates}
    + [Introduktion till hantering av dubbletter](/help/managing-duplicates/introduction-managing-duplicates.md)
