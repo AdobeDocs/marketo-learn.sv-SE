@@ -3,7 +3,7 @@ title: Självstudiekurser om Marketo Engage
 description: Titta på videosjälvstudiekurser på  [!DNL Marketo Engage]. Förbättra din förståelse för hur du använder funktioner för automatiserad marknadsföring med mera.
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: b1bca74399683782c4691882f2239db60d117286
+source-git-commit: 7277269a9ff98122d8da3f90e1b4b91872352ecf
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 13%
@@ -23,7 +23,7 @@ Bläddra i vårt självstudiebibliotek och få ut det mesta av [!DNL Marketo Eng
 
 ## Nyheter {#whats-new}
 
-* [Bästa tillvägagångssätt för att implementera live-chatt](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices.md)
+* [Bästa tillvägagångssätt för att implementera live-chatt](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)
   _Lär dig mer om de bästa sätten att följa när du implementerar chattfunktionen i Dynamic Chat._
 
 * [Interaktiva webbinarier - översikt](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/interactive-webinars-overview)
