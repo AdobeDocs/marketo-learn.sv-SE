@@ -4,7 +4,7 @@ description: Lär dig hur du aktiverar en smart kampanj i Marketo Engage med RES
 feature: REST API
 role: Admin, Developer
 level: Experienced
-source-git-commit: dcfffa299cbcfef489f5b618fae29f745b878d26
+source-git-commit: e840968877b3947b2d24c9416104f1dd187082cc
 workflow-type: tm+mt
 source-wordcount: '611'
 ht-degree: 0%
@@ -54,13 +54,13 @@ You're registered for **{{my.WebinarTitle}}**.
 Join here: {{my.JoinLink}}
 ```
 
+Om du använder en token för att dynamiskt mata in en bild-URL (t.ex. `{{my.WebinarImage}}`) måste du omsluta token i en HTML-bildtagg:
+
+```html
+<img src="{{my.WebinarImage}}" alt="Webinar banner" />
+```
+
 >[!IMPORTANT]
->
->Om du använder en token för att dynamiskt mata in en bild-URL (t.ex. `{{my.WebinarImage}}`) måste du omsluta token i en HTML-bildtagg:
->
-> ```html
-> <img src="{{my.WebinarImage}}" alt="Webinar banner" />
-> ```
 >
 >Marketo Enagage **återger inte bilden** om inte variabeln placeras inuti en giltig bildtagg.
 
