@@ -7,7 +7,7 @@ recommendations: noDisplay, noCatalog
 last-substantial-update: 2024-07-26T00:00:00Z
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: 55341c3f44aaf01d746b6e3f9e241f8a75c64958
+source-git-commit: dcfffa299cbcfef489f5b618fae29f745b878d26
 workflow-type: tm+mt
 source-wordcount: '1250'
 ht-degree: 0%
@@ -38,7 +38,7 @@ För att din organisation ska kunna migrera Adobe Marketo Engage till Adobe Admi
   >
   >Det finns skillnader mellan SSO och Adobe Admin Console SSO som stöds av Marketo Engage. Ändringar i konfigurationen kan därför behöva implementeras.
 
-* **Valfritt:** Anpassa [önskad maximal sessionstid](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"} innan användarmigrering för att Marketo Engage-användare ska förbli autentiserade.
+* **Valfritt:** Anpassa den [önskade maximala sessionstiden](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"} innan Marketo Engage-användare migreras för att förbli autentiserade.
 
 * Lär dig hur du kommunicerar med systemadministratörer i avsnittet [Exempel på e-post](#announce-the-migration-timeline).
 
@@ -88,7 +88,7 @@ Vår Marketo Engage-prenumeration migreras snart till Adobe Identity Management 
 
 * Adobe kan begära medgivande från dig, Admin Console systemadministratör, för att automatiskt migrera användare till vår organisations befintliga konsol. I e-postmeddelandet med ämnesraden&quot;Åtgärd krävs för att hantera användaråtkomst till Adobe Marketo Engage `[Package Tier]`&quot; klickar du på knappen&quot;Kom igång&quot; för att gå till sidan för godkännande.
 
-`3.` Efter migreringen kommer Marketo Engage att gå från experience.adobe.com till Adobe Experience Cloud. Tillåtslista alla Adobe-domäner som visas [högst upp i den här artikeln](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"} för att förhindra avbrott i vår Marketo Engage-åtkomst.
+`3.` Efter migreringen kommer Marketo Engage att gå från experience.adobe.com till Adobe Experience Cloud. Tillåtslista alla Adobe-domäner som listas [högst upp i den här artikeln](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"} för att förhindra avbrott i vår Marketo Engage-åtkomst.
 
 `4.` **Valfritt:** Konfigurera enkel inloggning (SSO) i Adobe Admin Console.
 

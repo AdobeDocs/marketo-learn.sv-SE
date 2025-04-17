@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Marketo Engage
 user-guide-description: En samling videor och självstudiekurser om Adobe Marketo Engage.
 breadcrumb-title: Självstudiekurser om Marketo Engage
 auto-video-transcripts: true
-source-git-commit: b1bca74399683782c4691882f2239db60d117286
+source-git-commit: dcfffa299cbcfef489f5b618fae29f745b878d26
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '454'
 ht-degree: 5%
 
 ---
@@ -89,7 +89,7 @@ ht-degree: 5%
    + [Mötesbokningar](/help/dynamic-chat/meeting-booking.md)
    + [Drive GenAI-baserade konversationer](/help/dynamic-chat/gen-ai-features.md)
    + [Åtaganderapport](/help/dynamic-chat/engagement-report.md)
-+ Försäljningsinsikter åtgärder {#sales-insight-actions}
++ Försäljningsinsikter {#sales-insight-actions}
    + [Översikt](/help/sales-insight-actions/overview.md)
    + [Översikt över Säljåtgärder](/help/sales-insight-actions/sales-insight-actions-overview.md)
    + [Få åtkomst till instansen Sales Insight Actions](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
@@ -120,9 +120,10 @@ ht-degree: 5%
    + [On-Demand-webbinarier](/help/events/on-demand-webinars.md)
 + Rapportering och analys {#reporting}
    + [Viktiga rapporter](/help/reporting/key-reports.md)
-+ Integrationer {#integrations}
++ Integreringar {#integrations}
    + [Marketo med Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
    + [API-hjälp - Ange åtkomsttoken i en variabel](/help/integrations/api-set-access-token-variable.md)
+   + [Så här utlöser du en smart kampanj i Marketo Engage med REST API och tokens](/help/integrations/trigger-smart-campaign-rest-api.md)
 + Hantera dubbletter {#manage-duplicates}
    + [Introduktion till hantering av dubbletter](/help/managing-duplicates/introduction-managing-duplicates.md)
    + [Förstå varför dubbletter förekommer](/help/managing-duplicates/why-duplicates-occur.md)
