@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Läs om användarbehörigheter för interaktiva webbinarier samt om licenstillgänglighet och övervakning av användningsbegränsningar för interaktiva webbinarier-licenser.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429635/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446120/?learn=on&captions=swe)

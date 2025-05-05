@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Med hjälp av en snabbsökning kan du komma åt vilket kort som helst i strömdesignern med bara ett klick.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416925/?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437246/?quality=12&learn=on&captions=swe){trancript=true}
 
 ## Fler praktiska videor
 

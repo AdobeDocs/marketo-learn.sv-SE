@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig hur du konfigurerar en interaktiv webbinariehändelse innan den levereras för att passa webbinariets mål och ser till att leveransen är tillräckligt effektiv för att engagera deltagarna så att de kan generera intresse och begära återgivning för varumärket, produkten och tjänsterna. osv.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429637/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448988/?learn=on&captions=swe)

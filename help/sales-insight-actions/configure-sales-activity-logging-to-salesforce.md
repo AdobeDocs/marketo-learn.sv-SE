@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Lär dig hur du konfigurerar och loggar aktiviteter för Sales Insight-åtgärder till ditt [!DNL Salesforce]-konto.
 
->[!VIDEO](https://video.tv.adobe.com/v/340843/?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449203/?quality=12&learn=on&captions=swe){trancript=true}
 
 ## Relaterade videoklipp
 

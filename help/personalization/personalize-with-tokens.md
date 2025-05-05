@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig hur du använder variabler i Marketo-program. Genom att utnyttja Tokens i Marketo-program kan ni hjälpa till med personalisering, snabbare programbyggtid och minskad sannolikhet för typos eller mänskliga fel.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421605/?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432455/?learn=on&captions=swe){trancript=true}

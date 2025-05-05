@@ -18,6 +18,6 @@ ht-degree: 0%
 
 En stegvis guide som hjälper dig att komma igång med din första dialog med [!UICONTROL Dynamic Chat] på bara 15 minuter!
 
->[!VIDEO](https://video.tv.adobe.com/v/342164/?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452672/?quality=12&learn=on&captions=swe){trancript=true}
 
 *Obs! För dem som inte vet hur man kommer åt [!UICONTROL Dynamic Chat] finns det [en kort video](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/user-management.html?lang=sv-SE) som hjälper dig att lägga till dig själv eller andra användare i [!UICONTROL Dynamic Chat] .*

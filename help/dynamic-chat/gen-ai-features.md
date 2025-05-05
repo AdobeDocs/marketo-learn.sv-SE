@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Lär er hur ni driver GenAI-baserade samtal och gör det möjligt för era besökare att ställa frågor, få snabba svar och generera en sammanfattning för era samtal. Utnyttja konversationsinsikter direkt i era Marketo-instanser.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429153/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454475/?learn=on&captions=swe)

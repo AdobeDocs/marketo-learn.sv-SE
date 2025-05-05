@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig hur du sorterar och konsoliderar dubblettposter i Excel med hjälp av formler och metodtips för rensa listimporter.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429492/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3449682/?learn=on&enablevpops&captions=swe)

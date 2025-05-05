@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Du kanske redan vet hur du kan skapa en icke-engelsk dialogruta (om inte [klicka här](https://nation.marketo.com/t5/dynamic-chat-discussion/design-non-english-language-conversations-in-dynamic-chat/m-p/324317#M39){target="_blank"}). Du kan anpassa statiskt innehåll/systeminnehåll efter det språk du väljer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416924/?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3439218/?quality=12&learn=on&captions=swe){trancript=true}
 
 ## Fler praktiska videor
 

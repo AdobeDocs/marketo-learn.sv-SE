@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Se hur Adobe’s Professional Services kan hjälpa till att hantera dubblettposter utan krångel.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429501/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436788/?learn=on&enablevpops&captions=swe)

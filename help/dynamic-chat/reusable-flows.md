@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Förenkla design och hantering av konversationer med det nya konversationsflödeskortet. Skapa en konversationsström en gång och återanvänd den i flera dialogrutor.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429715/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446649/?learn=on&captions=swe)

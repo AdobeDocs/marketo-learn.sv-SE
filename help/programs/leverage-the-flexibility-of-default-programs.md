@@ -22,4 +22,4 @@ ht-degree: 0%
 Av de fyra programtyperna är standardprogrammen de mest flexibla och du kan skapa med vad du ska skapa.
 Lär dig mer om två vanliga användningsområden: webbformulär och generering av betald mediapersonal.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420137?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453855?learn=on&captions=swe){trancript=true}

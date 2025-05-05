@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Första gången du börjar arbeta med Marketo Engage är organisationen nyckeln. Genom att hålla ordning i instansen blir det enkelt för dig och dina kollegor att hålla reda på kampanjer, program och resurser. Lär dig hur du organiserar ditt navigeringsträd i [!UICONTROL Marketing Activities] med hjälp av mappar, standardnamnkonventioner och funktioner som kloning så att du enkelt kan arbeta med dina medarbetare i en ny [!DNL Marketo Engage] -instans. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3421577/?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3428940/?learn=on&captions=swe){trancript=true}
 
 ## Ytterligare resurser
 

@@ -21,4 +21,4 @@ ht-degree: 0%
 En guide som hjälper er att förstå alla funktioner ni kan använda för att hantera alla era agenter från ett och samma ställe som engagerar era webbbesökare.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3424829/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447237/?learn=on&captions=swe)

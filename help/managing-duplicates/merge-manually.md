@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig hur du sammanfogar dubbletter manuellt i avsnittet Databas. Perfekt för att hantera färre poster med precision och kontroll.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429491/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443654/?learn=on&enablevpops&captions=swe)

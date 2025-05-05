@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig hur du kan leverera interaktiva webbinarier på ett optimalt sätt för att uppnå ditt mål och engagera deltagarna. Se till att ert innehåll genererar intresse så att ni kan begära in avsikter via olika engagemangsverktyg för att bättre kunna personalisera vårdar och segmentering.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429638/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440041/?learn=on&captions=swe)

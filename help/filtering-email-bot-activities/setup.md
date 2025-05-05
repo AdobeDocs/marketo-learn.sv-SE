@@ -18,4 +18,4 @@ ht-degree: 0%
 
 En guide som hjälper er att identifiera e-postaktiviteter per organisation och hur ni kan filtrera och skapa kampanjer utan robotar.
 
->[!VIDEO](https://video.tv.adobe.com/v/341158/?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445116/?quality=12&learn=on&captions=swe){trancript=true}

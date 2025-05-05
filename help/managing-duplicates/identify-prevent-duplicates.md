@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Utforska verktyg och tips för att hitta dubbletter och förhindra dem med strukturerade arbetsflöden och periodiska granskningar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429500/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447102/?learn=on&enablevpops&captions=swe)

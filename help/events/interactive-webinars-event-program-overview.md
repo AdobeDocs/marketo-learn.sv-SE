@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Ta en snabb genomgång av de olika elementen i ett interaktivt webbseminarium Event Program och lär dig vilka åtgärder du kan vidta för att förfina det.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429640/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450084/?learn=on&captions=swe)

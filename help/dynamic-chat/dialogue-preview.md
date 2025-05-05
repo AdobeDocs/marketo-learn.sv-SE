@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Det är enkelt att förhandsgranska dialogrutan innan du publicerar den med funktionen för förhandsgranskning i dialogrutan.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416923/?quality=12&learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436853/?quality=12&learn=on&captions=swe){trancript=true}
 
 ## Fler praktiska videor
 

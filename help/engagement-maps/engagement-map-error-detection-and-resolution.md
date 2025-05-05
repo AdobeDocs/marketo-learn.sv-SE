@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Läs om hur Engagement Map hjälper er att snabbt felsöka och åtgärda kampanjproblem
 
->[!VIDEO](https://video.tv.adobe.com/v/3422246/?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432422/?learn=on&captions=swe){trancript=true}

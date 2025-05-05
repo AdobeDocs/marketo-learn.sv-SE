@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Dra nytta av de viktigaste lösningarna för hantering av dubbletter i Marketo Engage och välj den bästa lösningen för teamets behov och resurser.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429502/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436644/?learn=on&enablevpops&captions=swe)

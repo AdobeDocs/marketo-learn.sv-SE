@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig hur du skapar ett Event Program där du kan skapa och schemalägga interaktiva webbinarier i Marketo Engage.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429639/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443416/?learn=on&captions=swe)

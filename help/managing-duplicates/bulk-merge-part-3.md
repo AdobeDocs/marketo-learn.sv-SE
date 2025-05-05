@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Slutför gruppsammanslagningen genom att importera rensade data till Marketo Engage igen och hantera dubbletter effektivt med en operativ kampanj.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429488/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452751/?learn=on&enablevpops&captions=swe)

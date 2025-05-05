@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Utveckla en grundläggande förståelse och bygg ditt första Event-program genom att titta på den här videon.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419622/?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453998/?learn=on&captions=swe){trancript=true}
 
 ## Ytterligare resurser
 

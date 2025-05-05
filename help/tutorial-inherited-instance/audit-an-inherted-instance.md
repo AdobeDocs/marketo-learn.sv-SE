@@ -24,4 +24,4 @@ Att ärva en Marketo Engage-instans kan vara stressigt, oavsett om du är erfare
 
 I den här självstudiekursen går vi igenom de viktigaste avsnitten i Marketo Engage, inklusive Admin, Marknadsföringsaktiviteter, Design Studio och Database och ger dig tips för granskning och optimering längs vägen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422473/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453026/?learn=on&captions=swe)

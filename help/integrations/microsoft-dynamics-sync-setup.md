@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Lär dig hur synkroniseringen av Microsoft Dynamics 365 fungerar och konfigurera inställningarna på rätt sätt så att de två systemen kan kommunicera med varandra. I den här självstudiekursen får du lära dig hur synkroniseringen fungerar, hur du hämtar Marketo Lead Management-lösningen (MLM), installerar MLM-lösningen för server-till-server-anslutning och hur du ansluter de två systemen. Ytterligare tips och trick för att validera synkroniseringen, begränsa antalet synkroniserade poster och beräknad synkroniseringstid delas för att hjälpa dig att konfigurera din Microsoft Dynamics-synkronisering.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424737/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430212/?learn=on&captions=swe)
 
 ## Länkar som används i videon
 

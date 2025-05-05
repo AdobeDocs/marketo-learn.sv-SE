@@ -26,4 +26,4 @@ Detta är bäst för:
 * Se till att du alltid pratar med handledare
 * Erbjudande efter att formuläret fyllts i eller under automatisk chattkonversation
 
->[!VIDEO](https://video.tv.adobe.com/v/3424828/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452062/?learn=on&captions=swe)

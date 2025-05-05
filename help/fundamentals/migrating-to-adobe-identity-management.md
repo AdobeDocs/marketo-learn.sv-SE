@@ -46,7 +46,7 @@ För att din organisation ska kunna migrera Adobe Marketo Engage till Adobe Admi
 
 I videon nedan visar Marketo Engage produkthanteringsteam hur du hanterar migreringsprocessen och vad du kan förvänta dig.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430920t3/?t=170/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432369/?t=170/?quality=12&learn=on&captions=swe){transcript=true}
 
 Mer hjälp om det här avsnittet för Marketo Engage-administratörer finns i följande hjälpartiklar:
 

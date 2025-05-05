@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig hur du ställer in fältmappningar, sammanfogningslogik och schemaläggning för att automatisera dubbletthanteringen mellan Marketo Engage och iPaaS-verktyg. I den här videodemonstrationen av arbetsflödet används Vertify som exempel.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429486/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3453811/?learn=on&enablevpops&captions=swe)

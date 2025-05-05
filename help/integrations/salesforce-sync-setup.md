@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Läs om hur Marketo Engage och Salesforce samarbetar för att synkronisera dina sälj- och marknadsföringsdata. I den här självstudiekursen får du lära dig hur synkroniseringen fungerar, hur synkroniseringen ställs in för att rätt data ska flöda och hur du kontrollerar att den fungerar som den ska. Ytterligare tips och trick för att hantera din Salesforce-synkronisering delas ut för att hjälpa dig att välja fält för synkronisering och dölja fält som inte längre behövs.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424719/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453800/?learn=on&captions=swe)
 
 ## Länkar som används i videon
 
