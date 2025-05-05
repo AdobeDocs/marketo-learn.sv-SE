@@ -15,8 +15,8 @@ Program är ett enda marknadsföringsinitiativ. Lär dig utnyttja dem tillsamman
 
 Se produktguiderna för mer information:
 
-* [Programdokumentation](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html?lang=en)
-* [Förstå dokumentationen för smarta kampanjer](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=en)
+* [Programdokumentation](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html?lang=sv-SE)
+* [Förstå dokumentationen för smarta kampanjer](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=sv-SE)
 
 Lär er av kollegor hur ni använder smarta kampanjer:
 

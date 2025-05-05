@@ -30,15 +30,15 @@ För att din organisation ska kunna migrera Adobe Marketo Engage till Adobe Admi
 
 * Bekräfta den Adobe Admin Console (eller Adobe Org) till vilken dina Marketo Engage-prenumerationer ska migreras. Du har antagligen ett Adobe Admin Console för [Dynamic Chat](/help/dynamic-chat/dynamic-chat-overview.md){target="_blank"}, ett verktyg för intern konversationsautomation i Marketo Engage. Marketo Engage-prenumerationer måste distribueras i samma organisation som Dynamic Chat.
 
-* Arbeta med IT-teamet för att tillåtslista alla Adobe-domäner som listas [ överst i den här artikeln](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"} för att förhindra avbrott i Marketo Engage-åtkomsten efter migreringen till Adobe Identity.
+* Arbeta med IT-teamet för att tillåtslista alla Adobe-domäner som listas [ överst i den här artikeln](https://experienceleague.adobe.com/sv/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"} för att förhindra avbrott i Marketo Engage-åtkomsten efter migreringen till Adobe Identity.
 
-* **Valfritt:** [Implementera enkel inloggning (SSO)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"} före användarmigrering.
+* **Valfritt:** [Implementera enkel inloggning (SSO)](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"} före användarmigrering.
 
   >[!NOTE]
   >
   >Det finns skillnader mellan SSO och Adobe Admin Console SSO som stöds av Marketo Engage. Ändringar i konfigurationen kan därför behöva implementeras.
 
-* **Valfritt:** Anpassa den [önskade maximala sessionstiden](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"} innan Marketo Engage-användare migreras för att förbli autentiserade.
+* **Valfritt:** Anpassa den [önskade maximala sessionstiden](https://helpx.adobe.com/se/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"} innan Marketo Engage-användare migreras för att förbli autentiserade.
 
 * Lär dig hur du kommunicerar med systemadministratörer i avsnittet [Exempel på e-post](#announce-the-migration-timeline).
 
@@ -50,13 +50,13 @@ I videon nedan visar Marketo Engage produkthanteringsteam hur du hanterar migrer
 
 Mer hjälp om det här avsnittet för Marketo Engage-administratörer finns i följande hjälpartiklar:
 
-* [Checklista för användarinställningar](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/user-setup){target="_blank"}
+* [Checklista för användarinställningar](https://experienceleague.adobe.com/sv/docs/marketo/using/getting-started/initial-setup/user-setup){target="_blank"}
 
-* [Adobe Identity Management - översikt](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}
+* [Adobe Identity Management - översikt](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}
 
-* [Om Marketo-prenumeration och användarmigrering till Adobe Admin Console](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console){target="_blank"}
+* [Om Marketo-prenumeration och användarmigrering till Adobe Admin Console](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console){target="_blank"}
 
-* [Migrerar till Adobe-identitet med migreringskonsolen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity){target="_blank"}
+* [Migrerar till Adobe-identitet med migreringskonsolen](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity){target="_blank"}
 
 * [Förstå hur du använder Adobe Admin Console](https://helpx.adobe.com/se/enterprise/using/admin-console.html){target="_blank"}
 
@@ -64,7 +64,7 @@ Mer hjälp om det här avsnittet för Marketo Engage-administratörer finns i f�
 
 * Markera migreringsdatumet på Marketo Engage-administratörernas och användarnas kalendrar när de har schemalagts.
 
-   * Du kan ändra migreringsdatumet i **Admin** > **Migreringskonsol** > **Före migrering** så att det passar din interna tidslinje bättre. Läs mer om omplanering och begränsningarna med [att ändra migreringsdatumet](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity#pre-migration){target="_blank"}.
+   * Du kan ändra migreringsdatumet i **Admin** > **Migreringskonsol** > **Före migrering** så att det passar din interna tidslinje bättre. Läs mer om omplanering och begränsningarna med [att ändra migreringsdatumet](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity#pre-migration){target="_blank"}.
 
 * **Skicka ett e-postmeddelande till systemadministratörerna**
 
@@ -88,13 +88,13 @@ Vår Marketo Engage-prenumeration migreras snart till Adobe Identity Management 
 
 * Adobe kan begära medgivande från dig, Admin Console systemadministratör, för att automatiskt migrera användare till vår organisations befintliga konsol. I e-postmeddelandet med ämnesraden&quot;Åtgärd krävs för att hantera användaråtkomst till Adobe Marketo Engage `[Package Tier]`&quot; klickar du på knappen&quot;Kom igång&quot; för att gå till sidan för godkännande.
 
-`3.` Efter migreringen kommer Marketo Engage att gå från experience.adobe.com till Adobe Experience Cloud. Tillåtslista alla Adobe-domäner som listas [högst upp i den här artikeln](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"} för att förhindra avbrott i vår Marketo Engage-åtkomst.
+`3.` Efter migreringen kommer Marketo Engage att gå från experience.adobe.com till Adobe Experience Cloud. Tillåtslista alla Adobe-domäner som listas [högst upp i den här artikeln](https://experienceleague.adobe.com/sv/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"} för att förhindra avbrott i vår Marketo Engage-åtkomst.
 
 `4.` **Valfritt:** Konfigurera enkel inloggning (SSO) i Adobe Admin Console.
 
 * För att hjälpa våra användare som loggar in med enkel inloggning (SSO) på sin Adobe Identity att gå framåt bör du hjälpa till med konfigurationen av enkel inloggning i Adobe Admin Console innan användarmigrering sker.
 
-`5.` **Valfritt:** Ange en längre [maximal sessionstid](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"} i Adobe Admin Console.
+`5.` **Valfritt:** Ange en längre [maximal sessionstid](https://helpx.adobe.com/se/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"} i Adobe Admin Console.
 
 * Om du vill förhindra användare från att behöva logga in ofta anpassar du sessionstiden i de avancerade inställningarna med längre varaktighet.
 

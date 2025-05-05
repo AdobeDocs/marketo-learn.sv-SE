@@ -26,11 +26,11 @@ Utveckla en grundläggande förståelse och bygg ditt första Event-program geno
 
 Se produktguiderna för mer information:
 
-* [Dokumentation om händelseprogram ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html?lang=en)
+* [Dokumentation om händelseprogram ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html?lang=sv-SE)
 
 Titta på ytterligare videofilmer om du vill ha mer hjälp om den här funktionen:
-* [Händelser går igenom](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/events-watch.html?lang=en)
-* [Webbinarier går igenom](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/webinar-watch.html?lang=en)
+* [Händelser går igenom](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/events-watch.html?lang=sv-SE)
+* [Webbinarier går igenom](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/webinar-watch.html?lang=sv-SE)
 
 Lär dig av andra om hur du använder händelseprogram:
 * [Expert customer blog post: Event Programs](https://nation.marketo.com/t5/product-blogs/marketo-success-series-event-programs/ba-p/299191)

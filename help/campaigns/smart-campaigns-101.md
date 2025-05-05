@@ -28,7 +28,7 @@ Smarta kampanjer är motorn i Marketo. Förutom att använda smarta kampanjer f�
 
 **Dokumentation:**
 
-* [Förstå dokumentationen för smarta kampanjer](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=en)
+* [Förstå dokumentationen för smarta kampanjer](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=sv-SE)
 
 **Blogginlägg från experten:**
 

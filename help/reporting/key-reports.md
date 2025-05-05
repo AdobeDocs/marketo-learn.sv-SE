@@ -28,7 +28,7 @@ Läs mer om de viktigaste rapporterna inom Marketo Engage och hur man får in de
 
 Läs produktguiderna:
 
-* [Översikt över rapporttyp](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html?lang=en)
+* [Översikt över rapporttyp](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html?lang=sv-SE)
 
 Lär dig av andra:
 

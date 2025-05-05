@@ -24,7 +24,7 @@ Lär dig navigera i användargränssnittet och bekanta dig med hur du använder 
 
 ## Ytterligare resurser
 
-* [Marketo Engage-ordlista](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html?lang=en)
+* [Marketo Engage-ordlista](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html?lang=sv-SE)
 Definitioner för många av de termer du kan stöta på när du använder Marketo.
-* [Ikonordlista](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-engage-modern-ux/icon-glossary.html?lang=en)
+* [Ikonordlista](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-engage-modern-ux/icon-glossary.html?lang=sv-SE)
 Ordlista för ikonerna för gränssnittet Marketo Engage.

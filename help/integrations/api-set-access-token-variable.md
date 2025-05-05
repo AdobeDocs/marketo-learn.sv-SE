@@ -24,11 +24,11 @@ Lär dig hur du konfigurerar Postman-programmet och använder variabler för att
 >
 >Innan du startar videon skapar du ett användarnamn för endast API med en AOI-roll och skapar en Launchpad-tjänst. Följ stegen i artiklarna nedan:
 >
->* [Skapa endast en API-användarroll](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user-role){target="_blank"}
+>* [Skapa endast en API-användarroll](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user-role){target="_blank"}
 >
->* [Skapa endast en API-användare](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user){target="_blank"}
+>* [Skapa endast en API-användare](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user){target="_blank"}
 >
->* [Skapa en anpassad tjänst för användning med REST API](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api){target="_blank"}
+>* [Skapa en anpassad tjänst för användning med REST API](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api){target="_blank"}
 
 **Referenser som används i den här videon:**
 
@@ -41,6 +41,6 @@ var jsonData = pm.response.json();
 pm.environment.set("access_token", jsonData.access_token);
 ```
 
-* [Marketo Engage-dokumentation för utvecklare](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}
+* [Marketo Engage-dokumentation för utvecklare](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/authentication){target="_blank"}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429275/?learn=on)
