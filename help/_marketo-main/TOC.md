@@ -3,7 +3,7 @@ user-guide-title: Självstudiekurser om Marketo Engage
 user-guide-description: En samling videor och självstudiekurser om Adobe Marketo Engage.
 breadcrumb-title: Självstudiekurser om Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 1f7221f18b629fb5a9ea7d9aa907ac847ff01c50
+source-git-commit: f5e642f54afb279cab8cd8084d5eed60faa7933c
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 5%
@@ -26,13 +26,13 @@ ht-degree: 5%
    + [Bästa tillvägagångssätt för att organisera en ny instans](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [Bästa tillvägagångssätt för att skapa grundläggande program](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [Anpassa med variabler](/help/personalization/personalize-with-tokens.md)
-   + [Implementera en ny instans - självstudiekurs](https://experienceleague.adobe.com/sv/docs/experiences-by-you/implementing-new-instance/overview)
-   + [Granska en ärvd instans - självstudie](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=sv-SE)
+   + [Implementera en ny instans - självstudiekurs](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
+   + [Granska en ärvd instans - självstudie](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)
 + Program och kampanjer {#programs-and-campaigns}
    + [Förstå program och kampanjer](/help/programs/understanding-programs-and-campaigns.md)
    + [Förstå programmedlemskap](/help/programs/understanding-program-membership.md)
    + [Smarta kampanjer grundkurs](/help/campaigns/smart-campaigns-101.md)
-   + [Introduktion till kanaler, taggar och periodkostnader](/help/campaigns/channels-tags-period-costs.md)
+   + [Introduktion till kanaler, taggar och periodkostnader](/help/programs/channels-tags-period-costs.md)
    + [Händelseprogram](/help/programs/event-programs.md)
    + Standardprogram {#default-programs}
       + [Skapa och mät ett standardprogram](/help/programs/create-and-measure-default-programs.md)
@@ -126,7 +126,7 @@ ht-degree: 5%
 + Rapportering och analys {#reporting}
    + [Viktiga rapporter](/help/reporting/key-reports.md)
 + Integreringar {#integrations}
-   + [Marketo med Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=sv-SE)
+   + [Marketo med Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
    + [API-hjälp - Ange åtkomsttoken i en variabel](/help/integrations/api-set-access-token-variable.md)
    + [Så här utlöser du en smart kampanj i Marketo Engage med REST API och tokens](/help/integrations/trigger-smart-campaign-rest-api.md)
 + Hantera dubbletter {#manage-duplicates}
