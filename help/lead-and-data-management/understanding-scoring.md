@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig hur ni tilldelar poäng till era medarbetare/leads för att utvärdera deras engagemang i ert innehåll.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463192/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463240/?learn=on&enablevpops&captions=swe)

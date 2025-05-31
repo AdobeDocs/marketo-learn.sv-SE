@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig hur du söker efter specifika grupper med hjälp av enkla filter via Smarta listor.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463190/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463207/?learn=on&enablevpops&captions=swe)
