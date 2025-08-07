@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Lär dig hur leads (människor) går igenom olika faser av deras köpresa.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470572/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470599/?learn=on&enablevpops&captions=swe)

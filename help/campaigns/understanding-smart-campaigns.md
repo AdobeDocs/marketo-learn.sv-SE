@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Smarta kampanjer är motorn i Marketo Engage. De kan användas för att skicka ut e-postmeddelanden, program med mera. Lär dig allt om dessa oumbärliga verktyg i Marketo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470546/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470564/?learn=on&enablevpops&captions=swe)

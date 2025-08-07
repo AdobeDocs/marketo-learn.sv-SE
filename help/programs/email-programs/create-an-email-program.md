@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig hur du använder ett e-postprogram för att snabbt och enkelt skicka ett e-postmeddelande till flera mottagare och spåra resultatet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470607/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470611/?learn=on&enablevpops&captions=swe)
