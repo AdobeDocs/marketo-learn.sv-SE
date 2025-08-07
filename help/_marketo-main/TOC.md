@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Marketo Engage
 user-guide-description: En samling videor och självstudiekurser om Adobe Marketo Engage.
 breadcrumb-title: Självstudiekurser om Marketo Engage
 auto-video-transcripts: true
-source-git-commit: f5e642f54afb279cab8cd8084d5eed60faa7933c
+source-git-commit: 543139a4013eedcea421bb7eeebea4bb683957a1
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '501'
 ht-degree: 5%
 
 ---
@@ -21,22 +21,32 @@ ht-degree: 5%
    + [Köparprofiler](/help/fundamentals/buyer-personas-learn.md)
    + [Smarta listor](/help/fundamentals/smart-lists.md)
    + [Statiska listor](/help/fundamentals/static-lists.md)
+   + [Assets](/help/fundamentals/assets.md)
+   + [Översikt över variabler](/help/fundamentals/tokens-overview.md)
+   + [Anpassa med variabler](/help/personalization/personalize-with-tokens.md)
    + [Program och kampanjer](/help/fundamentals/programs-and-campaigns.md)
    + [Migrera till Adobe Identity Management](/help/fundamentals/migrating-to-adobe-identity-management.md)
    + [Bästa tillvägagångssätt för att organisera en ny instans](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [Bästa tillvägagångssätt för att skapa grundläggande program](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
-   + [Anpassa med variabler](/help/personalization/personalize-with-tokens.md)
-   + [Implementera en ny instans - självstudiekurs](https://experienceleague.adobe.com/sv/docs/experiences-by-you/implementing-new-instance/overview)
-   + [Granska en ärvd instans - självstudie](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=sv-SE)
+   + [Implementera en ny instans - självstudiekurs](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
+   + [Granska en ärvd instans - självstudie](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)
 + Program och kampanjer {#programs-and-campaigns}
+   + [Förstå program](/help/programs/understanding-programs.md)
    + [Förstå program och kampanjer](/help/programs/understanding-programs-and-campaigns.md)
    + [Förstå programmedlemskap](/help/programs/understanding-program-membership.md)
+   + [Om smarta kampanjer](/help/campaigns/understanding-smart-campaigns.md)
    + [Smarta kampanjer grundkurs](/help/campaigns/smart-campaigns-101.md)
    + [Introduktion till kanaler, taggar och periodkostnader](/help/programs/channels-tags-period-costs.md)
    + [Händelseprogram](/help/programs/event-programs.md)
    + Standardprogram {#default-programs}
       + [Skapa och mät ett standardprogram](/help/programs/create-and-measure-default-programs.md)
       + [Utnyttja flexibiliteten i standardprogrammen](/help/programs/leverage-the-flexibility-of-default-programs.md)
+   + E-postprogram {#email-programs}
+      + [Skapa ett e-postprogram](/help/programs/email-programs/create-an-email-program.md)
+      + [Skapa ett e-postmeddelande](/help/programs/email-programs/create-an-email.md)
+      + [Definiera er målgrupp](/help/programs/email-programs/define-your-audience.md)
+      + [Skapa en landningssida](/help/programs/email-programs/create-a-landing-page.md)
+      + [Skapa ett formulär](/help/programs/email-programs/create-a-form.md)
    + Åtagandekartor {#engagement-maps}
       + [Översikt över engagemangskartan](/help/engagement-maps/engagement-map-overview.md)
       + [Inköpskarta kapslade kampanjer](/help/engagement-maps/engagement-map-nested-campaign.md)
@@ -102,6 +112,7 @@ ht-degree: 5%
    + [Om poängsättning](/help/lead-and-data-management/understanding-scoring.md)
    + [Resultat/personpoäng](/help/lead-and-data-management/lead-scoring-learn.md)
    + [Genomgång av poäng för lead/person](/help/lead-and-data-management/lead-scoring-watch.md)
+   + [Förstå lead-livscykeln](/help/lead-and-data-management/understanding-the-lead-lifecycle.md)
    + [Prenumerationscentral](/help/lead-and-data-management/subscription-center-learn.md)
    + [Prenumerationscentral - genomgång](/help/lead-and-data-management/subscription-center-watch.md)
    + [CRM-synkronisering](/help/lead-and-data-management/crm-sync-learn.md)
@@ -126,7 +137,7 @@ ht-degree: 5%
 + Rapportering och analys {#reporting}
    + [Viktiga rapporter](/help/reporting/key-reports.md)
 + Integreringar {#integrations}
-   + [Marketo med Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=sv-SE)
+   + [Marketo med Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
    + [API-hjälp - Ange åtkomsttoken i en variabel](/help/integrations/api-set-access-token-variable.md)
    + [Så här utlöser du en smart kampanj i Marketo Engage med REST API och tokens](/help/integrations/trigger-smart-campaign-rest-api.md)
 + Hantera dubbletter {#manage-duplicates}
