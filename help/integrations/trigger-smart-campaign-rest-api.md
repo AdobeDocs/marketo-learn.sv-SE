@@ -30,9 +30,9 @@ Detta kan göras med REST API och Mina token.
 
 ## Steg 1: Skapa den smarta kampanjen {#step-one}
 
-1. Gå till **Marknadsföringsaktiviteter** och skapa en ny [Smart Campaign](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs){target="_blank"} med namnet [ i mappen ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns){target="_blank"}Program`Send Webinar Reminder`.
+1. Gå till **Marknadsföringsaktiviteter** och skapa en ny [Smart Campaign](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs){target="_blank"} med namnet [ i mappen ](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns){target="_blank"}Program`Send Webinar Reminder`.
 
-1. **Lägg till en utlösare** på fliken [Smart lista](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger){target="_blank"} så att kampanjen kan anropas via API:t:
+1. **Lägg till en utlösare** på fliken [Smart lista](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger){target="_blank"} så att kampanjen kan anropas via API:t:
 
    * Välj **Kampanjen är begärd** som utlösare
    * Ange **Source** till `Web Service API`
@@ -41,7 +41,7 @@ Detta kan göras med REST API och Mina token.
 
 ## Steg 2: Definiera e-postinnehållet {#step-two}
 
-Skapa eller redigera en [e-postresurs](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/emails){target="_blank"} som refererar till både person och [Mina token](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens){target="_blank"}.
+Skapa eller redigera en [e-postresurs](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/assets/emails){target="_blank"} som refererar till både person och [Mina token](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens){target="_blank"}.
 
 >[!NOTE]
 >
@@ -83,7 +83,7 @@ Om du vill skicka värden dynamiskt via API måste tokenerna redan finnas i Mark
 
 ## Steg 4: Ange regler för kampanjkvalificering och aktivera kampanj {#step-four}
 
-1. Konfigurera [kvalificeringsreglerna](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign){target="_blank"} för att kontrollera hur ofta en person kan köra via Smart Campaign.
+1. Konfigurera [kvalificeringsreglerna](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign){target="_blank"} för att kontrollera hur ofta en person kan köra via Smart Campaign.
 
 1. När konfigurationen är klar klickar du på **Aktivera** för att aktivera den smarta kampanjen för att ta emot API-utlösta begäranden.
 
@@ -134,7 +134,7 @@ POST /rest/v1/campaigns/1234/trigger.json
       },
       {
         "name": "{{my.WebinarImage}}",
-        "value": "https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/media_1c6f338a518ada11550084c8ab3a6bbf554ff6eac.jpeg"
+        "value": "https://experienceleague.adobe.com/sv/docs/marketo-learn/tutorials/events/media_1c6f338a518ada11550084c8ab3a6bbf554ff6eac.jpeg"
       }
     ]
   }
