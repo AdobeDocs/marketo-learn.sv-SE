@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Tokens är variabler som hämtar in personaliserade data för användning i flödessteg för Smart Campaign, e-postmeddelanden, landningssidor med mera.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470560/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470576/?learn=on&enablevpops&captions=swe)
