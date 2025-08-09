@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig hur du skapar, anpassar och testar e-postmeddelanden i ett e-postprogram.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470630/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470638/?learn=on&enablevpops&captions=swe)

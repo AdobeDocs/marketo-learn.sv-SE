@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig hur du skapar, anpassar och godkänner en landningssida i ditt e-postprogram.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470631/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470649/?learn=on&enablevpops&captions=swe)

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig hur du definierar en önskad målgrupp när du använder ett e-postprogram.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470633/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470671/?learn=on&enablevpops&captions=swe)
