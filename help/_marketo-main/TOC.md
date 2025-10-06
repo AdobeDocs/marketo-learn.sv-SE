@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Marketo Engage
 user-guide-description: En samling videor och självstudiekurser om Adobe Marketo Engage.
 breadcrumb-title: Självstudiekurser om Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 543139a4013eedcea421bb7eeebea4bb683957a1
+source-git-commit: 9cf0fca2786f14ff1d2f4ddacce8b6f44ca964ca
 workflow-type: tm+mt
-source-wordcount: '501'
+source-wordcount: '499'
 ht-degree: 5%
 
 ---
@@ -28,8 +28,8 @@ ht-degree: 5%
    + [Migrera till Adobe Identity Management](/help/fundamentals/migrating-to-adobe-identity-management.md)
    + [Bästa tillvägagångssätt för att organisera en ny instans](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [Bästa tillvägagångssätt för att skapa grundläggande program](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
-   + [Implementera en ny instans - självstudiekurs](https://experienceleague.adobe.com/sv/docs/experiences-by-you/implementing-new-instance/overview)
-   + [Granska en ärvd instans - självstudie](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=sv-SE)
+   + [Implementera en ny instans - självstudiekurs](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
+   + [Granska en ärvd instans - självstudie](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)
 + Program och kampanjer {#programs-and-campaigns}
    + [Förstå program](/help/programs/understanding-programs.md)
    + [Förstå program och kampanjer](/help/programs/understanding-programs-and-campaigns.md)
@@ -76,7 +76,6 @@ ht-degree: 5%
    + [Genomgång av mobil marknadsföring](/help/cross-channel-marketing/mobile-marketing-watch.md)
    + [SEO och PPC](/help/cross-channel-marketing/seo-and-ppc-learn.md)
    + [SEO och PPC-genomgång](/help/cross-channel-marketing/seo-and-ppc-watch.md)
-   + [Social marknadsföring](/help/cross-channel-marketing/social-marketing-learn.md)
    + [Webbanpassning](/help/cross-channel-marketing/web-personalization-learn.md)
    + [Genomgång av personalisering på webben](/help/cross-channel-marketing/web-personalization-watch.md)
 + Dynamic Chat {#dynamic-chat}
@@ -137,7 +136,7 @@ ht-degree: 5%
 + Rapportering och analys {#reporting}
    + [Viktiga rapporter](/help/reporting/key-reports.md)
 + Integreringar {#integrations}
-   + [Marketo med Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=sv-SE)
+   + [Marketo med Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
    + [API-hjälp - Ange åtkomsttoken i en variabel](/help/integrations/api-set-access-token-variable.md)
    + [Så här utlöser du en smart kampanj i Marketo Engage med REST API och tokens](/help/integrations/trigger-smart-campaign-rest-api.md)
 + Hantera dubbletter {#manage-duplicates}
