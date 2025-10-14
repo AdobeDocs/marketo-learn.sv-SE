@@ -30,7 +30,7 @@ Detta kan göras med REST API och Mina token.
 
 ## Steg 1: Skapa den smarta kampanjen {#step-one}
 
-1. Gå till **Marknadsföringsaktiviteter** och skapa en ny [Smart Campaign](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs){target="_blank"} med namnet [ i mappen ](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns){target="_blank"}Program`Send Webinar Reminder`.
+1. Gå till **Marknadsföringsaktiviteter** och skapa en ny [Smart Campaign](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs){target="_blank"} med namnet [&#x200B; i mappen &#x200B;](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns){target="_blank"}Program`Send Webinar Reminder`.
 
 1. **Lägg till en utlösare** på fliken [Smart lista](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger){target="_blank"} så att kampanjen kan anropas via API:t:
 

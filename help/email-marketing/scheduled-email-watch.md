@@ -24,4 +24,4 @@ Lär dig skapa, hantera och spåra ett schemalagt e-postprogram.
 
 Mer information om e-postprogram finns i produktguiden:
 
-* [Dokumentation om e-postprogram ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=sv-SE)
+* [Dokumentation om e-postprogram &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=sv-SE)

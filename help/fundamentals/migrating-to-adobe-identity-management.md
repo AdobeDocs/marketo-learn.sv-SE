@@ -30,7 +30,7 @@ För att din organisation ska kunna migrera Adobe Marketo Engage till Adobe Admi
 
 * Bekräfta den Adobe Admin Console (eller Adobe Org) till vilken dina Marketo Engage-prenumerationer ska migreras. Du har antagligen ett Adobe Admin Console för [Dynamic Chat](/help/dynamic-chat/dynamic-chat-overview.md){target="_blank"}, ett verktyg för intern konversationsautomation i Marketo Engage. Marketo Engage-prenumerationer måste distribueras i samma organisation som Dynamic Chat.
 
-* Arbeta med IT-teamet för att tillåtslista alla Adobe-domäner som listas [ överst i den här artikeln](https://experienceleague.adobe.com/sv/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"} för att förhindra avbrott i Marketo Engage-åtkomsten efter migreringen till Adobe Identity.
+* Arbeta med IT-teamet för att tillåtslista alla Adobe-domäner som listas [&#x200B; överst i den här artikeln](https://experienceleague.adobe.com/sv/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"} för att förhindra avbrott i Marketo Engage-åtkomsten efter migreringen till Adobe Identity.
 
 * **Valfritt:** [Implementera enkel inloggning (SSO)](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"} före användarmigrering.
 
