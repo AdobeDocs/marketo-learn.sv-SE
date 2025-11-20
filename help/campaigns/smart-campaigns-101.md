@@ -21,14 +21,14 @@ ht-degree: 40%
 
 Smarta kampanjer är motorn i Marketo. Förutom att använda smarta kampanjer för att skicka ut e-postmeddelanden och program kan ni använda smarta kampanjer för en rad olika användningsområden. Lär dig hur du kan använda smarta kampanjer för datavalidering och automatiska varningar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424490/?quality=12&learn=on&captions=swe){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3420096/?quality=12&learn=on){transcript=true}
 
 
 ## Ytterligare resurser
 
 **Dokumentation:**
 
-* [Förstå dokumentationen för smarta kampanjer](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=sv-SE)
+* [Förstå dokumentationen för smarta kampanjer](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=en)
 
 **Blogginlägg från experten:**
 
