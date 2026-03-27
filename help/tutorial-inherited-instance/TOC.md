@@ -23,4 +23,4 @@ ht-degree: 0%
 + [Utveckla en instansstyrningsguide](/help/tutorial-inherited-instance/develop-an-instance-governance-guide.md)
 + [Kartlägg er marknadsföringsgrupp visuellt](/help/tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)
 + [Assurance-process för kvalitet före start av program](/help/tutorial-inherited-instance/essential-program-pre-launch-qa.md)
-+ [Marketo Engage självstudiekurser](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en)
++ [Marketo Engage självstudiekurser](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=sv-SE)
