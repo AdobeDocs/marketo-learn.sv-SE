@@ -8,11 +8,11 @@ doc-type: Tutorial
 last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-14103
 thumbnail: KT-14103.jpeg
-hide: false
+index: true
 exl-id: 4313b54a-1848-4684-b037-7a7795dd01ec
-source-git-commit: 681d390ce5ab336a7e24cc63256659a492288517
+source-git-commit: 66ace67a9f5e1df875a56124676842372c93589b
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: '959'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Detaljerad dokumentation och en [!DNL changelog] är avgörande för effektiv ha
 
 1. Utbilda interna användare enklare på ett skalbart sätt.
 2. Bygg mer effektivt i [!DNL Marketo Engage] på lång sikt.
-3. Behåll hälsa och hygien i instansen genom att gå framåt så att du slipper lägga timmar på att gräva i e-postmeddelanden, [granskningsspår](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html?lang=sv-SE) och [aktivitetsloggar](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html?lang=sv-SE) för att få kontext.
+3. Behåll hälsa och hygien i instansen genom att gå framåt så att du slipper lägga timmar på att gräva i e-postmeddelanden, [granskningsspår](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html) och [aktivitetsloggar](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html) för att få kontext.
 4. Spara tid när du överför [!DNL Marketo Engage]-kunskaper till en ny [!DNL Marketo Engage]-administratör om ditt team upplever någon omsättning.
 
 ## [!DNL Marketo Engage] styrningsguide 101
@@ -51,7 +51,7 @@ En styrningsguide fungerar som en källa till sanning för instansens konfigurat
 
 ### Steg 2: Identifiera de element som ska inkluderas i [!DNL Marketo Engage]-dokumentationen och [!DNL Changelogs]
 
-Formatet varierar från en molnbaserad plattform till ett delat dokument. Du kan utforma det format som passar din organisations behov. [Här är en enkel dokumentation och en Excel-mall för ändringsloggar](/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx) som innehåller viktiga element som du kan komma igång med. Bland dessa finns:
+Formatet varierar från en molnbaserad plattform till ett delat dokument. Du kan utforma det format som passar din organisations behov. [Här är en enkel dokumentation och Exchange-Excel-mall ](/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx) som beskriver de viktiga element som du kan komma igång med. Bland dessa finns:
 
 * Dokumentation
    * Programmallsnamn
@@ -105,7 +105,7 @@ Dela din dokumentation och [!DNL changelog] med relevanta teammedlemmar och lär
 
 **Periodisk granskning:** anger tid för att granska och underhålla dem under året för att inkludera nya ändringar, optimeringar eller justeringar när de inträffar.
 
-Genom att hålla omfattande och aktuell dokumentation för Marketo Engage sparar du tid och arbete på lång sikt och underlättar effektiv instanshantering.
+Genom att hålla omfattande och aktuell dokumentation för Marketo Engage-instansen sparar du tid och arbete på lång sikt och underlättar effektiv instanshantering.
 
 ### Författare
 

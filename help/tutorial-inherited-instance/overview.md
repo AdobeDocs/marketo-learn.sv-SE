@@ -8,11 +8,11 @@ doc-type: Tutorial
 last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13890
 thumbnail: KT-13890.jpeg
-hide: false
+index: true
 exl-id: e42b8fe8-1d9d-4cc1-8175-c47d911f96f3
-source-git-commit: 681d390ce5ab336a7e24cc63256659a492288517
+source-git-commit: 66ace67a9f5e1df875a56124676842372c93589b
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ ht-degree: 0%
 
 *Source: Adobe Marketo Champions*
 
-Om du ärver en live-Marketo Engage-instans som har hanterats av flera personer kanske du tycker att du har gjort mentala anteckningar av allt som verkar vara på fel plats. Det är viktigt att organisera rensnings- och optimeringsarbetet genom att kategorisera uppgifterna och sedan prioritera de uppgifter som går långt.
+Om du ärver en Marketo Engage-instans som har hanterats av flera personer kan du göra mentala anteckningar av allt som verkar vara på fel plats. Det är viktigt att organisera rensnings- och optimeringsarbetet genom att kategorisera uppgifterna och sedan prioritera de uppgifter som går långt.
 
-Den här självstudiekursen&quot;Inherited Instance Audit Tips and Tricks&quot;, som kommer från Adobe Marketo Champions, ger stegvis vägledning för nya administratörer. Självstudiekursen medföljer [granskningschecklistor](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html?lang=sv-SE) och mallar som du kan använda för att snabbt komma igång med en ärvd instans. Följ med i självstudiekurserna och få inspiration av andras lärande! 
+Den här självstudiekursen&quot;Inherited Instance Audit Tips and Tricks&quot;, som kommer från Adobe Marketo Champions, ger stegvis vägledning för nya administratörer. Självstudiekursen medföljer [granskningschecklistor](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html) och mallar som du kan använda för att snabbt komma igång med en ärvd instans. Följ med i självstudiekurserna och få inspiration av andras lärande! 
 
 ## Ämnen och vad du kommer att lära dig
 

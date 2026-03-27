@@ -2,15 +2,17 @@
 cloud: Experience Cloud
 solution: Marketo Engage
 product: marketo
+landing-page-name: marketo-engage
+landing-page-breadcrumb-title: Marketo Engage
 type: Tutorial
 doc-type: video
 feature-set: Marketo Engage
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/marketo-learn.sv-SE
+git-repo: https://github.com/AdobeDocs/marketo-learn.en
 index: true
-source-git-commit: 5a65ad7660a368a10e31b76ec81594304c304cc9
+source-git-commit: d486e3d7fc1b9aed1e447dd230bc8d65a2caeb50
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
@@ -18,6 +20,6 @@ ht-degree: 0%
 
 # Metadata för intern användning
 
-The [!DNL metadata].md-filen innehåller metadata på postnivå som skickas till användarhandboken [!DNL TOC.md] i svaret. Om du vill ändra metadata.md-innehåll för en användarhandbok gör du det i en TOC.md-fil.
+Filen [!DNL metadata].md innehåller metadata på postnivå som skickas till [!DNL TOC.md]-filer i svaret. Om du vill ändra metadata.md-innehåll för en användarhandbok gör du det i en TOC.md-fil.
 
-Se [Metadata](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=en) för en lista över giltiga värden för **lösning**, **produkt** och **type**.
+I [Metadata](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=en) finns en lista över giltiga värden för **solution**, **product** och **type**.
