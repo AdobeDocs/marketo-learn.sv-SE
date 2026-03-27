@@ -51,7 +51,7 @@ En styrningsguide fungerar som en källa till sanning för instansens konfigurat
 
 ### Steg 2: Identifiera de element som ska inkluderas i [!DNL Marketo Engage]-dokumentationen och [!DNL Changelogs]
 
-Formatet varierar från en molnbaserad plattform till ett delat dokument. Du kan utforma det format som passar din organisations behov. [Här är en enkel dokumentation och Exchange-Excel-mall ](/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx) som beskriver de viktiga element som du kan komma igång med. Bland dessa finns:
+Formatet varierar från en molnbaserad plattform till ett delat dokument. Du kan utforma det format som passar din organisations behov. [Här är en enkel dokumentation och Exchange-Excel-mall &#x200B;](/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx) som beskriver de viktiga element som du kan komma igång med. Bland dessa finns:
 
 * Dokumentation
    * Programmallsnamn
