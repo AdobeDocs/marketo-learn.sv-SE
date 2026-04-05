@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # [!DNL Marketo Engage] självstudier
 
-Bläddra i vårt självstudiebibliotek och få ut det mesta av [!DNL Marketo Engage]. De här självstudiekurserna kan komplettera [[!DNL Marketo] produktdokumentationen](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} och hjälpa dig att få en bättre förståelse för funktioner för automatiserad marknadsföring.
+Bläddra i vårt självstudiebibliotek och få ut det mesta av [!DNL Marketo Engage]. De här självstudiekurserna kan komplettera [[!DNL Marketo] produktdokumentationen](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=sv-SE){target="_blank"} och hjälpa dig att få en bättre förståelse för funktioner för automatiserad marknadsföring.
 
 <!-- 
 <div id="recs-overview-body-1"></div>
