@@ -1,0 +1,24 @@
+---
+title: Få åtkomst till instansen för försäljningsåtgärder
+description: Få åtkomst till instansen för försäljningsåtgärder
+role: User
+level: Beginner
+exl-id: 6851ed6e-216c-4f07-ab4c-18fde0a142fa
+feature: Sales Insight Actions
+source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+workflow-type: tm+mt
+source-wordcount: '51'
+ht-degree: 0%
+
+---
+
+# Få åtkomst till instansen för försäljningsåtgärder {#accessing-your-sales-insight-actions-instance}
+
+I den här videon visas en översikt över hur du får tillgång till ditt [!UICONTROL Sales Insight Actions]-konto för att skapa innehåll, konfigurera ditt konto, bjuda in nya användare och mycket mer.
+
+>[!VIDEO](https://video.tv.adobe.com/v/340925/?quality=12&learn=on){transcript=true}
+
+## Relaterade videoklipp
+
+* [Översikt över Säljannonsering](/help/main/sales-insight-actions/sales-insight-actions-overview.md){target="_blank"}
+* [Konfigurera loggning av försäljningsaktivitet till  [!DNL Salesforce]](/help/main/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md){target="_blank"}
