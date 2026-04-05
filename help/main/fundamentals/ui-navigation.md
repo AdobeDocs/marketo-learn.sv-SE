@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Lär dig navigera i användargränssnittet och bekanta dig med Marketo Engage.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419131/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450677/?captions=swe&learn=on){transcript=true}
 
 ## Ytterligare resurser
 

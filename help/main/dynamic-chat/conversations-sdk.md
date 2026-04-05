@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Konvertera alla CTA-klickningar, sidladdningar eller besökaråtgärder på webbsidan till en engagerande konversation med Conversations SDK. Här följer en steg-för-steg-guide som du kan implementera på din webbplats
 
->[!VIDEO](https://video.tv.adobe.com/v/3425034/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448866/?captions=swe&learn=on)

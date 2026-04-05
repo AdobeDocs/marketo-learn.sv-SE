@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Se nu trenderna för hur era webbbesökare engagerar sig i er dialog.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416921/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437704/?captions=swe&quality=12&learn=on){transcript=true}
 
 ## Fler praktiska videor
 

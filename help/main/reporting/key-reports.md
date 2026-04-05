@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Läs mer om de viktigaste rapporterna inom Marketo Engage och hur man får in dem.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420138/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432185/?captions=swe&learn=on){transcript=true}
 
 ## Ytterligare resurser
 

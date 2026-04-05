@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Lär dig dechiffrera sammankopplade och djupt inkapslade kampanjer för att få bättre synlighet i hela kundresan med hjälp av Engagement Map.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422235/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432423/?captions=swe&learn=on){transcript=true}

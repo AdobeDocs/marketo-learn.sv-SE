@@ -19,4 +19,4 @@ ht-degree: 4%
 
 Assets (t.ex. e-post, landningssidor etc.) är de komponenter som används i era marknadsföringskampanjer i Marketo Engage. Lär dig hur du använder dem.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470558/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470587/?captions=swe&learn=on&enablevpops)

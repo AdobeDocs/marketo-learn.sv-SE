@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Program är ett enda marknadsföringsinitiativ. Lär dig utnyttja dem för att nå ut till er målgrupp på flera olika sätt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470486/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470491/?captions=swe&learn=on&enablevpops)

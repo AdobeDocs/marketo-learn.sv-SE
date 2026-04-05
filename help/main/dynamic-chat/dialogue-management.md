@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Att utforma konversationer som är målinriktade och personaliserade är nyckeln till att skapa en fantastisk konversationsupplevelse för alla webbbesökare. Lär dig skapa och hantera en dialogruta.
 
->[!VIDEO](https://video.tv.adobe.com/v/340259/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443795/?captions=swe&quality=12&learn=on){transcript=true}
 
 ## Fler praktiska videor
 

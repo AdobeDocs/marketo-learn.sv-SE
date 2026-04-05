@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Läs om hur Engagement Map kan öka er kampanjhastighet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422232/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432426/?captions=swe&learn=on){transcript=true}

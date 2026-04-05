@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Upptäck hur ni kan effektivisera dupliceringshanteringen i Marketo Engage med API-integreringar med iPaaS-verktyg som Vertify och Workato.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429487/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441921/?captions=swe&learn=on&enablevpops)

@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Snabba upp prospekteringsarbetet med marknadsföringsstyrda verktyg för analys och engagemang i ett enda arbetsflöde med Sales Insight Actions.
 
->[!VIDEO](https://video.tv.adobe.com/v/340917/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447249/?captions=swe&quality=12&learn=on){transcript=true}
 
 ## Relaterade videoklipp
 

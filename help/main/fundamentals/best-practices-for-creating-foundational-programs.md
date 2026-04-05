@@ -20,7 +20,7 @@ ht-degree: 1%
 
 Förstå de fyra programtyperna, hur du importerar program, lead-/personpoängsprogram och definierar kanaltaggar. Läs mer om vanliga användningsområden och bästa praxis.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421275/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432342/?captions=swe&learn=on){transcript=true}
 
 ## Ytterligare resurser
 

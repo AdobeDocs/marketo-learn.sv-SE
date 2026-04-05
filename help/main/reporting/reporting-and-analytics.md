@@ -22,7 +22,7 @@ ht-degree: 7%
 
 Lär dig navigera i avsnittet Analytics (Analyser) och Database (Databaser) för att ta fram olika färdiga rapporter i Marketo Engage.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419295/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446424/?captions=swe&learn=on){transcript=true}
 
 ## Ytterligare resurser
 

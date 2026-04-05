@@ -16,7 +16,7 @@ ht-degree: 0%
 
 I den här videon visas en översikt över hur du får tillgång till ditt [!UICONTROL Sales Insight Actions]-konto för att skapa innehåll, konfigurera ditt konto, bjuda in nya användare och mycket mer.
 
->[!VIDEO](https://video.tv.adobe.com/v/340925/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3441587/?captions=swe&quality=12&learn=on){transcript=true}
 
 ## Relaterade videoklipp
 

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig hur du skapar och mäter framgångarna med dina standardprogram.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419623/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432193/?captions=swe&learn=on){transcript=true}

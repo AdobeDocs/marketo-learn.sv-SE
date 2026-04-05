@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig hur dubbletter kommer från olika källor, inklusive CRM-synkroniseringar, formulärfyllningar och import av data, och hur du minimerar dem.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441864/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443894/?captions=swe&learn=on&enablevpops)
