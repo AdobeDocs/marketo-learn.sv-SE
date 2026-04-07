@@ -9,26 +9,26 @@ duration: 772
 last-substantial-update: 2024-08-06T00:00:00Z
 jira: KT-15548
 exl-id: 4da86ed6-1072-4e0e-a648-16587badaeb3
-source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+source-git-commit: 9bffa576fc5a05c695f7a1c83d50cbcb16f57c37
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '219'
 ht-degree: 9%
 
 ---
 
 # API-hjälp - Ange åtkomsttoken i en variabel
 
-Lär dig hur du konfigurerar Postman-programmet och använder variabler för att spara data i variabeln i återanvändbarhetssyfte. Du får också lära dig hur du gör ditt första Marketo Engage REST API-anrop för att hämta åtkomsttoken.
+Lär dig hur du konfigurerar Postman-programmet och använder variabler för att spara data i variabeln i återanvändbarhetssyfte. Lär dig även hur du gör ditt första Marketo Engage REST API-anrop för att hämta åtkomsttoken.
 
 >[!PREREQUISITES]
 >
 >Innan du startar videon skapar du ett användarnamn för endast API med en AOI-roll och skapar en Launchpad-tjänst. Följ stegen i artiklarna nedan:
 >
->* [Skapa endast en API-användarroll](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user-role){target="_blank"}
+>* [Skapa endast en API-användarroll](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user-role){target="_blank"}
 >
->* [Skapa endast en API-användare](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user){target="_blank"}
+>* [Skapa endast en API-användare](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user){target="_blank"}
 >
->* [Skapa en anpassad tjänst för användning med REST API](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api){target="_blank"}
+>* [Skapa en anpassad tjänst för användning med REST API](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api){target="_blank"}
 
 **Referenser som används i den här videon:**
 
@@ -41,6 +41,6 @@ var jsonData = pm.response.json();
 pm.environment.set("access_token", jsonData.access_token);
 ```
 
-* [Dokumentation för Marketo Engage-utvecklare](https://experienceleague.adobe.com/sv/docs/marketo-developer/marketo/rest/authentication){target="_blank"}
+* [Dokumentation för Marketo Engage-utvecklare](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}
 
->[!VIDEO](https://video.tv.adobe.com/v/3453987/?captions=swe&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429275/?learn=on)
