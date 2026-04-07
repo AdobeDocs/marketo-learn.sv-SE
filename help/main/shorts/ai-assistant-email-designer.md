@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Använd AI Assistant i Marketo Engage Email Designer för att skapa aktuella, högpresterande och intuitiva e-postmeddelanden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483183/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483188/?captions=swe&learn=on&enablevpops)
