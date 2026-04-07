@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Lär dig hur du dynamiskt styr vilket innehåll som ska ses av vilken målgrupp.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481282/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481286/?captions=swe&learn=on&enablevpops)
