@@ -28,8 +28,8 @@ ht-degree: 2%
    + [Migrera till Adobe Identity Management](/help/main/fundamentals/migrating-to-adobe-identity-management.md)
    + [Bästa tillvägagångssätt för att organisera en ny instans](/help/main/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [Bästa tillvägagångssätt för att skapa grundläggande program](/help/main/fundamentals/best-practices-for-creating-foundational-programs.md)
-   + [Implementera en ny instans - självstudiekurs](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
-   + [Granska en ärvd instans - självstudiekurs](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)
+   + [Implementera en ny instans - självstudiekurs](https://experienceleague.adobe.com/sv/docs/experiences-by-you/implementing-new-instance/overview)
+   + [Granska en ärvd instans - självstudiekurs](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=sv-SE)
 + Program och kampanjer {#programs-and-campaigns}
    + [Förstå program](/help/main/programs/understanding-programs.md)
    + [Förstå program och kampanjer](/help/main/programs/understanding-programs-and-campaigns.md)
@@ -134,7 +134,7 @@ ht-degree: 2%
 + Rapportering och analys {#reporting}
    + [Viktiga rapporter](/help/main/reporting/key-reports.md)
 + Integreringar {#integrations}
-   + [Marketo med Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
+   + [Marketo med Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=sv-SE)
    + [API-hjälp - Ange åtkomsttoken i en variabel](/help/main/integrations/api-set-access-token-variable.md)
    + [Så här utlöser du en smart kampanj i Marketo Engage med REST API och tokens](/help/main/integrations/trigger-smart-campaign-rest-api.md)
 + Hantera dubbletter {#manage-duplicates}
